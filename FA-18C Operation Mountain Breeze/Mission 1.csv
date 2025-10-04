@@ -1,0 +1,359 @@
+﻿Field Type,ID,Field Name,Original Text,Translated Text
+DictKey_ActionText_,11,DictKey_ActionText_11,TULEEKO LAPI,TULEEKO LAPI
+DictKey_ActionText_,60,DictKey_ActionText_60,TUNE FREQUENCY 119.9 ON PRIMARY RADIO AND PRESS SPACEBAR WHEN READY,将主无线电调至119.9，准备好后按空格键。
+DictKey_ActionText_,70,DictKey_ActionText_70,,
+DictKey_ActionText_,100,DictKey_ActionText_100,"LISTEN AKROTIRI ATIS ON 125.00 WITH AUXILLARY RADIO. \
+\
+WHEN READY CONTINUE MONITORING TACTICAL FREQUENCY 305.0 WITH AUXILLARY RADIO.\
+\
+PRESS SPACEBAR TO REMOVE THIS MESSAGE","使用辅助无线电收听阿克罗蒂里情报通播（ATIS），频率125.00。\
+\
+完成后，将辅助无线电调回，继续监听战术频道，频率305.0。\
+\
+按空格键以移除此消息。"
+DictKey_ActionText_,101,DictKey_ActionText_101,,
+DictKey_ActionText_,126,DictKey_ActionText_126,"TUNE AKROTIRI APPROACH FREQUENCY 235.05 ON PRIMARY RADIO\
+\
+PRESS SPACEBAR WHEN READY","将主无线电调至阿克罗蒂里进近频率235.05。\
+\
+准备好后按空格键。"
+DictKey_ActionText_,127,DictKey_ActionText_127,,
+DictKey_ActionText_,157,DictKey_ActionText_157,,
+DictKey_ActionText_,158,DictKey_ActionText_158,PRESS SPACEBAR WHEN 13.7 MILE DME ARC ESTABLISHED,当13.7海里DME弧建立后按空格键。
+DictKey_ActionText_,159,DictKey_ActionText_159,,
+DictKey_ActionText_,161,DictKey_ActionText_161,,
+DictKey_ActionText_,187,DictKey_ActionText_187,PRESS SPACEBAR WHEN PASSING RADIAL 150,经过150径向时按空格键。
+DictKey_ActionText_,188,DictKey_ActionText_188,,
+DictKey_ActionText_,189,DictKey_ActionText_189,,
+DictKey_ActionText_,214,DictKey_ActionText_214,PRESS SPACEBAR WHEN FINAL APPROACH COURSE ESTABLISHED,建立最后进近航向后按空格键。
+DictKey_ActionText_,215,DictKey_ActionText_215,,
+DictKey_ActionText_,216,DictKey_ActionText_216,"TUNE AKROTIRI TOWER FREQUENCY 339.85 ON YOUR PRIMARY RADIO\
+\
+PRESS SPACEBAR WHEN READY","将主无线电调至阿克罗蒂里塔台频率339.85。\
+\
+准备好后按空格键。"
+DictKey_ActionText_,217,DictKey_ActionText_217,,
+DictKey_ActionText_,241,DictKey_ActionText_241,,
+DictKey_ActionText_,246,DictKey_ActionText_246,,
+DictKey_ActionText_,248,DictKey_ActionText_248,"TUNE AKROTIRI GROUND FREQUENCY 240.1 ON YOUR PRIMARY RADIO\
+\
+PRESS SPACEBAR WHEN RUNWAY VACATED","将主无线电调至阿克罗蒂里地面频率240.1。\
+\
+跑道清空后按空格键。"
+DictKey_ActionText_,255,DictKey_ActionText_255,,
+DictKey_ActionText_,256,DictKey_ActionText_256,,
+DictKey_ActionText_,261,DictKey_ActionText_261,IN CASE OF MISSED APPROACH REPORT TOWER BY PRESSING SPACEBAR,若决定复飞，按空格键向塔台报告。
+DictKey_ActionText_,262,DictKey_ActionText_262,,
+DictKey_ActionText_,267,DictKey_ActionText_267,,
+DictKey_ActionText_,268,DictKey_ActionText_268,,
+DictKey_ActionText_,271,DictKey_ActionText_271,"TUNE AKROTIRI APPROACH FREQUENCY 235.05 ON PRIMARY RADIO\
+\
+PRESS SPACEBAR WHEN READY","将主无线电调至阿克罗蒂里进近频率235.05。\
+\
+准备好后按空格键。"
+DictKey_ActionText_,272,DictKey_ActionText_272,,
+DictKey_ActionText_,279,DictKey_ActionText_279,,
+DictKey_ActionText_,280,DictKey_ActionText_280,PRESS SPACEBAR WHEN FINAL APPROACH COURSE ESTABLISHED,建立最后进近航向后按空格键。
+DictKey_ActionText_,281,DictKey_ActionText_281,,
+DictKey_ActionText_,282,DictKey_ActionText_282,,
+DictKey_ActionText_,287,DictKey_ActionText_287,"TUNE AKROTIRI TOWER FREQUENCY 339.85 ON PRIMARY RADIO\
+\
+PRESS SPACEBAR WHEN READY","将主无线电调至阿克罗蒂里塔台频率339.85。\
+\
+准备好后按空格键。"
+DictKey_ActionText_,288,DictKey_ActionText_288,"TUNE AKROTIRI TOWER FREQUENCY 339.85 ON PRIMARY RADIO\
+\
+PRESS SPACEBAR WHEN READY","将主无线电调至阿克罗蒂里塔台频率339.85。\
+\
+准备好后按空格键。"
+DictKey_ActionText_,289,DictKey_ActionText_289,,
+DictKey_ActionText_,290,DictKey_ActionText_290,IN CASE OF MISSED APPROACH REPORT TOWER BY PRESSING SPACEBAR,若决定复飞，按空格键向塔台报告。
+DictKey_ActionText_,292,DictKey_ActionText_292,TOO FAR FAILED,距离过远，任务失败。
+DictKey_ActionText_,293,DictKey_ActionText_293,,
+DictKey_ActionText_,294,DictKey_ActionText_294,FOLLOW RADIAL 253 FAIL,未能沿253径向线飞行。
+DictKey_ActionText_,295,DictKey_ActionText_295,,
+DictKey_ActionText_,296,DictKey_ActionText_296,STAY IN ARC FAIL,未能保持DME弧飞行。
+DictKey_ActionText_,297,DictKey_ActionText_297,,
+DictKey_ActionText_,298,DictKey_ActionText_298,,
+DictKey_ActionText_,299,DictKey_ActionText_299,,
+DictKey_ActionText_,300,DictKey_ActionText_300,STAY IN FC FAIL,未能保持最终进近航向。
+DictKey_ActionText_,301,DictKey_ActionText_301,,
+DictKey_ActionText_,302,DictKey_ActionText_302,,
+DictKey_ActionText_,303,DictKey_ActionText_303,GA STAY IN FC FAIL,复飞时未能保持最终进近航向。
+DictKey_ActionText_,304,DictKey_ActionText_304,,
+DictKey_ActionText_,305,DictKey_ActionText_305,ALTITUDE TOO LOW,高度过低。
+DictKey_ActionText_,306,DictKey_ActionText_306,ALTITUDE TOO HIGH,高度过高。
+DictKey_ActionText_,307,DictKey_ActionText_307,DESCEND IN ARC FAILED,未能在DME弧内完成下降。
+DictKey_ActionText_,308,DictKey_ActionText_308,DESCEND IN ARC FAILED,未能在DME弧内完成下降。
+DictKey_ActionText_,309,DictKey_ActionText_309,DESCEND IN ARC FAILED,未能在DME弧内完成下降。
+DictKey_ActionText_,310,DictKey_ActionText_310,DESCEND IN ARC FAILED,未能在DME弧内完成下降。
+DictKey_ActionText_,311,DictKey_ActionText_311,DESCEND IN ARC FAILED,未能在DME弧内完成下降。
+DictKey_ActionText_,312,DictKey_ActionText_312,,
+DictKey_ActionText_,313,DictKey_ActionText_313,TOO LOW IN ARC,在DME弧中高度过低。
+DictKey_ActionText_,314,DictKey_ActionText_314,TOO HIGH FC,在最终进近航向上高度过高。
+DictKey_ActionText_,315,DictKey_ActionText_315,"MISSION DEBRIEFING\
+\
+JUDGE: E.T. Welcome to Akrotiri Air Base. Exellent flying. Your formation flying was sufficient for Navy standards. Not best I have seen but enough. You followed ATC instructions as supposed and you flew approach procedure safely. Keep going like that. I'll see you at O club.","任务讲评\
+\
+JUDGE：E.T.，欢迎来到阿克罗蒂里空军基地。这次飞行很出色。你的编队水平达到了海军标准。虽然不是我见过的最佳表现，但已经足够了。你按空管的指示完成了安全的进场程序。继续保持，我们军官俱乐部见。"
+DictKey_ActionText_,317,DictKey_ActionText_317,"MISSION DEBRIEFING\
+\
+JUDGE: E.T. Wellcome to Akrotiri. You landed safely but your flying was not up to NAVY standards. You need to do better if you want to stay in squadron. You can't fly like that in combat missions.","任务讲评\
+\
+JUDGE：E.T.， 欢迎来到阿克罗蒂里。你安全着陆了，但你的飞行未达到海军标准。如果你想留在中队，需要表现得更好。在战斗任务中不能这样飞。"
+DictKey_ActionText_,319,DictKey_ActionText_319,- You drifted too far from your flight formation,- 你偏离编队太远。
+DictKey_ActionText_,320,DictKey_ActionText_320,- You failed to follow inbound AKR radial 253 while flying arrival procedure,- 在执行进场程序时，你没有沿阿克罗蒂里253径向线飞行。
+DictKey_ActionText_,321,DictKey_ActionText_321,- You descended too low during following inbound AKR radial 253,- 在沿阿克罗蒂里253径向线飞行时，你降的太低。
+DictKey_ActionText_,322,DictKey_ActionText_322,- You flew too high while following inbound AKR radial 253,- 在沿阿克罗蒂里253径向线飞行时，你飞得过高。
+DictKey_ActionText_,323,DictKey_ActionText_323,"- You failed to follow 13,7 mile DME arc while flying arrival procedure",- 在执行进场程序时，你没有保持13.7海里DME弧。
+DictKey_ActionText_,324,DictKey_ActionText_324,- You failed to descend to your designated altitude 2000 feet while flying arrival procedure,- 在执行进场程序时，你没有下降到指定的2000尺。
+DictKey_ActionText_,325,DictKey_ActionText_325,- You descended dangerously low while flying arrival procedure,- 在执行进场程序时，你的下降高度过低，存在危险。
+DictKey_ActionText_,326,DictKey_ActionText_326,- You failed to follow inbound AKR  radial 102 while flying TACAN approach procedure,- 在执行TACAN进近程序时，你未能沿阿克罗蒂里102径向线飞行。
+DictKey_ActionText_,327,DictKey_ActionText_327,- You were flying too high during approach procedure,- 在进近中，你飞得过高。
+DictKey_ActionText_,328,DictKey_ActionText_328,- You failed to follow inbound AKR radial 102 while flying TACAN approach after missed approach,- 在复飞后执行TACAN进近程序时，你未能沿阿克罗蒂里102径向线飞行。
+DictKey_ActionText_,329,DictKey_ActionText_329,TOO LOW FC,在最终进近航向上高度过低。
+DictKey_ActionText_,330,DictKey_ActionText_330,- You flew dangerously low at the begining of TACAN approach procedure,- 在TACAN进近程序开始时，你飞得过低，存在危险。
+DictKey_ActionText_,333,DictKey_ActionText_333,,
+DictKey_ActionText_,337,DictKey_ActionText_337,SPEED UNDER 300,速度低于300。
+DictKey_ActionText_,338,DictKey_ActionText_338,SPEED OVER 300,速度超过300。
+DictKey_ActionText_,339,DictKey_ActionText_339,- You flew too slow while flying arrival procedure,- 在执行进场程序时，你飞得过慢。
+DictKey_ActionText_,340,DictKey_ActionText_340,- You flew too fast while flying arrival procedure,- 在执行进场程序时，你飞得过快。
+DictKey_ActionText_,341,DictKey_ActionText_341,TOO FAST FC,在最终进近航向上速度过快。
+DictKey_ActionText_,342,DictKey_ActionText_342,- your failed to follow speed restriction during TACAN approach,- 在执行TACAN进近时，你未能遵守速度限制。
+DictKey_ActionText_,343,DictKey_ActionText_343,INSIDE RADIAL BOX,在径向框内。
+DictKey_ActionText_,344,DictKey_ActionText_344,HEADING 180 FAIL,航向180失败。
+DictKey_ActionText_,345,DictKey_ActionText_345,- You failed to fly heading 180 as directed by ATC,- 你没有按照空管的指示，飞航向180。
+DictKey_ActionText_,349,DictKey_ActionText_349,You have violated too many rules of aviation law by your actions. You have not followed ATC instructions or your flight leads instructions. After landing you will be sent back home on the first available transfer flight.,你违反了太多航空法规。你没有遵循空管的指示，也没有遵循编队长机的指令。着陆后，你将被安排乘坐最早的航班返回驻地。
+DictKey_ActionText_,399,DictKey_ActionText_399,YOU MAY NOW END THE MISSION,你现在可以结束任务。
+DictKey_ActionText_,400,DictKey_ActionText_400,YOU MAY NOW END THE MISSION,你现在可以结束任务。
+DictKey_ActionText_,401,DictKey_ActionText_401,,
+DictKey_descriptionBlueTask_,3,DictKey_descriptionBlueTask_3,,
+DictKey_descriptionNeutralsTask_,4,DictKey_descriptionNeutralsTask_4,,
+DictKey_descriptionRedTask_,2,DictKey_descriptionRedTask_2,,
+DictKey_descriptionText_,1,DictKey_descriptionText_1,"INTELLIGENCE OFFICER: Civil war in Syria sparked by the violent suppression of non-violent Arab Spring protests has lasted for over four years. Situation has escalated even further in recent months. The United States, Britain, and France have been supporting rebel forces by conducting airstrikes against terrorist organization ISIS for several years, while the Syrian army loyal to the government has been regaining control of areas previously held by the rebels. The Kremlin-supported Syrian army has increasingly targeted civilian targets, such as hospitals and residential areas. In addition, there is strong evidence of the use of chemical weapons against civilians. ISIS and Lebanon's Hezbollah forces are also operating in the area, pursuing their own interests.\
+\
+The United States continues to strike against ISIS forces, but the atrocities committed by the Syrian army force stronger action. The USS Theodore Roosevelt aircraft carrier has been tasked with establishing a no-fly zone over the rebel-controlled province of Idlib in Syria and surrounding provinces. The goal is to prevent all air and ground operations by the Syrian army and its supporters in the area. However, Russians increased air force activity in the area poses a serious risk of escalation. Meanwhile the political negotiations with the Kremlin have begun.\
+\
+The carrier strike group is heading to the Eastern Mediterranean and will arrive in the area tomorrow. Two Squadrons of Air Wing Three, VFA-113 Stingers and VFA-34 Blue Blasters are already on board the carrier. VFA-131 Wildcats and VFA-37 Raging Bulls will move from the United States to the operational area within the next two days.\
+\
+Squadrons will perform refueling and overnight stay at Ramstein Air Base in Germany. From Ramstein, squadrons will fly through the airspace of southern Europe to RAF air base Akrotiri in Cyprus. At Akrotiri flight crew will rest and refuel before moving to the carrier the next day after the carrier strike group arrives in the area.\
+\
+\
+Squadron briefing\
+\
+October 2, 2015. Ramstein Air Force Base, Germany\
+\
+JUDGE: Wildcats will fly from Ramstein to Akrotiri today. Flights LION 1 to 3. I will lead LION 1 flight. QUEEN, you lead LION 2. PINK, LION 3. We will take off from Ramstein at 0815 UTC. As planned, we will arrive at Akrotiri at 1200 UTC. At Akrotiri we will wait for Strike Group to arrive. Just normal transfer. Any questions?\
+\
+QUEEN: No Sir!\
+\
+PINK: No Sir!\
+\
+\
+Element Briefing\
+\
+JUDGE: Werewolf, Razor, and E.T., you will fly with me as LION 1. Aircrafts 401-404. The weather is good at time of departure. The planned altitude is 35,000 feet, and the cruising speed is 0.8 Mach. We will take off as flight of four in diamond formation. After passing 1000 feet join on my right wing for echelon formation. Air traffic control will treat us as one aircraft. I will handle communication with air traffic control. We will have full internal with three external fuel tanks and no weapons when leaving Ramstein. Antalya, Turkey, will be our alternate airfield. Bingo fuel for alternate is 6,000 pounds. \
+\
+IMC conditions are expected at time of arrival. Akrotiri's radar is under maintenance, so be prepared for procedure air traffic control. Note the temporary TACAN frequency 108X stated in the NOTAM. You will likely be vectored to the arrival procedure separately. After landing contact ground on given frequency and taxi to designated parking.\
+\
+E.T., this is your first cruise. Remember that even though the ferry flight may seem boring, southern European airspace is full of traffic, and you are expected to be precise. Give the Navy reason to be proud of your flying, even in a civilian environment.\
+\
+\
+Tips for the mission:\
+\
+•    The mission starts a few miles before the EVENO fix (waypoint 1) at 35000 feet.\
+•    Stay in formation until instructed otherwise.\
+•    Follow air traffic control's instructions closely regarding direction, altitude, and speed.\
+•    Fly arrival and approach procedures accurately.\
+•    You are supposed to know how to fly DME arc instrument arrival and TACAN approach procedures. \
+•    Park the aircraft in the designated area on the ramp as instructed by ground control.\
+\
+Music credits\
+Music: Spirit of The Dream - Inspiring Epic Music [FREE DOWNLOAD] by Keys of Moon Music\
+Source: https://soundcloud.com/keysofmoon/spirit-of-the-dream\
+License: http://creativecommons.org/licenses/by/3.0/\
+Get music free for a link from https://starfrosch.com\
+\
+Music: Flowing Energy - Inspiring Epic Music [FREE DOWNLOAD] by Keys of Moon Music Source: https://soundcloud.com/keysofmoon/flowing-energy-inspiring-epic-music-free-download \
+License: http://creativecommons.org/licenses/by/3.0/\
+Get music free for a link from https://starfrosch.com","情报官：因暴力镇压非暴力的阿拉伯之春抗议活动，叙利亚爆发了内战。这场战争已持续了超过四年。最近几个月，事态进一步升级。美国、英国和法国多年来一直通过空袭恐怖组织ISIS的方式支持反对派，而忠于政府的叙利亚军队则重新控制了先前由反对派占领的地区。克里姆林宫支持的叙利亚军队越来越多的袭击平民目标，如医院和居民区。此外，强有力的证据表明，他们对平民使用了化学武器。ISIS和黎巴嫩的真主党武装也在该地区活动，在这里，每个势力都追求各自的利益。\
+\
+美国会继续对ISIS进行打击，但叙利亚军队犯下的暴行迫使美军采取更强有力的行动。美国海军西奥多·罗斯福号航空母舰（USS Theodore Roosevelt）被指派，在叙利亚反对派控制的伊德利卜省及周边建立禁飞区，意图阻止叙利亚军队及其支持者在该地区的空中和地面行动。然而，俄罗斯在该地区增加了空军部署，使局势有了进一步恶化的风险。与此同时，与克里姆林宫的政治谈判也已经开始。\
+\
+航母打击群正前往东地中海，并将于明天抵达该地区。第三舰载机联队（CVW-3）的两个中队，VFA-113“毒刺”和VFA-34“蓝色爆破者”已经在航母上。VFA-131“野猫”和VFA-37“暴怒公牛”将在未来两天内从美国本土转移到作战区域。\
+\
+这两个中队会在德国的拉姆施泰因空军基地加油、过夜。从拉姆施泰因出发，这两个中队将飞越南欧空域，前往位于塞浦路斯的英国皇家空军阿克罗蒂里基地，并在那里休息一夜，加满油，等航母打击群抵达后，于第二天转移到航母上。\
+\
+中队简报\
+\
+2015年10月2日，德国拉姆施泰因空军基地\
+\
+JUDGE：野猫中队今天将从拉姆施泰因飞往阿克罗蒂里。呼号LION 1到3。我会带领LION 1小队。QUEEN，你带领LION 2。PINK，LION 3。我们将于0815 UTC从拉姆施泰因起飞。按照计划，我们将在1200 UTC抵达阿克罗蒂里。我们在那里等待航母打击群抵达。只是普通的转场。有问题吗？\
+\
+QUEEN：没有，长官！\
+\
+PINK：没有，长官！\
+\
+小队简报\
+\
+JUDGE：Werewolf、Razor和E.T.，你们将和我一起编入LION 1小队飞行。飞机编号401-404。出发时天气良好。计划高度为35,000英尺，巡航速度为0.8马赫。我们将以四机菱形编队起飞。到达1000英尺后加入我的右翼，形成梯队编队。空管将把我们视为一架飞机。我将负责与空管通信。离开拉姆施泰因时，我们会加满内油并挂上三个副油箱，不携带武器。我们的备降机场是土耳其的安塔利亚。备降油量6,000磅。\
+\
+预计我们到达时，会是仪表气象条件。阿克罗蒂里的雷达正在维护，因此要准备好程序性空中交通管制。注意NOTAM中提到的临时TACAN频率108X。你们可能会被分别引导到进场程序。着陆后联系地面，使用给定频率滑行到指定停机位。\
+\
+E.T.，这是你的第一次巡航。记住，虽然转场飞行看起来很无聊，但南欧空域交通繁忙，你需要保持精确飞行。即使在非作战环境，也要让海军为你的飞行感到自豪。\
+\
+任务提示：\
+\
+- 任务从距离EVENO定位点（航路点1）几海里处开始，海拔35,000英尺。\
+- 保持编队，直到另有指示。\
+- 严格遵循空中交通管制（ATC）关于方向、高度和速度的指示。\
+- 准确执行进场和进近程序。\
+- 你需要知道如何飞DME弧仪表进场程序和TACAN进近程序。\
+- 按地面管制的指示，将飞机停在指定的停机坪区域。\
+\
+音乐版权\
+音乐：Spirit of The Dream - Inspiring Epic Music [免费下载] by Keys of Moon Music\
+来源：https://soundcloud.com/keysofmoon/spirit-of-the-dream\
+许可证：http://creativecommons.org/licenses/by/3.0/\
+获取音乐免费链接：https://starfrosch.com\
+\
+音乐：Flowing Energy - Inspiring Epic Music [免费下载] by Keys of Moon Music\
+来源：https://soundcloud.com/keysofmoon/flowing-energy-inspiring-epic-music-free-download\
+许可证：http://creativecommons.org/licenses/by/3.0/\
+获取音乐免费链接：https://starfrosch.com"
+DictKey_sortie_,5,DictKey_sortie_5,Mission 1,任务1
+DictKey_subtitle_,6,DictKey_subtitle_6,<JUDGE> Four stay in close formation until separation for approach called by ATC,<JUDGE> 四机保持紧密编队，直到空管指示我们分开进近。
+DictKey_subtitle_,8,DictKey_subtitle_8,<NICOSIA RADAR> LION 1 your formation is too wide. Please tighten your formation,<尼科西亚雷达> LION 1，你们的编队过于松散。请收紧编队。
+DictKey_subtitle_,14,DictKey_subtitle_14,<E.T.> Four,<E.T.> 四号
+DictKey_subtitle_,16,DictKey_subtitle_16,<JUDGE> LION 1 roger,<JUDGE> LION 1 明白。
+DictKey_subtitle_,18,DictKey_subtitle_18,<JUDGE> Tighten formation now,<JUDGE> 现在收紧编队。
+DictKey_subtitle_,20,DictKey_subtitle_20,<E.T> Four,<E.T> 四号收到。
+DictKey_subtitle_,22,DictKey_subtitle_22,<RAZOR> Two,<RAZOR> 二号收到。
+DictKey_subtitle_,24,DictKey_subtitle_24,<WEREWOLF> Three,<WEREWOLF> 三号收到。
+DictKey_subtitle_,26,DictKey_subtitle_26,"<NICOSIA CONTROL> LION 1, your formation is too wide. Please tighten your formation",<尼科西亚管制> LION 1，你们的编队过于松散。请收紧编队。
+DictKey_subtitle_,28,DictKey_subtitle_28,<LION 1-1 (JUDGE)> LION 1 roger,<LION 1-1 (JUDGE)> LION 1 明白。
+DictKey_subtitle_,30,DictKey_subtitle_30,<LION 1-1 (JUDGE)> Four stay in close formation until separation for approach called by ATC,<LION 1-1 (JUDGE)> 四机保持紧密编队，直到空管指示我们分开进近。
+DictKey_subtitle_,32,DictKey_subtitle_32,<LION 1-1 (JUDGE)> Tighten formation now,<LION 1-1 (JUDGE)> 现在收紧编队。
+DictKey_subtitle_,34,DictKey_subtitle_34,<LION 1-2 (WEREWOLF)> Two,<LION 1-2 (WEREWOLF)> 二号收到。
+DictKey_subtitle_,36,DictKey_subtitle_36,<LION 1-3 (RAZOR)> Three,<LION 1-3 (RAZOR)> 三号收到。
+DictKey_subtitle_,38,DictKey_subtitle_38,<LION 1-4 (E.T.)> Four,<LION 1-4 (E.T.)> 四号收到。
+DictKey_subtitle_,40,DictKey_subtitle_40,<NICOSIA CONTROL> LION 1 descend flight level 150,<尼科西亚管制> LION 1 下降至FL 150。
+DictKey_subtitle_,42,DictKey_subtitle_42,"<LION 1-1 (JUDGE)> Descend to flight level 150, LION 1",<LION 1-1 (JUDGE)> 下降至FL 150，LION 1。
+DictKey_subtitle_,45,DictKey_subtitle_45,"<NICOSIA CONTROL> LION 1, contact PAFOS APPROACH on 119.9",<尼科西亚管制> LION 1，联系帕福斯进近，频率119.9。
+DictKey_subtitle_,47,DictKey_subtitle_47,"<JUDGE> 119.9, LION 1. Flight go!",<JUDGE> 119.9，LION 1。小队，切频率！
+DictKey_subtitle_,49,DictKey_subtitle_49,<LION 1-2 (WEREWOLF)> Two,<LION 1-2 (WEREWOLF)> 二号收到。
+DictKey_subtitle_,54,DictKey_subtitle_54,<LION 1-3 (RAZOR)> Three,<LION 1-3 (RAZOR)> 三号收到。
+DictKey_subtitle_,56,DictKey_subtitle_56,<LION 1-4 (E.T.)> Four,<LION 1-4 (E.T.)> 四号收到。
+DictKey_subtitle_,58,DictKey_subtitle_58,<JUDGE> LIONS check,<JUDGE> LIONS 检查。
+DictKey_subtitle_,61,DictKey_subtitle_61,<LION 1-1 (JUDGE)> LIONS check,<LION 1-1 (JUDGE)> LIONS 检查。
+DictKey_subtitle_,64,DictKey_subtitle_64,<LION 1-2 (WEREWOLF)> Two,<LION 1-2 (WEREWOLF)> 二号收到。
+DictKey_subtitle_,66,DictKey_subtitle_66,<LION 1-3 (RAZOR)> Three,<LION 1-3 (RAZOR)> 三号收到。
+DictKey_subtitle_,68,DictKey_subtitle_68,<LION 1-4 (E.T.)> Four,<LION 1-4 (E.T.)> 四号收到。
+DictKey_subtitle_,71,DictKey_subtitle_71,"<LION 1-1 (JUDGE)> PAFOS APPROACH, LION 1, F-18 four ship flight, inbound TOBAL, descending to flight level 150",<LION 1-1 (JUDGE)> 帕福斯进近，LION 1，F-18四机编队，飞往TOBAL，下降至FL 150。
+DictKey_subtitle_,73,DictKey_subtitle_73,"<PAFOS APPROACH> LION 1, PAFOS APPROACH, radar contact. You will be vectored for approach separately. Expect Akrotiri MEZUS ALPHA ARRIVAL for TACAN approach runway 28. Temporary AKR TACAN frequency 108X",<帕福斯进近> LION 1，帕福斯进近，雷达识别了。你们会被分别引导进近。预计使用阿克罗蒂里MEZUS ALPHA进场程序，TACAN进近，28号跑道。临时AKR TACAN频率108X。
+DictKey_subtitle_,75,DictKey_subtitle_75,<LION 1-1 (JUDGE)> MEZUS ALPHA ARRIVAL for TACAN approach runway 28. Temporary frequency 108X,<LION 1-1 (JUDGE)> MEZUS ALPHA进场程序，TACAN进近，28号跑道。临时频道108X。
+DictKey_subtitle_,77,DictKey_subtitle_77,"<PAFOS APPROACH> LION 1-4 turn right heading 180, descend to flight level 100",<帕福斯进近> LION 1-4 右转航向180，下降至FL 100。
+DictKey_subtitle_,79,DictKey_subtitle_79,"<LION 1-4 (E.T.)> Right heading 180, descend to 100, LION 1-4",<LION 1-4 (E.T.)> 右转航向180，下降至100，LION 1-4。
+DictKey_subtitle_,81,DictKey_subtitle_81,"<PAFOS APPROACH> LION 1-3 turn right heading 170, descend to flight level 100",<帕福斯进近> LION 1-3 右转航向170，下降至FL 100。
+DictKey_subtitle_,84,DictKey_subtitle_84,"<LION 1-3 (RAZOR)> Right heading 170, descend to 100, LION 1-3",<LION 1-3 (RAZOR)> 右转航向170，下降至100，LION 1-3。
+DictKey_subtitle_,87,DictKey_subtitle_87,"<PAFOS APPROACH> LION 1-2 turn right heading 160, descend to flight level 100",<帕福斯进近> LION 1-2 右转航向160，下降至FL 100。
+DictKey_subtitle_,90,DictKey_subtitle_90,"<LION 1-2 (WEREWOLF)> Right heading 160, descend to 100, LION 1-2",<LION 1-2 (WEREWOLF)> 右转航向160，下降至100，LION 1-2。
+DictKey_subtitle_,93,DictKey_subtitle_93,"<PAFOS APPROACH> LION 1-1 turn right heading 150, descend to flight level 100",<帕福斯进近> LION 1-1 右转航向150，下降至FL 100。
+DictKey_subtitle_,97,DictKey_subtitle_97,"<LION 1-1 (JUDGE)> Right heading 150, descend to 100, LION 1-1",<LION 1-1 (JUDGE)> 右转航向150，下降至100，LION 1-1。
+DictKey_subtitle_,102,DictKey_subtitle_102,,
+DictKey_subtitle_,104,DictKey_subtitle_104,,
+DictKey_subtitle_,106,DictKey_subtitle_106,"<PAFOS APPROACH> LION 1-4 join inbound AKR radial 253, cleared MEZUS ALPHA ARRIVAL for runway 28. Contact AKROTIRI APPROACH on 235.05",<帕福斯进近> LION 1-4，飞AKR径向253，获准使用28号跑道的MEZUS ALPHA进场程序。联系阿克罗蒂里进近，频率235.05。
+DictKey_subtitle_,108,DictKey_subtitle_108,"<PAFOS APPROACH> LION 1-1 join inbound AKR radial 253, cleared MEZUS ALPHA ARRIVAL for runway 28. Contact AKROTIRI APPROACH on 235.05",<帕福斯进近> LION 1-1 飞AKR径向253，获准使用28号跑道的MEZUS ALPHA进场程序。联系阿克罗蒂里进近，频率235.05。
+DictKey_subtitle_,110,DictKey_subtitle_110,"<PAFOS APPROACH> LION 1-2 join inbound AKR radial 253, cleared MEZUS ALPHA ARRIVAL for runway 28. Contact AKROTIRI APPROACH on 235.05",<帕福斯进近> LION 1-2 飞AKR径向253，获准使用28号跑道的MEZUS ALPHA进场程序。联系阿克罗蒂里进近，频率235.05。
+DictKey_subtitle_,112,DictKey_subtitle_112,"<PAFOS APPROACH> LION 1-3 join inbound AKR radial 253, cleared MEZUS ALPHA ARRIVAL for runway 28. Contact AKROTIRI APPROACH on 235.05",<帕福斯进近> LION 1-3 飞AKR径向253，获准使用28号跑道的MEZUS ALPHA进场程序。联系阿克罗蒂里进近，频率235.05。
+DictKey_subtitle_,114,DictKey_subtitle_114,"<LION 1-1 (JUDGE)> AKR radial 253, MEZUS ALPHA ARRIVAL for runway 28. AKROTIRI APPROACH on 235.05. LION 1-1",<LION 1-1 (JUDGE)> AKR径向253，28跑道，MEZUS ALPHA程序。阿克罗蒂里进近，频率235.05。LION 1-1。
+DictKey_subtitle_,116,DictKey_subtitle_116,<LION 1-2 (WEREWOLF)> Join AKR radial 253 for MEZUS ALPHA ARRIVAL. Runway 28. AKROTIRI APPROACH on 235.05. LION 1-2,<LION 1-2 (WEREWOLF)> 加入AKR径向253，28跑道，MEZUS ALPHA进场程序。阿克罗蒂里进近，频率235.05。LION 1-2。
+DictKey_subtitle_,119,DictKey_subtitle_119,"<LION 1-3 (RAZOR)> Inbound AKR radial 253, MEZUS ALPHA ARRIVAL, runway 28. Contact AKROTIRI APPROACH on 235.05. LION 1-3",<LION 1-3 (RAZOR)> 飞AKR径向253，28跑道，MEZUS ALPHA进场程序。联系阿克罗蒂里进近，频率235.05。LION 1-3。
+DictKey_subtitle_,121,DictKey_subtitle_121,"<LION 1-3 (RAZOR)> Inbound AKR radial 253, MEZUS ALPHA ARRIVAL, runway 28. Contact AKROTIRI APPROACH on 235.05. LION 1-3",<LION 1-3 (RAZOR)> 沿AKR径向253，28号跑道，MEZUS ALPHA进场程序。联系阿克罗蒂里进近，频率235.05。LION 1-3。
+DictKey_subtitle_,123,DictKey_subtitle_123,"<LION 1-4 (E.T.)> AKR radial 253, MEZUS ALPHA ARRIVAL for runway 28. AKROTIRI APPROACH on 235.05. LION 1-4",<LION 1-4 (E.T.)> AKR径向253，28号跑道，MEZUS ALPHA进场程序。阿克罗蒂里进近，频率235.05。LION 1-4。
+DictKey_subtitle_,128,DictKey_subtitle_128,"<LION 1-4 (E.T.)> AKROTIRI APPROACH, LION 1-4 with FOXTROT, QNH 2992, MEZUS ALPHA ARRIVAL",<LION 1-4 (E.T.)> 阿克罗蒂里进近，LION 1-4，持FOXTROT信息进场，QNH 2992，MEZUS ALPHA进场程序。
+DictKey_subtitle_,130,DictKey_subtitle_130,"<AKROTIRI APPROACH> LION 1-4, AKROTIRI APPROACH, speed 300 knots, report 13,7 mile DME arc established",<阿克罗蒂里进近> LION 1-4，阿克罗蒂里进近，速度300节，13.7海里DME弧建立后报告。
+DictKey_subtitle_,132,DictKey_subtitle_132,"<LION 1-4 (E.T.)> Speed 300, wilco, LION 1-4",<LION 1-4 (E.T.)> 速度300，收到，LION 1-4。
+DictKey_subtitle_,136,DictKey_subtitle_136,<LION 1-4 (E.T.)> LION 1-4 DME arc established,<LION 1-4 (E.T.)> LION 1-4，DME弧建立。
+DictKey_subtitle_,138,DictKey_subtitle_138,<LION 1-2 (WEREWOLF)> LION 1-2 DME arc established,<LION 1-2 (WEREWOLF)> LION 1-2，DME弧建立。
+DictKey_subtitle_,140,DictKey_subtitle_140,<LION 1-3 (RAZOR)> LION 1-3 DME arc established,<LION 1-3 (RAZOR)> LION 1-3，DME弧建立。
+DictKey_subtitle_,142,DictKey_subtitle_142,"<AKROTIRI APPROACH> LION 1-2 descend to 2000 feet QNH 2992, report passing 150 radial",<阿克罗蒂里进近> LION 1-2 下降至2000英尺，QNH 2992，通过150径向报。
+DictKey_subtitle_,144,DictKey_subtitle_144,"<AKROTIRI APPROACH> LION 1-3 descend to 2000 feet QNH 2992, report passing 150 radial",<阿克罗蒂里进近> LION 1-3 下降至2000英尺，QNH 2992，通过150径向报。
+DictKey_subtitle_,146,DictKey_subtitle_146,"<AKROTIRI APPROACH> LION 1-4 descend to 2000 feet QNH 2992, report passing 150 radial",<阿克罗蒂里进近> LION 1-4 下降至2000英尺，QNH 2992，通过150径向报。
+DictKey_subtitle_,148,DictKey_subtitle_148,"<LION 1-2 (WEREWOLF)> 2000 feet QNH 2992, LION 1-2",<LION 1-2 (WEREWOLF)> 2000英尺，QNH 2992，LION 1-2。
+DictKey_subtitle_,151,DictKey_subtitle_151,"<LION 1-4 (E.T.)> Descend to 2000 feet, QNH 2992, wilco, LION 1-4",<LION 1-4 (E.T.)> 下降至2000英尺，QNH 2992，收到，LION 1-4。
+DictKey_subtitle_,155,DictKey_subtitle_155,"<LION 1-3 (RAZOR)> Descend to 2000, QNH 2992, wilco, LION 1-3",<LION 1-3 (RAZOR)> 下降至2000英尺，QNH 2992，收到，LION 1-3。
+DictKey_subtitle_,162,DictKey_subtitle_162,<LION 1-3 (RAZOR)> LION 1-3 at radial 150,<LION 1-3 (RAZOR)> LION 1-3 到达150径向。
+DictKey_subtitle_,165,DictKey_subtitle_165,<LION 1-1 (JUDGE)> LION 1-1 passing radial 150,<LION 1-1 (JUDGE)> LION 1-1 通过150径向。
+DictKey_subtitle_,167,DictKey_subtitle_167,<LION 1-2 (WEREWOLF)> LION 1-2 radial 150,<LION 1-2 (WEREWOLF)> LION 1-2 到达150径向。
+DictKey_subtitle_,169,DictKey_subtitle_169,<LION 1-4 (E.T.)> LION 1-4 radial 150,<LION 1-4 (E.T.)> LION 1-4 到达150径向。
+DictKey_subtitle_,171,DictKey_subtitle_171,<AKROTIRI APPROACH> LION 1-4 cleared for TACAN approach runway 28. Reduce speed to 210 knots or less. Report final approach course established.,<阿克罗蒂里进近> LION 1-4 获准TACAN进近，28号跑道。减速至210节以下。五边报。
+DictKey_subtitle_,173,DictKey_subtitle_173,<AKROTIRI APPROACH> LION 1-1 cleared for TACAN approach runway 28. Maintain 230 knots or more until 7 miles. Report final approach course established.,<阿克罗蒂里进近> LION 1-1 获准TACAN进近，28号跑道。保持230节以上，直到7海里。五边报。
+DictKey_subtitle_,175,DictKey_subtitle_175,<AKROTIRI APPROACH> LION 1-2 cleared for TACAN approach runway 28. Maintain 220 knots until 7 miles. Report final approach course established.,<阿克罗蒂里进近> LION 1-2 获准TACAN进近，28号跑道。保持220节直到7海里。五边报。
+DictKey_subtitle_,177,DictKey_subtitle_177,<AKROTIRI APPROACH> LION 1-3 cleared for TACAN approach runway 28. Maintain 210 knots until 7 miles. Report final approach course established.,<阿克罗蒂里进近> LION 1-3 获准TACAN进近，28号跑道。保持210节直到7海里。五边报。
+DictKey_subtitle_,179,DictKey_subtitle_179,"<LION 1-4 (E.T.)> Cleared approach runway 28, speed 210 knots or less, wilco, LION 1-4",<LION 1-4 (E.T.)> 获准进场28号跑道，速度210节或以下，收到，LION 1-4。
+DictKey_subtitle_,181,DictKey_subtitle_181,"<LION 1-1 (JUDGE)> Cleared TACAN approach runway 28, speed 230 or more until 7 miles, wilco, LION 1-1",<LION 1-1 (JUDGE)> TACAN进近，28号跑道，230节以上到7海里，收到，LION 1-1。
+DictKey_subtitle_,183,DictKey_subtitle_183,"<LION 1-2 (WEREWULF)> Cleared TACAN approach runway 28, speed 220 knots until 7 miles, wilco, LION 1-2",<LION 1-2 (WEREWOLF)> TACAN进近，28号跑道，220节到7海里，收到，LION 1-2。
+DictKey_subtitle_,185,DictKey_subtitle_185,"<LION 1-3 (RAZOR)> Cleared TACAN approach runway 28, speed 210 knots until 7 miles, wilco, LION 1-3",<LION 1-3 (RAZOR)> TACAN进近，28号跑道，210节到7海里，收到，LION 1-3。
+DictKey_subtitle_,190,DictKey_subtitle_190,<LION 1-4 (E.T.)> LION 1-4 final approach course,<LION 1-4 (E.T.)> LION 1-4 建立五边航向。
+DictKey_subtitle_,192,DictKey_subtitle_192,"<LION 1-1 (JUDGE)> LION 1-1, final approach course established",<LION 1-1 (JUDGE)> LION 1-1 建立五边航向。
+DictKey_subtitle_,194,DictKey_subtitle_194,<LION 1-2 (WEREWOLF)> LION 1-2 on final approach course,<LION 1-2 (WEREWOLF)> LION 1-2 建立五边航向。
+DictKey_subtitle_,196,DictKey_subtitle_196,<LION 1-3 (RAZOR)> LION 1-3 final approach course,<LION 1-3 (RAZOR)> LION 1-3 建立五边航向。
+DictKey_subtitle_,198,DictKey_subtitle_198,<AKROTIRI APPROACH> LION 1-4 contact TOWER on 339.85,<阿克罗蒂里进近> LION 1-4 联系塔台，频率339.85。
+DictKey_subtitle_,200,DictKey_subtitle_200,<AKROTIRI APPROACH> LION 1-1 contact TOWER on 339.85,<阿克罗蒂里进近> LION 1-1 联系塔台，频率339.85。
+DictKey_subtitle_,202,DictKey_subtitle_202,<AKROTIRI APPROACH> LION 1-2 contact TOWER on 339.85,<阿克罗蒂里进近> LION 1-2 联系塔台，频率339.85。
+DictKey_subtitle_,204,DictKey_subtitle_204,<AKROTIRI APPROACH> LION 1-3 contact TOWER on 339.85,<阿克罗蒂里进近> LION 1-3 联系塔台，频率339.85。
+DictKey_subtitle_,206,DictKey_subtitle_206,<LION 1-4 (E.T.)> Contact TOWER on 339.85 LION 1-4,<LION 1-4 (E.T.)> 联系塔台，频率339.85，LION 1-4。
+DictKey_subtitle_,208,DictKey_subtitle_208,"<LION 1-1 (JUDGE)> TOWER on 339.85, LION 1-1",<LION 1-1 (JUDGE)> 塔台，频率339.85，LION 1-1。
+DictKey_subtitle_,210,DictKey_subtitle_210,<LION 1-2 (WEREWOLF)> 339.85 LION 1-2,<LION 1-2 (WEREWOLF)> 频率339.85，LION 1-2。
+DictKey_subtitle_,212,DictKey_subtitle_212,<LION 1-3 (RAZOR)> Contact TOWER on 339.85 LION 1-3,<LION 1-3 (RAZOR)> 联系塔台，频率339.85，LION 1-3。
+DictKey_subtitle_,218,DictKey_subtitle_218,<AKROTIRI TOWER> LION 1-2 contact GROUND on 240.1,<阿克罗蒂里塔台> LION 1-2 联系地面，频率240.1。
+DictKey_subtitle_,220,DictKey_subtitle_220,<AKROTIRI TOWER> LION 1-3 contact GROUND on 240.1,<阿克罗蒂里塔台> LION 1-3 联系地面，频率240.1。
+DictKey_subtitle_,222,DictKey_subtitle_222,<AKROTIRI TOWER> LION 1-4 contact GROUND on 240.1,<阿克罗蒂里塔台> LION 1-4 联系地面，频率240.1。
+DictKey_subtitle_,224,DictKey_subtitle_224,"<LION 1-4 (E.T.)> GROUND on 240.1, LION 1-4",<LION 1-4 (E.T.)> 地面，频率240.1，LION 1-4。
+DictKey_subtitle_,227,DictKey_subtitle_227,"<LION 1-2 (WEREWOLF)> GROUND on 240.1, LION 1-2",<LION 1-2 (WEREWOLF)> 地面，频率240.1，LION 1-2。
+DictKey_subtitle_,229,DictKey_subtitle_229,"<LION 1-3 (RAZOR)> Contact GROUND on 240.1, LION 1-3",<LION 1-3 (RAZOR)> 联系地面，频率240.1，LION 1-3。
+DictKey_subtitle_,231,DictKey_subtitle_231,"<LION 1-4 (E.T.)> AKROTIRI TOWER, LION 1-4 final runway 28.",<LION 1-4 (E.T.)> 阿克罗蒂里塔台，LION 1-4，28号跑道，进入五边。
+DictKey_subtitle_,233,DictKey_subtitle_233,"<AKROTIRI TOWER> LION 1-4 continue approach, number two, number one on short final.",<阿克罗蒂里塔台> LION 1-4 继续进场，你是二号，一号在近五边位置。
+DictKey_subtitle_,235,DictKey_subtitle_235,"<LION 1-4 (E.T.)> Continue approach, number two, LION 1-4",<LION 1-4 (E.T.)> 继续进场，编号二，LION 1-4。
+DictKey_subtitle_,237,DictKey_subtitle_237,"<AKROTIRI TOWER> LION 1-4, AKROTIRI TOWER, cleared to land runway 28",<阿克罗蒂里塔台> LION 1-4，阿克罗蒂里塔台，可以降落28号跑道。
+DictKey_subtitle_,239,DictKey_subtitle_239,"<LION 1-4 (E.T.)> Cleared to land runway 28, LION 1-4",<LION 1-4 (E.T.)> 可以降落28号跑道，LION 1-4。
+DictKey_subtitle_,242,DictKey_subtitle_242,"<AKROTIRI TOWER> RAFAIR 6734, AKROTIRI TOWER, continue approach, number two, number 1 on short final.",<阿克罗蒂里塔台> RAFAIR 6734，阿克罗蒂里塔台，继续进场，你是二号，一号在近五边位置。
+DictKey_subtitle_,244,DictKey_subtitle_244,"<RAFAIR 6734> Continue approach, number 2, RAFAIR 6734",<RAFAIR 6734> 继续进场，二号，RAFAIR 6734。
+DictKey_subtitle_,249,DictKey_subtitle_249,"<LION 1-4 (E.T)> AKROTIRI GROUND, LION 1-4 vacated runway 28",<LION 1-4 (E.T)> 阿克罗蒂里地面，LION 1-4 已离开28号跑道。
+DictKey_subtitle_,251,DictKey_subtitle_251,<AKROTIRI GROUND> LION 1-4 taxi via YANKEE to ALPHA DISPERSAL stand 4,<阿克罗蒂里地面> LION 1-4 滑行通过YANKEE，到ALPHA区4号机位。
+DictKey_subtitle_,253,DictKey_subtitle_253,"<LION 1-4 (E.T)> Via YANKEE to ALPHA DISPERSAL, stand 4, LION 1-4",<LION 1-4 (E.T)> 通过YANKEE到ALPHA区，4号机位，LION 1-4。
+DictKey_subtitle_,257,DictKey_subtitle_257,<RAFAIR 6734> Akrotiri Ground RAFAIR 6734 at Y 1 \,<RAFAIR 6734> 阿克罗蒂里地面，RAFAIR 6734 在Y 1。
+DictKey_subtitle_,263,DictKey_subtitle_263,<LION 1-4 (E.T.)> LION 1-4 going around,<LION 1-4 (E.T.)> LION 1-4 复飞。
+DictKey_subtitle_,265,DictKey_subtitle_265,<AKROTIRI TOWER> LION 1-4 fly published procedure. Contact APPROACH on 235.05,<阿克罗蒂里塔台> LION 1-4 按公布程序飞行。联系进近，频率235.05。
+DictKey_subtitle_,269,DictKey_subtitle_269,"<LION 1-4 (E.T.)> Published procedure, 235.05, LION 1-4",<LION 1-4 (E.T.)> 按公布程序，频率235.05，LION 1-4。
+DictKey_subtitle_,273,DictKey_subtitle_273,"<LION 1-4 (E.T.)> AKROTIRI APPROACH, LION 1-4 missed approach. 2000 feet, heading 222.",<LION 1-4 (E.T.)> 阿克罗蒂里进近，LION 1-4 复飞。2000英尺，航向222。
+DictKey_subtitle_,275,DictKey_subtitle_275,"<AKROTIRI APPROACH> LION 1-4, AKROTIRI APPROACH roger. Follow AKR 13,7 DME arc for TACAN approach runway 28. Report final approach course established",<阿克罗蒂里进近> LION 1-4，阿克罗蒂里进近收到。沿AKR 13.7 DME弧，TACAN进场，28号跑道。进五边航向后报。
+DictKey_subtitle_,277,DictKey_subtitle_277,"<LION 1-4 (E.T.)> 13,7 DME for TACAN approach runway 28. Wilco. LION 1-4",<LION 1-4 (E.T.)> 13.7 DME，TACAN进场，28跑道。收到。LION 1-4。
+DictKey_subtitle_,283,DictKey_subtitle_283,<AKROTIRI APPROACH> LION 1-4 cleared for TACAN approach runway 28. Contact TOWER on 339.85,<阿克罗蒂里进近> LION 1-4 获准TACAN进场，28号跑道。联系塔台，频率339.85。
+DictKey_subtitle_,285,DictKey_subtitle_285,<LION 1-4 (E.T.)> Cleared TACAN approach runway 28. TOWER on 339.85. LION 1-4,<LION 1-4 (E.T.)> 获准TACAN进场，28跑道。塔台频率339.85。LION 1-4。
+DictKey_subtitle_,346,DictKey_subtitle_346,<LION 1-1 (JUDGE)> FOUR you are not flying according to ATC instructions! Get your ass on the ground and we will discuss this!,<LION 1-1 (JUDGE)> 四号，你没有按照空管指令飞行！立即着陆，我们会和你好好谈谈！
+DictKey_subtitle_,351,DictKey_subtitle_351,"<AKROTIRI GROUND> RAFAIR 6734, ground, taxi via Y to stand 1\",<阿克罗蒂里地面> RAFAIR 6734，地面，通过Y，滑行到1号机位。
+DictKey_subtitle_,353,DictKey_subtitle_353,"<RAFAIR 6734> Via Y to stand 1, RAFAIR 6734\",<RAFAIR 6734> 通过Y到1号机位，RAFAIR 6734。
+DictKey_subtitle_,355,DictKey_subtitle_355,"<RAFAIR 6734> AKROTIRI TOWER, RAFAIR 6734 10 mile final runway 28",<RAFAIR 6734> 阿克罗蒂里塔台，RAFAIR 6734，进入五边，距28跑道10海里。
+DictKey_subtitle_,357,DictKey_subtitle_357,<NICOSIA CONTROL> EGEAN 909 climb to flight level 360,<尼科西亚管制> EGEAN 909 爬升至FL 360。
+DictKey_subtitle_,359,DictKey_subtitle_359,"<EGEAN 909> Climb flight level 360, EGEAN 909",<EGEAN 909> 爬升至FL 360，EGEAN 909。
+DictKey_subtitle_,361,DictKey_subtitle_361,"<UNITED 954> NICOSIA CONTROL, UNITED 954 inbound PIROX flight level 370",<UNITED 954> 尼科西亚管制，UNITED 954，飞往PIROX，FL 370。
+DictKey_subtitle_,363,DictKey_subtitle_363,<NICOSIA CONTROL> UNITED 954 NICOSIA CONTROL radar contact,<尼科西亚管制> UNITED 954 尼科西亚管制，雷达已识别。
+DictKey_subtitle_,365,DictKey_subtitle_365,<UNITED 954> UNITED 954,<UNITED 954> UNITED 954。
+DictKey_subtitle_,367,DictKey_subtitle_367,<NICOSIA CONTROL> EUROTRANS 961 CONTACT ANKARA CONTROL on 125.95,<尼科西亚管制> EUROTRANS 961 联系安卡拉管制，频率125.95。
+DictKey_subtitle_,369,DictKey_subtitle_369,"<EUROTRANS 961> 125.95, Have a nice day, EUROTRANS 961",<EUROTRANS 961> 125.95，飞行愉快，EUROTRANS 961。
+DictKey_subtitle_,371,DictKey_subtitle_371,"<NICOSIA CONTROL> EL AL 5131 descend to flight level 100, cleared EMEDA 1 ALPHA arrival runway 22. Contact LARNACA APPROACH on 121.2",<尼科西亚管制> EL AL 5131 下降至FL 100，获准22号跑道，EMEDA 1 ALPHA进场。联系拉纳卡进近，频率121.2。
+DictKey_subtitle_,373,DictKey_subtitle_373,"<EL AL 5131> Descend flight level 100, EMEDA 1 ALPHA arrival for runway 22, APPROACH on 121.2, EL AL 5131",<EL AL 5131> 下降至FL 100，22跑道，EMEDA 1 ALPHA程序，进近频率121.2，EL AL 5131。
+DictKey_subtitle_,375,DictKey_subtitle_375,"<WIZZAIR 9644> NICOSIA CONTROL WIZZAIR 9644 inbound SUVAS. Climbing, passing flight level 220",<WIZZAIR 9644> 尼科西亚管制，WIZZAIR 9644，飞往SUVAS。正在爬升，通过FL 220。
+DictKey_subtitle_,377,DictKey_subtitle_377,"<NICOSIA CONTROL> WIZZAIR 9644, NICOSIA CONTROL, radar contact. Continue climb to flight level 360",<尼科西亚管制> WIZZAIR 9644，尼科西亚管制，雷达已联系。继续爬升至飞行高度360。
+DictKey_subtitle_,379,DictKey_subtitle_379,"<WIZZAIR 9644> Climb to 360, WIZZAIR 9644",<WIZZAIR 9644> 爬升至360，WIZZAIR 9644。
+DictKey_subtitle_,381,DictKey_subtitle_381,"<SUN TURK 1851> PAFOS APPROCH SUN TURK 1851, A320 with X-RAY, QNH 1013, 7000 feet, TOBAL 1 PAPA",<SUN TURK 1851> 帕福斯进近，SUN TURK 1851，A320，持有X-RAY信息，QNH 1013，7000英尺，TOBAL 1 PAPA。
+DictKey_subtitle_,383,DictKey_subtitle_383,"<PAFOS APPROACH> SUN TURK 1851, PAFOS APPROACH radar contact. Descend to 2100 feet. Expect ILS approach runway 29.",<帕福斯进近> SUN TURK 1851，帕福斯进近，雷达已识别。下降至2100英尺。预计ILS进场29号跑道。
+DictKey_subtitle_,385,DictKey_subtitle_385,"<SUN TURK 1851> Descend 2100, Runway 29, SUN TURK 1851",<SUN TURK 1851> 下降至2100英尺，29号跑道，SUN TURK 1851。
+DictKey_subtitle_,387,DictKey_subtitle_387,"<EASY 5206> PAFOS APPROACH EASY 5206 GENOS 1 WHISKEY,passing 8000 feet",<EASY 5206> 帕福斯进近，EASY 5206，GENOS 1 WHISKEY，通过8000英尺。
+DictKey_subtitle_,389,DictKey_subtitle_389,"<PAFOS APPROACH> EASY 5206, PAFOS APPROACH, climb flight level 340, lceared direct ALKIS",<帕福斯进近> EASY 5206，帕福斯进近，爬升至FL 340，获准直飞ALKIS。
+DictKey_subtitle_,391,DictKey_subtitle_391,"<EASY 5206> Climb 340, direct ALKIS, EASY 5206",<EASY 5206> 爬升至340，直飞ALKIS，EASY 5206。
+DictKey_subtitle_,393,DictKey_subtitle_393,"<RAFAIR 6734> AKROTIRI APPROACH RAFAIR 6734 with FOXTROT, 5000 feet, QNH 1013, IREFA ALPHA",<RAFAIR 6734> 阿克罗蒂里进近，RAFAIR 6734，持有FOXTROT，5000英尺，QNH 1013，IREFA ALPHA。
+DictKey_subtitle_,395,DictKey_subtitle_395,"<AKROTIRI APPROACH> RAFAIR 6734 AKROTIRI APPROACH, continue descend to 2000 feet, report IREFA. You are number 5, four Hornets before you",<阿克罗蒂里进近> RAFAIR 6734，阿克罗蒂里进近，继续下降至2000英尺，报告到达IREFA。你是第五位，前面有四架大黄蜂。
+DictKey_subtitle_,397,DictKey_subtitle_397,"<RAFAIR 6734> Descend to 2000 feet, number 5, wilco, RAFAIR 6734",<RAFAIR 6734> 下降至2000英尺，第五位，收到，RAFAIR 6734。

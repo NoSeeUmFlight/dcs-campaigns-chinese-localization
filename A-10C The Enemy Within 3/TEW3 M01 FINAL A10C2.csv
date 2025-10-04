@@ -1,0 +1,310 @@
+﻿Field Type,ID,Field Name,Original Text,Translated Text
+DictKey_ActionRadioText_,462,DictKey_ActionRadioText_462,Advise that Ford attacks,建议Ford发动攻击。
+DictKey_ActionRadioText_,463,DictKey_ActionRadioText_463,Advise that police stops the car,建议警察拦停车辆。
+DictKey_ActionRadioText_,468,DictKey_ActionRadioText_468,,
+DictKey_ActionRadioText_,469,DictKey_ActionRadioText_469,,
+DictKey_ActionRadioText_,470,DictKey_ActionRadioText_470,Advise that Ford attacks,建议Ford发动攻击。
+DictKey_ActionRadioText_,471,DictKey_ActionRadioText_471,Advise that police stops the car,建议警察拦停车辆。
+DictKey_ActionRadioText_,473,DictKey_ActionRadioText_473,Advise that Ford attacks,建议Ford发动攻击。
+DictKey_ActionRadioText_,474,DictKey_ActionRadioText_474,Advise that police stops the car,建议警察拦停车辆。
+DictKey_ActionRadioText_,476,DictKey_ActionRadioText_476,,
+DictKey_ActionRadioText_,477,DictKey_ActionRadioText_477,,
+DictKey_ActionRadioText_,1286,DictKey_ActionRadioText_1286,"Explosions, 37 T GG 340 792",爆炸位置，37 T GG 340 792
+DictKey_ActionRadioText_,1287,DictKey_ActionRadioText_1287,"Explosions, 37 T GG 340 792",爆炸位置，37 T GG 340 792
+DictKey_ActionText_,64,DictKey_ActionText_64,,
+DictKey_ActionText_,74,DictKey_ActionText_74,,
+DictKey_ActionText_,79,DictKey_ActionText_79,Press F2 as soon as the mission starts.,任务开始后立即按F2。
+DictKey_ActionText_,112,DictKey_ActionText_112,Press SPACE BAR when you are ready to ask others about their fuel status on GENERAL frequency.,切换到通用频率。完成后按空格键，询问编队中其他人燃油状态。
+DictKey_ActionText_,114,DictKey_ActionText_114,",",，
+DictKey_ActionText_,116,DictKey_ActionText_116,,
+DictKey_ActionText_,218,DictKey_ActionText_218,Tune to Overlord  (check kneeboard if you need to) and press SPACE BAR to tell the flight to tune to that freq.,调至Overlord频率（如需查看，请查阅膝板），然后按空格键通知编队调至该频率。
+DictKey_ActionText_,224,DictKey_ActionText_224,.,。
+DictKey_ActionText_,227,DictKey_ActionText_227,,
+DictKey_ActionText_,242,DictKey_ActionText_242,,
+DictKey_ActionText_,326,DictKey_ActionText_326,"Press SPACE BAR when you are visual on the smoke north of your positions. \
+\
+Make sure you are still on Overlord frequency on UHF radio.",当看到北部的烟雾时，按空格键。确保UHF无线电仍在Overlord频率上。
+DictKey_ActionText_,328,DictKey_ActionText_328,"Explosions in Savamichavo village,Grid 37 T GG 340 792",Savamichavo村发生爆炸，网格坐标：37 T GG 340 792。
+DictKey_ActionText_,333,DictKey_ActionText_333,Switch to Kobuleti freq on AM radio and press SPACE BAR when ready.,切换到AM无线电，到Kobuleti塔台频率，准备好后按空格键。
+DictKey_ActionText_,335,DictKey_ActionText_335,Remember to switch to 133 when you finish talking,通话结束后记得切换到133频率。
+DictKey_ActionText_,438,DictKey_ActionText_438,,
+DictKey_ActionText_,440,DictKey_ActionText_440,Make sure that you tune to Ford 01 frequency (144.5 AM). Press SPACE BAR to remove this message when you've done so.,确保调至Ford 01频率（144.5 AM）。完成后按空格键以移除此消息。
+DictKey_ActionText_,441,DictKey_ActionText_441,",",，
+DictKey_ActionText_,461,DictKey_ActionText_461,"Use F-10 radio menu to Inform Overlord Actual what you think would be the best course of action:\
+\
+- Let FORD destroy the Jeep\
+- Let Georgian police stop it","使用F-10无线电菜单通知Overlord你认为最佳行动方案： \
+\
+- 让FORD摧毁吉普车 \
+- 让格鲁吉亚警察拦截它"
+DictKey_ActionText_,467,DictKey_ActionText_467,",",，
+DictKey_ActionText_,472,DictKey_ActionText_472,",",，
+DictKey_ActionText_,475,DictKey_ActionText_475,",",，
+DictKey_ActionText_,478,DictKey_ActionText_478,",",，
+DictKey_ActionText_,489,DictKey_ActionText_489,",",，
+DictKey_ActionText_,490,DictKey_ActionText_490,,
+DictKey_ActionText_,499,DictKey_ActionText_499,The coordinates are added to your F-10 radio menu.,坐标已添加到你的F-10无线电菜单中。
+DictKey_ActionText_,500,DictKey_ActionText_500,,
+DictKey_ActionText_,502,DictKey_ActionText_502,DATE: 27 March 2012,日期：2012年3月27日
+DictKey_ActionText_,503,DictKey_ActionText_503,"\""THE ENEMY WITHIN 3.0\"" by Baltic Dragon",《内敌3.0》作者：Baltic Dragon
+DictKey_ActionText_,506,DictKey_ActionText_506,"LOCATION: Over Black Sea, 80 miles southwest from Kobuleti Air Base.",位置：黑海上空，距离Kobuleti空军基地西南80英里。
+DictKey_ActionText_,517,DictKey_ActionText_517,.,。
+DictKey_ActionText_,518,DictKey_ActionText_518,Make sure that you are on correct frequency for ARCO and press SPACE BAR when you are ready.,确保你在ARCO的正确频率上，准备好后按空格键。
+DictKey_ActionText_,520,DictKey_ActionText_520,.,。
+DictKey_ActionText_,1295,DictKey_ActionText_1295,"MISSION COMPLETE\
+\
+Taxi to your parking spot and shut down the plane. \
+\
+You can exit at any time, the campaign will progress.","任务完成\
+\
+滑行至你的停机位并关车。\
+\
+你可以随时退出，战役将继续推进。"
+DictKey_ActionText_,1298,DictKey_ActionText_1298,,
+DictKey_ActionText_,1300,DictKey_ActionText_1300,"Your squadron has successfully made it to Georgia, where you were greeted by huge crowds of people hoping that USAF presence here will help their government drive out the terrorists from Caucasus Liberation Army once and for all.\
+\
+You also witnessed what the enemy is capable of doing. Those two buildings that were blown up were civilian apartment blocks, and the trap with the MANPAD was a clear message that CLA should be treated seriously.\
+\
+The vehicle with terrorists who shot at you was stopped by Georgian police some time after you landed. Unfortunately, they put up a serious fight and it was impossible to catch them alive and learn anything.","你的中队成功到达格鲁吉亚，受到大量民众的欢迎，他们希望美国空军的到来能帮助他们的政府彻底驱逐高加索解放阵营的恐怖分子。\
+\
+你也见识到了敌人的所作所为。被炸毁的两栋建筑是平民公寓楼，而通过便携式防空导弹（MANPAD）制造的陷阱则表明，敌人必须被严肃对待。\
+\
+在你降落后不久，格鲁吉亚警方拦截了向你开火的恐怖分子车辆。不幸的是，他们进行了激烈反抗，无法活捉他们以获取情报。"
+DictKey_ActionText_,1305,DictKey_ActionText_1305,,
+DictKey_descriptionBlueTask_,3,DictKey_descriptionBlueTask_3,"(Later in the campaign this screen will contain briefings performed by your AMC [Airborne Mission Commander] which will give you additional information to what you can read in FRAGO (Fragmentary Order). \
+\
+You are currently at the end of final stage of your flight, which started in Germany, with a stopover in Romania. You are flying in formation with the tanker (Arco).\
+\
+Location: somewhere over Black Sea, enroute to Georgia\
+\
+You have to lead the rest of the squadron to Kobuleti, which will be our base of operations for the time being. The Georgians were even nice enough to give it for Squadron's exclusive use. \
+\
+You will receive an update about the general situation before each combat sortie. \
+\
+Frequencies:\
+AOC:  Overlord: 251.5 AM\
+Dodge 1 (Your flight, 2 A10s): 30 FM \
+(AI wingman: 251.0 AM)\
+Dodge 2 (2 A-10s) and Dodge 3 (2 A-10s): 124 AM\
+Arco (Tanker): 251 UHF\
+\
+Tanker speed: 234 IAS.\
+\
+Kobuleti:\
+Freq, 133 MHz AM, TACAN 67X , ILS 111.5 MHz\
+\
+WEATHER\
+CAVOK. cloud base 8000 feet.","（在战役后期，此屏幕将包含由你的空中任务指挥官（AMC）进行的简报，提供比FRAGO（碎片化命令）更多的信息。\
+\
+你目前处于飞行的最后阶段，该飞行从德国开始，中途在罗马尼亚停留。你正与加油机（Arco）编队飞行。\
+\
+位置：黑海上空某处，前往格鲁吉亚途中\
+\
+你需要带领中队其他成员前往Kobuleti，这将是我们暂时的行动基地。格鲁吉亚人甚至好心地将其提供给你的中队专用。\
+\
+在每次战斗出击前，你将收到有关总体态势的最新消息。\
+\
+频率：\
+AOC：Overlord：251.5 AM\
+Dodge 1（你的飞行，2架A-10）：30 FM\
+（AI僚机：251.0 AM）\
+Dodge 2（2架A-10）和Dodge 3（2架A-10）：124 AM\
+Arco（加油机）：251 UHF\
+\
+加油机速度：234指示空速（IAS）。\
+\
+Kobuleti：\
+频率，133 MHz AM，TACAN 67X，ILS 111.5 MHz\
+\
+天气\
+CAVOK（Ceiling And Visibility OK，即满足目视飞行条件），云底高度8000英尺。"
+DictKey_descriptionNeutralsTask_,4,DictKey_descriptionNeutralsTask_4,,
+DictKey_descriptionRedTask_,2,DictKey_descriptionRedTask_2,,
+DictKey_descriptionText_,1,DictKey_descriptionText_1,"BRIEFING\
+27 March 2012, 12:07 local time\
+\
+(During the campaign you will get latest  briefings from your Squadrons Intelligence Officer. These will mostly contain overall situation in the country, progress made by allies / CLA, as well as new facts about most important people and organisations). \
+\
+Part of 74th fighter wing has been moved to Georgia in order to help contain a terrorist threat which appeared after country has been granted a NATO membership plan.\
+\
+Pentagon decided to send six A-10Cs, believing that this will boost the morale among the population. It should also make the terrorists think twice before they strike again. With no likely  air threat A10 also seems to be the best choice for possible air to ground missions.\
+\
+The aircraft are accompanied by the personnel from 824th Base Defence Squadron,  a part of the 820th Base Defense Group, tasked with guarding the airport and supporting the squadron's operations.\
+\
+Four UH-60s from the 41st Rescue Squadron are also planned to arrive in the following days.\
+\
+*** DESIGNER NOTES - IMPORTANT ***\
+\
+A few points to be made for the missions in the campaign:\
+\
+1) DISABLE EASY COMMS. This campaign uses an advanced comms system that will require you to use the radios and tune to correct frequencies and WILL NOT work with easy comms ON. \
+\
+2) IN ORDER TO PROGRESS YOU NEED TO LAND after each mission at the main or divert airfield. If you don’t you will be stuck with 50 points and have to repeat the mission. On the other hand, if you land even without fulfilling your objectives in most of the missions you will progres anyway. So if you want to repeat - exit the mission before you land. If you want to move on - land. \
+\
+3) AI ISSUES: the AI in DCS tends to do some weird stuff and sometimes can break things. Don’t say I didn’t warn you. \
+\
+4) IF YOU HAVE QUESTIONS OR PROBLEMS please report them on ED forums in the campaign thread or on my Facebook Page (Baltic Dragon). \
+\
+5) DOCUMENTATION. Included as separate PDF files and also as custom pages on your kneeboard (open your kneeboard and move left through the pages to access them).\
+\
+6) COORDINATES GIVEN DURING MISSIONS: you will usually either get a chance to note them down before providing a read-back or they will be added to F10 radio menu for future reference.    \
+\
+7) COMMUNICATING WITH AI WINGMAN: In all the missions there will be an UHF frequency assigned on which you will be giving orders to your AI wingman. You may need to jump between it and other assets. \","简报\
+2012年3月27日，当地时间12:07\
+\
+（在战役期间，你将从中队情报官那里获得最新简报。这些简报主要包含格鲁吉亚的总体情况、盟友和敌人的动向，以及关于重要人物和组织的最新信息）。\
+\
+第74战斗机中队的一部分被调往格鲁吉亚，以便在该国获得北约成员计划后，应对可能出现的恐怖威胁。\
+\
+五角大楼决定派遣六架A-10C，认为这将提升民众士气，也会让恐怖分子在下一次发动袭击前三思而后行。由于没有可能的空中威胁，A-10也被认为是执行可能的空对地任务的最佳选择。\
+\
+这些飞机由第824基地防御中队的人员陪同，该中队是第820基地防御集团的一部分，负责保卫机场并保障中队的行动。\
+\
+计划在接下来的几天内，第41救援中队的四架UH-60也将抵达。\
+\
+*** 战役作者备注 - 重要 ***\
+\
+关于战役中的任务，有几点需要说明：\
+\
+1) 禁用简易无线电。本战役使用高级通讯系统，需要你使用正确的电台并调至正确频率，开启简易无线电将无法正常工作。\
+\
+2) 为了推进战役，完成每次任务后，你需要在本场或备降机场着陆。如果不这样做，你将只能获得一半分数（50分），并需要重新完成任务。另一方面，即使在大多数任务中未完成目标，只要着陆你仍然可以继续推进。所以如果你想重试，请在着陆前退出任务。如果你想继续推进，请着陆。\
+\
+3) AI问题：DCS中的AI有时会做出一些奇怪的事情，有时可能会破坏任务。不要说我没警告过你。\
+\
+4) 如果你有问题或疑问，请在ED论坛的战役帖子中或在我的Facebook页面（Baltic Dragon）上报告。\
+\
+5) 文档。作为单独的PDF文件提供，也作为自定义页面在你的膝板上（打开膝板并向左移动页面以访问它们）。\
+\
+6) 任务中提供的坐标：你通常能在不依赖复述的情况下记住它们，如果没有，它们也被添加到F10无线电菜单中，可供参考。\
+\
+7) 与AI僚机通信：在所有任务中，将分配一个UHF频率，你将在其上向AI僚机下达命令。你可能需要在其与其他频率之间切换。"
+DictKey_sortie_,5,DictKey_sortie_5,TEW3 M01: Welcome to Georgia,TEW3 M01：“欢迎”来到格鲁吉亚
+DictKey_subtitle_,82,DictKey_subtitle_82,"ARCO: Arco to Dodge 1-1, what's your fuel status?",ARCO：Arco呼叫Dodge 1-1，你的燃油状态如何？
+DictKey_subtitle_,84,DictKey_subtitle_84,"PLAYER: Arco, Dodge 1-1, wait one.",玩家：Arco，这里是Dodge 1-1，请稍等。
+DictKey_subtitle_,86,DictKey_subtitle_86,"PLAYER: Arco, Dodge 1-1, we're good on fuel, you may depart, thank you for your help.",玩家：Arco，这里是Dodge 1-1，我们的燃油充足，你可以离开，谢谢你的帮助。
+DictKey_subtitle_,88,DictKey_subtitle_88,"ARCO: Arco copies, we're RTB at this time. Good luck in Georgia.",ARCO：Arco收到，我们现在返航。祝你在格鲁吉亚好运。
+DictKey_subtitle_,97,DictKey_subtitle_97,"PLAYER: Lead to all, state your fuel.",玩家：领队呼叫全体，报告你的燃油状态。
+DictKey_subtitle_,99,DictKey_subtitle_99,"WINGMAN (SIX-PACK): Two, five two.",僚机（SIX-PACK）：二号，52。
+DictKey_subtitle_,101,DictKey_subtitle_101,"DODGE 2-1 (LOTUS): Lotus, 5500.",DODGE 2-1（LOTUS）：Lotus，5500。
+DictKey_subtitle_,103,DictKey_subtitle_103,"DODGE 2-2 (TICKLES): Dodge 2-2, I'm at 5400.",DODGE 2-2（TICKLES）：Dodge 2-2，我有5400。
+DictKey_subtitle_,105,DictKey_subtitle_105,"DODGE 3-1 (GHOST): Dodge 3-1, 5400.",DODGE 3-1（GHOST）：Dodge 3-1，5400。
+DictKey_subtitle_,107,DictKey_subtitle_107,"DODGE 3-2 (NOMAD): This is Nomad, 5500 pounds left.",DODGE 3-2（NOMAD）：这里是Nomad，剩余5500磅。
+DictKey_subtitle_,109,DictKey_subtitle_109,"PLAYER: Alright, people, let's continue on this course, I'll check in with Overlord when 30 miles out.",玩家：好的，各位，继续保持这个航向，我将在距离30海里时与Overlord联系。
+DictKey_subtitle_,130,DictKey_subtitle_130,"DODGE 3-1 (GHOST): Man, I hate this ferry flights..",DODGE 3-1（GHOST）：伙计，我讨厌这种转场飞行。
+DictKey_subtitle_,132,DictKey_subtitle_132,"DODGE 2-2 (TICKLES): What, you'd rather choose the bumpy ride in C-130?",DODGE 2-2（TICKLES）：怎么，你宁愿坐颠簸的C-130？
+DictKey_subtitle_,134,DictKey_subtitle_134,DODGE 3-1 (GHOST): Nope. I don't know why the Air Force can't just buy us business class tickets on normal airways?,DODGE 3-1（GHOST）：不。我不明白为什么空军不能给我们买普通航空公司的商务舱机票？
+DictKey_subtitle_,136,DictKey_subtitle_136,"DODGE 3-2 (NOMAD): Where, to Tbilisi?. And then haul your ass in a bus for 6 hours to Kobuleti? No thanks, I'd rather fly in my Hog. Plus I have all my stuff in the pods, much better than a suitcase.",DODGE 3-2（NOMAD）：去第比利斯吗？然后再坐6小时的巴士去Kobuleti？谢谢，我宁愿开着疣猪自己飞过来。而且我所有的东西都在吊舱里，比行李箱好多了。
+DictKey_subtitle_,138,DictKey_subtitle_138,WINGMAN (SIX-PACK): Poor Captain.. he was the only one that had to get into a back of a four fan.,僚机（SIX-PACK）：可怜的Captain……他是唯一一个不得不坐在那个四个电风扇的飞机后舱里的人。
+DictKey_subtitle_,140,DictKey_subtitle_140,"DODGE 2-1 (LOTUS): Hey, I meant to ask some time ago.. how did he get his callsign?",DODGE 2-1（LOTUS）：嘿，我早就想问了……他这呼号怎么来的？
+DictKey_subtitle_,142,DictKey_subtitle_142,WINGMAN (SIX - PACK): Really? Easy. Look at his name. James Kirk... practically asking for that one.,僚机（SIX-PACK）：你不知道？很简单啊。你看他的真名，James Kirk（与“星际迷航”中USS Enterprise的舰长相同）……这名字跟他的呼号绝配。
+DictKey_subtitle_,144,DictKey_subtitle_144,DODGE 2-1 (LOTUS): I see. I thought he was playing a guitar or something... Not a big fan of Star Trek.,DODGE 2-1（LOTUS）：我明白了。我还以为他是弹吉他什么的……我不太熟悉星际迷航的设定。
+DictKey_subtitle_,146,DictKey_subtitle_146,DODGE 3-2 (NOMAD): Putting the science fiction aside.. so what do we know about Georgia and this Caucasus Liberation Army?,DODGE 3-2（NOMAD）：撇开科幻不谈……我们对格鲁吉亚和这个高加索解放阵营了解多少？
+DictKey_subtitle_,148,DictKey_subtitle_148,DODGE 3-1 (GHOST): About CLA - that these guys mean business. They already killed dozens of people here and apparently they have access to lots of resources. Plus they effectively control part of the country.,DODGE 3-1（GHOST）：关于高加索解放阵营——这些家伙是动真格的。他们已经在这里杀害了数十人，显然他们有很多军事资源。而且他们实际上已经控制了格鲁吉亚的部分地区。
+DictKey_subtitle_,150,DictKey_subtitle_150,"DODGE 2-2 (TICKLES): I read the intel files and to me they look like a normal insurgent group. Small arms, some heavier stuff, RPGs, probably a couple of MANPADs. These things are easy to come by in post-Soviet space, especially so close to Chechnya.",DODGE 2-2（TICKLES）：我看过情报文件，对我来说，他们看起来像是一个普通的叛乱组织。轻武器，一些重型装备，RPG，可能还有几枚便携式防空导弹（MANPAD）。在苏联曾经的加盟共和国里，这些东西很容易搞到，尤其是离车臣这么近的地方。
+DictKey_subtitle_,152,DictKey_subtitle_152,"DODGE 3-1 (GHOST): Yeah, true. Though why they would want to destabilise Georgia is beyond me.",DODGE 3-1（GHOST）：是的，没错。不过我不明白他们为什么想要搞乱格鲁吉亚。
+DictKey_subtitle_,154,DictKey_subtitle_154,"WINGMAN (SIX-PACK): They have to start somewhere. These guys are descendants of the Caucasus Caliphate, right? So they figured that it would be easier to build their new home in a small and poor country like Georgia rather than trying to rise against the Russians again. I think we all know how the Chechen wars ended.",僚机（SIX-PACK）：即使不在格鲁吉亚，他们也会找个别的地方开始叛乱。这些家伙是高加索哈里发国的后裔，对吧？所以他们认为在像格鲁吉亚这样的小而贫穷的国家建立新国家会更容易，而不是再次对抗俄罗斯人。我们都知道车臣战争的结局。
+DictKey_subtitle_,156,DictKey_subtitle_156,DODGE 2-1 (LOTUS): Do we know who supports them? Which states?,DODGE 2-1（LOTUS）：我们知道是谁在支持他们吗？哪些国家？
+DictKey_subtitle_,158,DictKey_subtitle_158,"DODGE 3-1 (GHOST): Nobody of course. But there are reasons to believe that there is a strong Iranian link there. There are also lots of Chechens. Some even say that even Moscow is involved, as after the 2008 war they'd be willing to go very far to bring Georgia and current president on their knees.",DODGE 3-1（GHOST）：当然没人承认。但有理由相信与伊朗有很强的联系。还有很多车臣人。有些人甚至说莫斯科也有参与，因为在2008年的战争（俄罗斯-格鲁吉亚战争）之后，他们愿意不择手段地让格鲁吉亚和现任总统屈服。
+DictKey_subtitle_,160,DictKey_subtitle_160,DODGE 3-2 (NOMAD): No wonder they objected so strongly to our mission here. Any word on other allies joining?,DODGE 3-2（NOMAD）：难怪他们如此强烈反对我们的任务。有没有其他盟友加入的消息？
+DictKey_subtitle_,162,DictKey_subtitle_162,"DODGE 3-1 (GHOST): I wouldn't hold my breath. Maybe the French, they were involved here in 2009 from what I've read. Other than that I wouldn't count on anyone else. We'll get AWACS and tankers from NATO. What else do we need?",DODGE 3-1（GHOST）：我不抱太大希望。也许法国人会帮忙，据我所知，他们曾在2009年被卷了进来。除此之外，我不指望其他人。反正我们会从北约得到预警机和加油机。我们还需要什么呢？
+DictKey_subtitle_,164,DictKey_subtitle_164,DODGE 3-2 (NOMAD): And weren't Georgians supposed to join NATO?,DODGE 3-2（NOMAD）：格鲁吉亚不是本来就要加入北约吗？
+DictKey_subtitle_,166,DictKey_subtitle_166,"DODGE 2-2 (TICKLES): The Georgians were to be admitted to NATO, but then the 2008 war started. The promise is still there, but nothing much else happened.",DODGE 2-2（TICKLES）：他们本来是要加入北约的，但随后2008年的战争（俄罗斯-格鲁吉亚战争）爆发了。当年的承诺依然存在，但在那以后就一直没什么进展了。
+DictKey_subtitle_,168,DictKey_subtitle_168,"PLAYER: That is why it is so important that we do a good job here. In the first few days we will need to settle down and we'll probably just do the show of force flights over the major cities flying low and slow to boost morale. Then we will start targeting the CLA. We'll hit their training camps, storage depots and try to cut their supply lines.",玩家：所以我们在这要好好干。最初的几天，我们主要安顿好自己，可能只会在主要城市上空进行低速低空飞行，进行武力展示，以提振士气。随后我们就会开始打击高加索解放阵营。我们会攻击他们的训练营、仓库，并尝试切断他们的补给线。
+DictKey_subtitle_,170,DictKey_subtitle_170,"WINGMAN (SIX-PACK): Sounds good. Me, I just can't wait to go to downtown Tbilisi. Already found a few nice clubs there in the old town.",僚机（SIX-PACK）：听起来不错。我呢，我迫不及待想去第比利斯市中心。我已经在老城区找到了一些不错的夜总会。
+DictKey_subtitle_,172,DictKey_subtitle_172,"DODGE 3-2 (NOMAD): Bad news, pal. We're pretty far away from the capital. But if I were you I'd check the pubs in Batumi, that's the place to be if you want to party in Georgia.",DODGE 3-2（NOMAD）：跟你说个坏消息，伙计。我们离首都很远。但如果我是你，我会去巴统的酒吧看看，如果你想在格鲁吉亚狂欢，那里绝对是个好地方。
+DictKey_subtitle_,174,DictKey_subtitle_174,"DODGE 3-1 (GHOST): Yeah, it is pretty good... full of Russians and Iranians though, not sure what our counterintelligence people will say to that.",DODGE 3-1（GHOST）：是的，那地方不错……不过那里满是俄罗斯人和伊朗人，不知道我们的反情报人员会怎么说。
+DictKey_subtitle_,176,DictKey_subtitle_176,"WINGMAN (SIX-PACK): Damn it Ghost, why you always got to piss into my corn flakes!",僚机（SIX-PACK）：该死的，Ghost，你为什么总是要扫我的兴！
+DictKey_subtitle_,185,DictKey_subtitle_185,"DODGE 2-1 (LOTUS): Skunk, 9 o'clock.",DODGE 2-1（LOTUS）：Skunk，9点钟方向。
+DictKey_subtitle_,187,DictKey_subtitle_187,"DODGE 3-2 (NOMAD): Yeah, say hello to the Russian Black Sea fleet.",DODGE 3-2（NOMAD）：是的，向俄罗斯黑海舰队问好。
+DictKey_subtitle_,189,DictKey_subtitle_189,"PLAYER: Yeah, we're going to see a lot of those in the coming weeks. They will shadow us, try to provoke us.. Whatever happens, don't play along.",玩家：是的，接下来几周我们会经常看到他们。他们会跟踪我们，试图挑衅我们……无论发生什么，不要上当。
+DictKey_subtitle_,191,DictKey_subtitle_191,"DODGE 3-1 (GHOST): Got it, boss.",DODGE 3-1（GHOST）：明白，长官。
+DictKey_subtitle_,203,DictKey_subtitle_203,"PLAYER: Dodge 1-1, flight, push 251.5.",玩家：Dodge 1-1，呼叫编队全体，切换到251.5频率。
+DictKey_subtitle_,208,DictKey_subtitle_208,"PLAYER: Overlord, Dodge 1-1,  checking in as fragged.",玩家：Overlord，这里是Dodge 1-1，按计划报到。
+DictKey_subtitle_,210,DictKey_subtitle_210,"OVERLORD: Dodge 1-1, this is Overlord actual, roger. You are being eagerly awaited around here, so make a good impression on your arrival. Confirm when ready to copy your orders.",OVERLORD：Dodge 1-1，这里是Overlord本部，收到。大家都在热切期待你们的到来，所以抵达时要留下好印象。准备好抄收命令时请确认。
+DictKey_subtitle_,212,DictKey_subtitle_212,PLAYER: Dodge 1-1 is ready to copy.,玩家：Dodge 1-1准备好抄收。
+DictKey_subtitle_,214,DictKey_subtitle_214,"OVERLORD: Enter pattern in pairs, low, break at the end of the runway, land with three minute separation between the flights. There are a lot of civilians here waiting for you, don't let them down.",OVERLORD：以双机编队进入航线，低空，在跑道末端解散，编队间隔三分钟降落。这里有很多平民在等你们，不要让他们失望。
+DictKey_subtitle_,216,DictKey_subtitle_216,"PLAYER: Dodge 1-1 copies all, break at the end of the runway, extend downwind, then land in pairs, 3 minutes apart.",玩家：Dodge 1-1收到，跑道末端解散，延长三边，双机编队降落，间隔3分钟。
+DictKey_subtitle_,228,DictKey_subtitle_228,"DODGE 2-1 (LOTUS): Don't know how about you guys, but I'd love to eat some of the famous Khachapuri and drink some cold beer.",DODGE 2-1（LOTUS）：不知道你们怎么想，但我很想吃点著名的Khachapuri，再来点冰啤酒。
+DictKey_subtitle_,230,DictKey_subtitle_230,WINGMAN (SIX-PACK): What the hell is khachapuri?,僚机（SIX-PACK）：Khachapuri是个什么玩意？
+DictKey_subtitle_,232,DictKey_subtitle_232,"DODGE 2-1 (LOTUS): It's their traditional dish, looks a little bit like pizza.",DODGE 2-1（LOTUS）：是格鲁吉亚这边的传统菜，有点像披萨。
+DictKey_subtitle_,234,DictKey_subtitle_234,"WINGMAN (SIX-PACK): Yeah, not too sure on that one, but I do know I could go on a beer right now. I checked - they ought to have a few good drafts around.",僚机（SIX-PACK）：嗯，不太了解，但我知道我现在就想要啤酒。我查过了——他们应该有几款不错的生啤。
+DictKey_subtitle_,236,DictKey_subtitle_236,DODGE 3-1 (GHOST): They do. And even better wines.,DODGE 3-1（GHOST）：确实有。还有更好的葡萄酒。
+DictKey_subtitle_,238,DictKey_subtitle_238,"WINGMAN (SIX-PACK): Wam-bam thank you, ma'am!\",僚机（SIX-PACK）：太棒了，感谢！
+DictKey_subtitle_,243,DictKey_subtitle_243,"PLAYER: OK, you heard the man, people. Dodge 2 will go first, Dodge 3 second, we will land last. Go trail before getting over the runway, then break. Maintain 1000 AGL. Dodge 2 will land, the rest will orbit above the airfield, Dodge 3 at angels 05, Dodge 1 at angels 07. Go ahead and push Kobuleti on alpha mike.",玩家：好的，大家听到了，Dodge 2小队先行，Dodge 3随后，我们最后降落。在进入跑道前保持纵队，然后解散。保持1000英尺离地高度（AGL）。Dodge 2降落时，其他人在机场上空盘旋，Dodge 3在5000英尺，Dodge 1在7000英尺。切换到Kobuleti的AM频率。
+DictKey_subtitle_,252,DictKey_subtitle_252,DODGE 2-1 (LOTUS): Dodge 2-1 on 133.0.,DODGE 2-1（LOTUS）：Dodge 2-1切换到133.0。
+DictKey_subtitle_,254,DictKey_subtitle_254,"DODGE 3-1 (GHOST): Dodge 3-1, freq set.",DODGE 3-1（GHOST）：Dodge 3-1，频率已设置。
+DictKey_subtitle_,256,DictKey_subtitle_256,"DODGE 2-1 (LOTUS): Kobuleti, Dodge 2-1, request landing.",DODGE 2-1（LOTUS）：Kobuleti，这里是Dodge 2-1，请求降落。
+DictKey_subtitle_,258,DictKey_subtitle_258,"KOBULETI TOWER: Dodge 2-1, runway 07, cleared to land.",Kobuleti塔台：Dodge 2-1，跑道07，允许降落。
+DictKey_subtitle_,260,DictKey_subtitle_260,"DODGE 2-1 (LOTUS): Runway 07, cleared to land, Dodge 2-1.",DODGE 2-1（LOTUS）：跑道07，允许降落，Dodge 2-1。
+DictKey_subtitle_,262,DictKey_subtitle_262,"DODGE 3-1 (GHOST): Dodge 3-1, Kobuleti, request landing.",DODGE 3-1（GHOST）：Kobuleti，这里是Dodge 3-1，请求降落。
+DictKey_subtitle_,264,DictKey_subtitle_264,"DODGE 3-1 (GHOST): Runway 07, cleared to land, Dodge 3-1.",DODGE 3-1（GHOST）：跑道07，允许降落，Dodge 3-1。
+DictKey_subtitle_,266,DictKey_subtitle_266,"KOBULETI TOWER: Dodge 3-1, Kobuleti, runway 07, cleared to land.",Kobuleti塔台：Dodge 3-1，Kobuleti，跑道07，允许降落。
+DictKey_subtitle_,268,DictKey_subtitle_268,"DODGE 2-1 (LOTUS): This is Lotus, we've touched down.",DODGE 2-1（LOTUS）：这里是Lotus，我们已着陆。
+DictKey_subtitle_,270,DictKey_subtitle_270,DODGE 3-1 (GHOST): Dodge 3-1 is on the ground.,DODGE 3-1（GHOST）：Dodge 3-1已着陆。
+DictKey_subtitle_,290,DictKey_subtitle_290,"WINGMAN (SIX-PACK): One, two, tally explosion and smoke up to the north.",僚机（SIX-PACK）：一号，二号呼叫，北边有爆炸和烟雾。
+DictKey_subtitle_,292,DictKey_subtitle_292,"PLAYER: Visual, wait one.",玩家：看到了，稍等。
+DictKey_subtitle_,294,DictKey_subtitle_294,"PLAYER: OK two, let's do this. Get your CMS set up for flares.",玩家：好了，二号，开始吧。设置好你的CMS，准备好热诱。
+DictKey_subtitle_,296,DictKey_subtitle_296,"WINGMAN (SIX-PACK): Two, roger. What exactly is our plan?",僚机（SIX-PACK）：二号，收到。我们的计划到底是什么？
+DictKey_subtitle_,298,DictKey_subtitle_298,"PLAYER: Show of force, my friend, show of force. We're going to go down there, show them we're here, we're going to try and boost the morale of people on our side.",玩家：展示武力，朋友，展示武力。我们要下去，向他们展示我们的存在，试图提升我方人员的士气。
+DictKey_subtitle_,300,DictKey_subtitle_300,WINGMAN (SIX-PACK): And if the enemy is still down there? You know we don’t have ammo loaded.,僚机（SIX-PACK）：如果敌人没离开，依旧在下面呢？你知道我们根本没装弹药。
+DictKey_subtitle_,302,DictKey_subtitle_302,"PLAYER: Well, in that case we'll have to improvise.",玩家：嗯，那种情况下我们就得随机应变了。
+DictKey_subtitle_,304,DictKey_subtitle_304,"WINGMAN (SIX-PACK): Well, we can always drop our travel pods on them.. I bet you have some heavy stuff in yours. Oh wait, shit. Forgot there is no explosive cord and you can't dump them.",僚机（SIX-PACK）：嗯，我们可以把旅行吊舱扔他们身上……我猜你那里面肯定有些很重的东西。哦，等等，不对。行李吊舱没有爆破索，是丢不掉的。
+DictKey_subtitle_,306,DictKey_subtitle_306,PLAYER: Just keep your head on a swivel.,玩家：保持警惕就好。
+DictKey_subtitle_,308,DictKey_subtitle_308,,
+DictKey_subtitle_,310,DictKey_subtitle_310,,
+DictKey_subtitle_,312,DictKey_subtitle_312,"PLAYER: Overlord, Overlord, Dodge 1-1, we're visual on explosions north of our position, please advise.",玩家：Overlord，Overlord，这里是Dodge 1-1，我们看到在我们位置北边有爆炸，请指示。
+DictKey_subtitle_,314,DictKey_subtitle_314,"OVERLORD: Dodge 1-1, Overlord, copy, standby words.",OVERLORD：Dodge 1-1，这里是Overlord，收到，稍等指示。
+DictKey_subtitle_,316,DictKey_subtitle_316,"PLAYER: Dodge 1-1, standing by.",玩家：Dodge 1-1，等待中。
+DictKey_subtitle_,318,DictKey_subtitle_318,"OVERLORD: Dodge 1-1, the Georgians have confirmed explosions in Savamichavo village, grid 37 T GG 340 792. Your orders are to proceed to that location and assume orbit at 7 000 feet MSL, standby for tasking.",OVERLORD：Dodge 1-1，格鲁吉亚方面确认在Savamichavo村发生爆炸，坐标37 T GG 340 792。命令你前往该位置，在7000英尺海平面高度盘旋，等待任务指示。
+DictKey_subtitle_,320,DictKey_subtitle_320,"PLAYER: Overlord, Dodge 1-1 copies all, proceed to S-Town, 37 T GG 340 792, orbit at 7000 feet MSL.",玩家：Overlord，Dodge 1-1收到，前往S村，坐标37 T GG 340 792，在7000英尺海平面高度盘旋。
+DictKey_subtitle_,336,DictKey_subtitle_336,"DODGE 2-1 (LOTUS): Dodge 2 flight is over the runway, there's quite a welcome party down there!",DODGE 2-1（LOTUS）：Dodge 2编队飞越跑道上空，下面有个很热闹的欢迎派对欸！
+DictKey_subtitle_,338,DictKey_subtitle_338,"DODGE 2-1 (LOTUS): Dodge 2-1, extending west and preparing to land",DODGE 2-1（LOTUS）：Dodge 2-1，向西延伸，准备降落。
+DictKey_subtitle_,340,DictKey_subtitle_340,DODGE 2-1 (LOTUS): Dodge 2-1 is on final.,DODGE 2-1（LOTUS）：Dodge 2-1，最终进近。
+DictKey_subtitle_,342,DictKey_subtitle_342,"DODGE 3-1 (GHOST): Dodge 3-1 , we're over the runway.",DODGE 3-1（GHOST）：Dodge 3-1，我们飞越跑道上空。
+DictKey_subtitle_,344,DictKey_subtitle_344,"DODGE 3-1 (GHOST): Dodge 3-1 , pushing west, preparing to land.",DODGE 3-1（GHOST）：Dodge 3-1，向西推进，准备降落。
+DictKey_subtitle_,346,DictKey_subtitle_346,"DODGE 3-1 (GHOST): And Dodge 3-1, we're on final.",DODGE 3-1（GHOST）：Dodge 3-1，我们进入最终进近了。
+DictKey_subtitle_,366,DictKey_subtitle_366,"WINGMAN (SIX-PACK): Shit, look at that... they decimated at least two buildings.",僚机（SIX-PACK）：卧槽，看那里……他们至少摧毁了两栋建筑。
+DictKey_subtitle_,368,DictKey_subtitle_368,"PLAYER: Yeah, looks nasty. Keep your eyes open.",玩家：是啊，看起来很糟。保持警惕。
+DictKey_subtitle_,370,DictKey_subtitle_370,"WINGMAN (SIX-PACK): One, break, SAM launch!!!!",僚机（SIX-PACK）：一号，规避，防空导弹发射！！
+DictKey_subtitle_,372,DictKey_subtitle_372,"WINGMAN (SIX-PACK): Jink, jink, jink, another one!!!",僚机（SIX-PACK）：规避，规避，规避，又来一枚！！
+DictKey_subtitle_,374,DictKey_subtitle_374,"WINGMAN (SIX-PACK): Holy hell, that was close!!",僚机（SIX-PACK）：我去，刚才好险！！
+DictKey_subtitle_,376,DictKey_subtitle_376,"WINGMAN (SIX-PACK): Two, tally. Military jeep, heading east from the rubble, saw one of the shooters going into it earlier.",僚机（SIX-PACK）：二号，目视目标。军用吉普车，从废墟向东行驶，之前看到一名射手进入车内。
+DictKey_subtitle_,378,DictKey_subtitle_378,"PLAYER: Two, Lead. Are you sure these are valid targets?",玩家：二号，领队呼叫。你确定它是有效目标吗？
+DictKey_subtitle_,380,DictKey_subtitle_380,DODGE 1-2 (SIX-PACK): Affirm. That jeep started off exactly where the shots came from and I saw one of them carrying a metal tube. It's definitely them.,DODGE 1-2（SIX-PACK）：确认。那辆吉普车正是从开火的位置出发的，我看到其中一个人拿着金属的管状物体。绝对是他们。
+DictKey_subtitle_,382,DictKey_subtitle_382,"PLAYER: Two, what do you think?",玩家：二号，你怎么想？
+DictKey_subtitle_,384,DictKey_subtitle_384,DODGE 1-2 (SIX-PACK): I think they they have more of the explosives onboard and kill even more people. I think Ford should roll in and turn them into raw food.,DODGE 1-2（SIX-PACK）：我认为他们车上可能还有更多爆炸物，会杀死更多人。我觉得Ford应该出击，把他们炸成废铁。
+DictKey_subtitle_,386,DictKey_subtitle_386,"WINGMAN (SIX-PACK): OK. That was rather... unnerving. Hey, I thought we be the ones setting the pace. That was definitely a trap - either they knew we go out to scope it out or they just wanted to boost the morale. Either way, we fell right into it.",僚机（SIX-PACK）：好的。刚才真是……让人后怕。嘿，我还以为我们才是掌控局面的一方。那绝对是个陷阱——要么他们知道我们会出去侦察，要么他们只是想挑衅我们来提升士气。但不管怎样，我们正中下怀。
+DictKey_subtitle_,388,DictKey_subtitle_388,"PLAYER: So it seems. Remember, it's easier for them to choose the time and the place of the battle with all the publicity around our arrival. For now. Once we settle and start hitting back, they'll be on the run.",玩家：看来是这样。你要知道，由于我们到来的消息早就满天飞了，他们总能更方便的选择战斗的时间和地点。目前就是这样。不过一旦我们安顿下来并开始反击，他们就会逃跑。
+DictKey_subtitle_,390,DictKey_subtitle_390,WINGMAN (SIX-PACK): Can't wait. They shot a missile at me. Now it's personal.,僚机（SIX-PACK）：等不及了。他们向我发射了导弹。现在是私人恩怨了。
+DictKey_subtitle_,392,DictKey_subtitle_392,"PLAYER: Yeah, my feelings exactly. Let's get to Kobuleti and land, I have a feeling that we'll need to arrange special escort for our supplies and ground troops arriving by sea tomorrow.",玩家：是啊，我也是这么想的。我们去科布列季降落，我觉得我们需要为明天海上抵达的补给和地面部队安排特别护航。
+DictKey_subtitle_,394,DictKey_subtitle_394,WINGMAN (SIX-PACK): Gotcha. I'm right behind you.,僚机（SIX-PACK）：明白。我就在你后面。
+DictKey_subtitle_,396,DictKey_subtitle_396,"OVERLORD: Dodge 1-1, this is Overlord Actual. Georgians have just launched two Hinds from Sukhumi, calsign Ford 01, they are ready to support you, frequency 144.5 Alpha Mike.",OVERLORD：Dodge 1-1，这里是Overlord本部。格鲁吉亚刚从Sukhumi起飞了两架雌鹿（Mi-24武装直升机），呼号Ford 01，他们准备支援你，频率144.5 AM。
+DictKey_subtitle_,398,DictKey_subtitle_398,"PLAYER: And Overlord, Dodge 1-1 copies, push 144.5, contact Ford 1-1, pushing now. Two, push 144.5.",玩家：Overlord，Dodge 1-1收到，切换到144.5，与Ford 1-1联系，正在切换。二号，切换到144.5。
+DictKey_subtitle_,400,DictKey_subtitle_400,"PLAYER: Overlord, Dodge 1-1, be advised, we've been fired at by MANPADS, we're bulls 352 for 23, we're egressing back to the IP.",玩家：Overlord，Dodge 1-1，请注意，我们遭到便携式防空导弹（MANPAD）攻击，位置靶眼352方向23海里，正在撤回至初始点。
+DictKey_subtitle_,402,DictKey_subtitle_402,"OVERLORD: Dodge 1-1, Overlord, status report.",OVERLORD：Dodge 1-1，这里是Overlord，报告状态。
+DictKey_subtitle_,404,DictKey_subtitle_404,PLAYER: Dodge flight is mission capable.,玩家：Dodge编队仍然具备任务执行能力。
+DictKey_subtitle_,406,DictKey_subtitle_406,"OVERLORD: Dodge 1-1, Overlord, are you tally on the shooters?",OVERLORD：Dodge 1-1，这里是Overlord，你能确认射手位置吗？
+DictKey_subtitle_,408,DictKey_subtitle_408,"PLAYER: And Overlord, Dodge 1-1, negative, we didn't get good visuals on where the shots came from.",玩家：Overlord，Dodge 1-1，否定，我们在导弹来袭方向上没有清晰目视。
+DictKey_subtitle_,410,DictKey_subtitle_410,"PLAYER: And Overlord, Dodge 1-1, update. Tally vehicle departing the scene with shooters inside.",玩家：Overlord，Dodge 1-1，更新。发现载有射手的车辆离开现场。
+DictKey_subtitle_,412,DictKey_subtitle_412,"OVERLORD: Dodge 1-1, Overlord, confirm that your target is hostile.",OVERLORD：Dodge 1-1，这里是Overlord，确认目标是敌对的。
+DictKey_subtitle_,414,DictKey_subtitle_414,"PLAYER: And Overlord, Dodge 1-1, wait one.",玩家：Overlord，Dodge 1-1，请稍等。
+DictKey_subtitle_,416,DictKey_subtitle_416,"PLAYER: Overlord, Dodge 1-1 confirms, we have a single vehicle, carrying two enemy soldiers with MANPADS. Standing by for orders.",玩家：Overlord，Dodge 1-1确认，我们有一辆载有两名携带便携式防空导弹（MANPAD）的敌军士兵的车辆。等待指令。
+DictKey_subtitle_,418,DictKey_subtitle_418,"OVERLORD: Dodge 1-1, standby one.",OVERLORD：Dodge 1-1，请稍等。
+DictKey_subtitle_,420,DictKey_subtitle_420,"OVERLORD: Dodge 1-1, this is Overlord Actual. I need you to follow the vehicle, the Georgians will deal with the situation.",OVERLORD：Dodge 1-1，这里是Overlord本部。我需要你跟踪该车辆，格鲁吉亚部队会处理这个情况。
+DictKey_subtitle_,422,DictKey_subtitle_422,"PLAYER: And Overlord, Dodge 1-1, our recommendation is to engage the vehicle.",玩家：Overlord，Dodge 1-1，我们建议对该车辆进行攻击。
+DictKey_subtitle_,424,DictKey_subtitle_424,"PLAYER: And Overlord, Dodge 1-1, our recommendation would be to go ahead and try to detain them.",玩家：Overlord，Dodge 1-1，我们建议尝试拘留他们。
+DictKey_subtitle_,426,DictKey_subtitle_426,"OVERLORD: Dodge 1-1, follow the vehicle until relieved by Ford 1-1",OVERLORD：Dodge 1-1，跟踪该车辆，直到Ford 1-1接替。
+DictKey_subtitle_,428,DictKey_subtitle_428,"OVERLORD: Dodge 1-1, this is Overlord Actual. Georgian police failed to take the suspects alive and lost two officers in a shootout. I thought you'd want to know that. Land in Kobuleti and report in for debriefing. Overlord out.",OVERLORD：Dodge 1-1，这里是Overlord本部。格鲁吉亚警方未能活捉嫌疑人，并在交火中损失了两名警官。我想你需要知道这个消息。在Kobuleti降落，随后进行任务讲评。Overlord完毕。
+DictKey_subtitle_,443,DictKey_subtitle_443,"FORD 1-1: Dodge 1-1, Ford 1-1, we’re on our way to your location, visual on smoke, request sitrep.",FORD 1-1：Dodge 1-1，这里是Ford 1-1，我们正在前往你的位置，看到烟雾，请报告情况。
+DictKey_subtitle_,445,DictKey_subtitle_445,"PLAYER: Ford 1-1, Dodge 1-1, we have eyes on a green UAZ carrying two tangos, moving east.",玩家：Ford 1-1，这里是Dodge 1-1，我们发现一辆绿色UAZ，载有两名敌人，正向东移动。
+DictKey_subtitle_,447,DictKey_subtitle_447,"FORD 1-1: Ford 1 copies, searching for target, standby.",FORD 1-1：Ford 1收到，正在搜索目标，请稍等。
+DictKey_subtitle_,449,DictKey_subtitle_449,"FORD 1-1: Dodge 1-1, Ford 1-1. We are engaging target, in hot from the north.",FORD 1-1：Dodge 1-1，这里是Ford 1-1。我们正在攻击目标，从北方进入。
+DictKey_subtitle_,451,DictKey_subtitle_451,"FORD 1-1: Ford 1-1, missile away.",FORD 1-1：Ford 1-1，导弹已发射。
+DictKey_subtitle_,453,DictKey_subtitle_453,"FORD 1-1: This is Ford 1-1, target destroyed.",FORD 1-1：这里是Ford 1-1，目标已摧毁。
+DictKey_subtitle_,455,DictKey_subtitle_455,"FORD 1-1: Dodge 1-1, Ford 1-1. We've received orders to hold fire and shadow the target. We will take it from here.",FORD 1-1：Dodge 1-1，这里是Ford 1-1。我们接到命令禁止开火并跟踪目标。接下来交给我们。
+DictKey_subtitle_,459,DictKey_subtitle_459,"PLAYER: Dodge 1-1 copies, we're RTB at this time.",玩家：Dodge 1-1收到，我们正在返航。
+DictKey_subtitle_,492,DictKey_subtitle_492,"PLAYER: Dodge 1-1 copies, we're RTB at this time.",玩家：Dodge 1-1收到，我们正在返航。
+DictKey_subtitle_,495,DictKey_subtitle_495,"DODGE 1-2 (SIX-PACK): One, two, have you seen those secondaries? Looks that I was right!",DODGE 1-2（SIX-PACK）：一号，二号呼叫，你看到那些二次爆炸了吗？看来我说对了！
+DictKey_subtitle_,497,DictKey_subtitle_497,"PLAYER: Yeah, affirmative. Alright, let's RTB.",玩家：是的，确认。好了，我们返航吧。
+DictKey_subtitle_,1207,DictKey_subtitle_1207,"OVERLORD: Dodge 1-1, this is Overlord Actual. Georgian side decided to try and apprehend the suspects rather than attacking them. They failed and lost two officers in a shootout. I thought you'd want to know that. Land in Kobuleti and report in for debriefing. Overlord out.",OVERLORD：Dodge 1-1，这里是Overlord本部。格鲁吉亚方面决定尝试拘留嫌疑人而不是攻击他们。他们失败了，且在交火中两名警官牺牲了。我想你需要知道这个消息。在Kobuleti降落，随后进行任务讲评。Overlord完毕。

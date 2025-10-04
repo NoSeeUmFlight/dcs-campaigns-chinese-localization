@@ -1,0 +1,416 @@
+﻿Field Type,ID,Field Name,Original Text,Translated Text
+DictKey_ActionRadioText_,70,DictKey_ActionRadioText_70,Test shooting,试射
+DictKey_ActionRadioText_,71,DictKey_ActionRadioText_71,Test shooting,试射
+DictKey_ActionRadioText_,339,DictKey_ActionRadioText_339,Order radio discipline,强调无线电纪律
+DictKey_ActionRadioText_,340,DictKey_ActionRadioText_340,Allow pilots to chat,允许飞行员聊天
+DictKey_ActionRadioText_,343,DictKey_ActionRadioText_343,,
+DictKey_ActionRadioText_,344,DictKey_ActionRadioText_344,,
+DictKey_ActionRadioText_,347,DictKey_ActionRadioText_347,Order radio discipline,强调无线电纪律
+DictKey_ActionRadioText_,348,DictKey_ActionRadioText_348,Allow pilots to chat,允许飞行员聊天
+DictKey_ActionRadioText_,349,DictKey_ActionRadioText_349,Order radio discipline,强调无线电纪律
+DictKey_ActionRadioText_,350,DictKey_ActionRadioText_350,Allow pilots to chat,允许飞行员聊天
+DictKey_ActionRadioText_,367,DictKey_ActionRadioText_367,,
+DictKey_ActionRadioText_,368,DictKey_ActionRadioText_368,,
+DictKey_ActionRadioText_,706,DictKey_ActionRadioText_706,,
+DictKey_ActionRadioText_,707,DictKey_ActionRadioText_707,,
+DictKey_ActionRadioText_,708,DictKey_ActionRadioText_708,Test shooting,试射
+DictKey_ActionRadioText_,759,DictKey_ActionRadioText_759,Enemy units destroyed,敌方单位已摧毁
+DictKey_ActionRadioText_,762,DictKey_ActionRadioText_762,,
+DictKey_ActionRadioText_,764,DictKey_ActionRadioText_764,,
+DictKey_ActionRadioText_,765,DictKey_ActionRadioText_765,,
+DictKey_ActionRadioText_,766,DictKey_ActionRadioText_766,Enemy units destroyed,敌方单位已摧毁
+DictKey_ActionRadioText_,795,DictKey_ActionRadioText_795,38T KN 9441 4518.,38T KN 9441 4518。
+DictKey_ActionRadioText_,796,DictKey_ActionRadioText_796,,
+DictKey_ActionRadioText_,797,DictKey_ActionRadioText_797,38T KN 9441 4518.,38T KN 9441 4518。
+DictKey_ActionText_,305,DictKey_ActionText_305,Press SPACE BAR when ready to begin first part of the briefing.,准备好开始第一段飞行任务的简报时，按空格键。
+DictKey_ActionText_,306,DictKey_ActionText_306,.,.
+DictKey_ActionText_,307,DictKey_ActionText_307,,
+DictKey_ActionText_,308,DictKey_ActionText_308,Press SPACE BAR when you reach cruise altitude (15 000 feet) and when you are ready to begin second part of the in-flight briefing.,"到达巡航高度（15,000英尺）并准备好开始第二段飞行任务的简报时，按空格键。"
+DictKey_ActionText_,333,DictKey_ActionText_333,.,.
+DictKey_ActionText_,334,DictKey_ActionText_334,,
+DictKey_ActionText_,341,DictKey_ActionText_341,Use F-10 radio menu to decide whether you will ask the pilots to maintain the radio discipline or allow the pilots to chat freely.,使用F-10无线电菜单决定，要求飞行员保持无线电纪律，或允许飞行员自由聊天。
+DictKey_ActionText_,345,DictKey_ActionText_345,.,.
+DictKey_ActionText_,351,DictKey_ActionText_351,.,.
+DictKey_ActionText_,369,DictKey_ActionText_369,,
+DictKey_ActionText_,399,DictKey_ActionText_399,,
+DictKey_ActionText_,401,DictKey_ActionText_401,,
+DictKey_ActionText_,405,DictKey_ActionText_405,Push frequency for BEHOLDER and press SPACE BAR to check in with him.,调整到BEHOLDER的频率，并按空格键与其联系。
+DictKey_ActionText_,407,DictKey_ActionText_407,.,.
+DictKey_ActionText_,500,DictKey_ActionText_500,,
+DictKey_ActionText_,502,DictKey_ActionText_502,Press SPACE BAR to check in with Beholder at WP 3.,到达航路点3时按空格键与Beholder联系。
+DictKey_ActionText_,503,DictKey_ActionText_503,.,.
+DictKey_ActionText_,504,DictKey_ActionText_504,,
+DictKey_ActionText_,542,DictKey_ActionText_542,Descend to 750 feet. This message will disappear when you reach the correct altitude.,下降到750英尺。到达正确高度时，此信息将消失。
+DictKey_ActionText_,543,DictKey_ActionText_543,.,.
+DictKey_ActionText_,694,DictKey_ActionText_694,"Switch to Hunter's frequency. \
+\
+Press SPACE BAR when you have done so.",切换到Hunter的频率。完成后按空格键。
+DictKey_ActionText_,696,DictKey_ActionText_696,.,.
+DictKey_ActionText_,709,DictKey_ActionText_709,Press SPACE BAR when you are visual on smoke.,看到烟雾时按空格键。
+DictKey_ActionText_,711,DictKey_ActionText_711,,
+DictKey_ActionText_,713,DictKey_ActionText_713,,
+DictKey_ActionText_,714,DictKey_ActionText_714,"Group of vehicles and some armed footmobiles. \
+\
+Grid 37T KN 9441 4518.","一组车辆和一些武装步兵。\
+\
+坐标网格37T KN 9441 4518。"
+DictKey_ActionText_,717,DictKey_ActionText_717,,
+DictKey_ActionText_,719,DictKey_ActionText_719,"Press SPACE BAR when you have a clear, unobstructed view on what is going on in the village - both at the terrorists and people held on the gunpoint. \
+\
+(You can check the coordinates under F-10 menu).","当你对村庄的情况有清晰、无障碍的视野时，按空格键——包括恐怖分子和被枪指着的人。\
+\
+（你可以在F-10菜单下查看坐标）。"
+DictKey_ActionText_,722,DictKey_ActionText_722,.,.
+DictKey_ActionText_,723,DictKey_ActionText_723,Switch to correct frequency and press SPACE BAR to contact Overlord.,切换到正确的频率并按空格键联系Overlord。
+DictKey_ActionText_,752,DictKey_ActionText_752,.,.
+DictKey_ActionText_,757,DictKey_ActionText_757,"You are cleared to engage targets.\
+\
+Once you think the area is clear, use F-10 radio menu to report to Overlord that your task is complete. \
+\
+Remember to switch to correct frequency!\
+\
+Press SPACE BAR to remove this message","你已获准攻击目标。\
+\
+一旦你认为区域已清理完毕，使用F-10无线电菜单向Overlord报告任务完成。\
+\
+记得切换到正确的频率！\
+\
+按空格键以移除此信息。"
+DictKey_ActionText_,760,DictKey_ActionText_760,.,.
+DictKey_ActionText_,763,DictKey_ActionText_763,.,.
+DictKey_ActionText_,788,DictKey_ActionText_788,.,.
+DictKey_ActionText_,789,DictKey_ActionText_789,"MISSION COMPLETE\
+\
+Taxi to the parking spot and shut down your plane.","任务完成\
+\
+滑行到停机位并关闭飞机。"
+DictKey_ActionText_,1206,DictKey_ActionText_1206,,
+DictKey_ActionText_,1217,DictKey_ActionText_1217,"This mission was planned only as a area familiarisation flight, meant to get the 74th pilots acquainted with the AO and also have a look at the mountainous area in the north where most of the fighting takes place. It was also meant to boost the morale of the Georgian population, which filled the Tbilisi stadium to the brim while waiting for a 4-ship Warthog formation to fly over the capital. Finally, the briefing given by our local liaison officer was supposed to set the picture for the upcoming days and weeks and increase the pilots' knowledge about the enemy and CLA's capabilities.\
+\
+It turned out to be much more than that, with Dodge 11 flight witnessing the cold-blooded execution of a whole team of Georgian soldiers by the terrorists.\
+\
+First the flyover. You arrived over the stadium exactly on time - well done.\
+\
+You also took out all enemy vehicles, including the Cobra armoured vehicle captured by the CLA, as well as their trucks and the whole firing squad.","这次任务原本计划仅作为一个区域熟悉飞行，旨在让第74中队的飞行员熟悉作战区域（AO），并观察北部大部分战斗发生的山区。同时，这也旨在提升格鲁吉亚民众的士气，他们挤满了第比利斯体育场，等待四机编队的疣猪飞越首都。最后，当地联络官的简报本应为接下来的日子和几周定下基调，并增加飞行员对敌人和CLA能力的了解。\
+\
+然而，事情远不止如此，Dodge 11编队目睹了恐怖分子冷血处决整队格鲁吉亚士兵的场景。\
+\
+首先是飞越。你们准时到达体育场上空——干得好。\
+\
+你们还摧毁了所有敌方车辆，包括被CLA俘获的眼镜蛇装甲车，以及他们的卡车和整个行刑队。"
+DictKey_ActionText_,1219,DictKey_ActionText_1219,"This mission was planned only as a area familiarisation flight, meant to get the 74th pilots acquainted with the AO and also have a look at the mountainous area in the north where most of the fighting takes place. It was also meant to boost the morale of the Georgian population, which filled the Tbilisi stadium to the brim while waiting for a 4-ship Warthog formation to fly over the capital. Finally, the briefing given by our local liaison officer was supposed to set the picture for the upcoming days and weeks and increase the pilots' knowledge about the enemy and CLA's capabilities.\
+\
+It turned out to be much more than that, with Dodge 11 flight witnessing the cold-blooded execution of a whole team of Georgian soldiers by the terrorists.\
+\
+First the flyover. You arrived over the stadium earlier then expected, which had an impact on the general conduct of the ceremony.\
+\
+However, you took out all enemy vehicles, including the Cobra armoured vehicle captured by the CLA, as well as their trucks and the whole firing squad.","这次任务原本计划仅作为一个区域熟悉飞行，旨在让第74中队的飞行员熟悉作战区域（AO），并观察北部大部分战斗发生的山区。同时，这也旨在提升格鲁吉亚民众的士气，他们挤满了第比利斯体育场，等待四机编队的疣猪飞越首都。最后，当地联络官的简报本应为接下来的日子和几周定下基调，并增加飞行员对敌人和CLA能力的了解。\
+\
+然而，事情远不止如此，Dodge 11编队目睹了恐怖分子冷血处决整队格鲁吉亚士兵的场景。\
+\
+首先是飞越。你们比预期更早到达体育场上空，这对仪式的整体进行产生了影响。\
+\
+不过，你们摧毁了所有敌方车辆，包括被CLA俘获的眼镜蛇装甲车，以及他们的卡车和整个行刑队。"
+DictKey_ActionText_,1221,DictKey_ActionText_1221,"This mission was planned only as a area familiarisation flight, meant to get the 74th pilots acquainted with the AO and also have a look at the mountainous area in the north where most of the fighting takes place. It was also meant to boost the morale of the Georgian population, which filled the Tbilisi stadium to the brim while waiting for a 4-ship Warthog formation to fly over the capital. Finally, the briefing given by our local liaison officer was supposed to set the picture for the upcoming days and weeks and increase the pilots' knowledge about the enemy and CLA's capabilities.\
+\
+It turned out to be much more than that, with Dodge 11 flight witnessing the cold-blooded execution of a whole team of Georgian soldiers by the terrorists.\
+\
+First the flyover. You arrived over the stadium earlier then expected, which had an impact on the general conduct of the ceremony.\
+\
+However, you took out all enemy vehicles, including the Cobra armoured vehicle captured by the CLA, as well as their trucks and the whole firing squad.","这次任务原本计划仅作为一个区域熟悉飞行，旨在让第74中队的飞行员熟悉作战区域（AO），并观察北部大部分战斗发生的山区。同时，这也旨在提升格鲁吉亚民众的士气，他们挤满了第比利斯体育场，等待四机编队的疣猪飞越首都。最后，当地联络官的简报本应为接下来的日子和几周定下基调，并增加飞行员对敌人和CLA能力的了解。\
+\
+然而，事情远不止如此，Dodge 11编队目睹了恐怖分子冷血处决整队格鲁吉亚士兵的场景。\
+\
+首先是飞越。你们比预期更早到达体育场上空，这对仪式的整体进行产生了影响。\
+\
+不过，你们摧毁了所有敌方车辆，包括被CLA俘获的眼镜蛇装甲车，以及他们的卡车和整个行刑队。"
+DictKey_ActionText_,1223,DictKey_ActionText_1223,"This mission was planned only as a area familiarisation flight, meant to get the 74th pilots acquainted with the AO and also have a look at the mountainous area in the north where most of the fighting takes place. It was also meant to boost the morale of the Georgian population, which filled the Tbilisi stadium to the brim while waiting for a 4-ship Warthog formation to fly over the capital. Finally, the briefing given by our local liaison officer was supposed to set the picture for the upcoming days and weeks and increase the pilots' knowledge about the enemy and CLA's capabilities.\
+\
+It turned out to be much more than that, with Dodge 11 flight witnessing the cold-blooded execution of a whole team of Georgian soldiers by the terrorists.\
+\
+First the flyover. You arrived over the stadium exactly on time - well done.\
+\
+However, you did not suceed in destroying all the enemy vehicles, allowing some of the CLA soldiers to get away and fight another day.","这次任务原本计划仅作为一个区域熟悉飞行，旨在让第74中队的飞行员熟悉作战区域（AO），并观察北部大部分战斗发生的山区。同时，这也旨在提升格鲁吉亚民众的士气，他们挤满了第比利斯体育场，等待四机编队的疣猪飞越首都。最后，当地联络官的简报本应为接下来的日子和几周定下基调，并增加飞行员对敌人和CLA能力的了解。\
+\
+然而，事情远不止如此，Dodge 11编队目睹了恐怖分子冷血处决整队格鲁吉亚士兵的场景。\
+\
+首先是飞越。你们准时到达体育场上空——干得好。\
+\
+然而，你们未能摧毁所有敌方车辆，导致一些CLA士兵得以逃脱，准备再战。"
+DictKey_ActionText_,1225,DictKey_ActionText_1225,"This mission was planned only as a area familiarisation flight, meant to get the 74th pilots acquainted with the AO and also have a look at the mountainous area in the north where most of the fighting takes place. It was also meant to boost the morale of the Georgian population, which filled the Tbilisi stadium to the brim while waiting for a 4-ship Warthog formation to fly over the capital. Finally, the briefing given by our local liaison officer was supposed to set the picture for the upcoming days and weeks and increase the pilots' knowledge about the enemy and CLA's capabilities.\
+\
+It turned out to be much more than that, with Dodge 11 flight witnessing the cold-blooded execution of a whole team of Georgian soldiers by the terrorists.\
+\
+First the flyover. You arrived over the stadium earlier then expected, which had an impact on the general conduct of the ceremony.\
+\
+Moreover, you did not suceed in destroying all the enemy vehicles, allowing some of the CLA soldiers to get away and fight another day.","这次任务原本计划仅作为一个区域熟悉飞行，旨在让第74中队的飞行员熟悉作战区域（AO），并观察北部大部分战斗发生的山区。同时，这也旨在提升格鲁吉亚民众的士气，他们挤满了第比利斯体育场，等待四机编队的疣猪飞越首都。最后，当地联络官的简报本应为接下来的日子和几周定下基调，并增加飞行员对敌人和CLA能力的了解。\
+\
+然而，事情远不止如此，Dodge 11编队目睹了恐怖分子冷血处决整队格鲁吉亚士兵的场景。\
+\
+首先是飞越。你们比预期更早到达体育场上空，这对仪式的整体进行产生了影响。\
+\
+此外，你们未能摧毁所有敌方车辆，导致一些CLA士兵得以逃脱，准备再战。"
+DictKey_ActionText_,1227,DictKey_ActionText_1227,"This mission was planned only as a area familiarisation flight, meant to get the 74th pilots acquainted with the AO and also have a look at the mountainous area in the north where most of the fighting takes place. It was also meant to boost the morale of the Georgian population, which filled the Tbilisi stadium to the brim while waiting for a 4-ship Warthog formation to fly over the capital. Finally, the briefing given by our local liaison officer was supposed to set the picture for the upcoming days and weeks and increase the pilots' knowledge about the enemy and CLA's capabilities.\
+\
+It turned out to be much more than that, with Dodge 11 flight witnessing the cold-blooded execution of a whole team of Georgian soldiers by the terrorists.\
+\
+First the flyover. You arrived over the stadium too late, which didn't reflect well on the USAF professionalism.\
+\
+Moreover, you did not suceed in destroying all the enemy vehicles, allowing some of the CLA soldiers to get away and fight another day.\
+\","这次任务原本计划仅作为一个区域熟悉飞行，旨在让第74中队的飞行员熟悉作战区域（AO），并观察北部大部分战斗发生的山区。同时，这也旨在提升格鲁吉亚民众的士气，他们挤满了第比利斯体育场，等待四机编队的疣猪飞越首都。最后，当地联络官的简报本应为接下来的日子和几周定下基调，并增加飞行员对敌人和CLA能力的了解。\
+\
+然而，事情远不止如此，Dodge 11编队目睹了恐怖分子冷血处决整队格鲁吉亚士兵的场景。\
+\
+首先是飞越。你们到达体育场上空的时间太晚，这对美国空军的专业形象不利。\
+\
+此外，你们未能摧毁所有敌方车辆，导致一些CLA士兵得以逃脱，准备再战。"
+DictKey_ActionText_,1228,DictKey_ActionText_1228,"Switch back to your flight freq on UHF radio (251.0).\
+\
+Press SPACE BAR to remove this message.","切换回UHF无线电的飞行频率（251.0）。\
+\
+按空格键以移除此信息。"
+DictKey_ActionText_,1229,DictKey_ActionText_1229,,
+DictKey_descriptionBlueTask_,3,DictKey_descriptionBlueTask_3,"(Major Grey sits down and another officer takes his place in front of the screen. Col. Rick ‘SKIPPER’ Johnson is a tall man in his late  fifties, liked by both pilots and his superiors)\
+\
+Thank you, Major.\
+\
+You are to lead a 4-ship flight (callsign: Dodge 01) to Tbilisi. Your main task is to perform a low level overfly at the national stadium there, arriving exactly at 12:00 LT. You will be guided by Rockman, who departed for the capital yesterday. His callsign will be BEHOLDER. Local authorities have been forewarned about the flight plan and the information has been given to the media, so expect quite a crowd down there. Additionally, elements of our own 824th BDS have been placed along the route and especially between waypoints 3 and 4, where you will descend to 750 feet AGL. It is imperative that you stick to the fragged altitudes, which are available in your kneeboard, make sure to study the documents well before you depart. \
+\
+Make sure to switch on your RWRs and set up the defensive program - enemy tried to get us once already and may do so again.\
+\
+One more thing - strictly keep to your flight plan, as Georgian helicopters will be orbiting the main cities. They are aware of your arrival, just make sure you will be exactly where they expect you to be. \
+\
+After the flyby, turn towards Waypoint 5 and climb to Angels 15. Wait for Hunter 1-1 to join up with you. Hunter is a Georgian liaison officer that will be with us throughout this deployment. You will patrol over the CLA held territory with him and he will provide you with more information about the enemy. \
+\
+If you encounter any of these bastards, contact Overlord and request orders. You will be carrying live weapons and I want you to make a good use of it if need be.\
+\
+Any questions? Good. To your planes, gentlemen. \
+\
+FREQUENCIES:\
+Dodge (your flight): 251 UHF\
+AOC  (Overlord): 254.5 UHF\
+Beholder (Rockman): 142.3 FM\
+Hunter 1-1: 144.3\
+\
+WEATHER:\
+Scatered clouds, Cloud base: 18000 feet, temperature 09 degrees Celsius. Wind 4 knots / 224.\
+\
+\
+OBJECTIVES OVERVIEW\
+\
+PRIMARY:\
+Follow the flight plan and perform a low over-fly at WP4, located over Tbilisi Stadium exactly at 12:00 LT / 08:00 Zulu.\
+\
+SECONDARY: \
+Fly a patrol over CLA-held territory together with Hunter 1-1.\
+\
+REMARKS:\
+- Keep to the fragged altitudes during the mission.\
+\
+- Set your TOT for WP 4 -> 12:00 LT / 08:00 Z\
+\
+- Arm your CMS and prepare your flares after take off, be extra careful during the descent phase of the sortie (WP3 -> WP4).\
+\
+- Orbit at WP5 and wait for Hunter 1-1 to rejoin, don’t exceed 220 knots IAS at that stage. Use ECHELON LEFT formation. \
+During patrol do not exceed 300 knots GS.\
+\
+- WEAPONS HOLD until authorised to attack by Overlord","（格雷少校坐下，另一名军官走到屏幕前。里克·“老大”·约翰逊上校是一位五十多岁的高个子，深受飞行员和上级的喜爱）\
+\
+谢谢你，少校。\
+\
+你将带领一个四机编队（呼号：Dodge 01）前往第比利斯。你的主要任务是在国家体育场上空低空飞行，在当地时间12:00精准抵达。你将由昨天已出发前往首都的Rockman引导，他的呼号是BEHOLDER。当地政府已提前获知了飞行计划，这些信息同时也已传达给媒体，所以预计会有相当多的人围观。此外，我们自己的824th BDS（基地防御中队）也已沿途部署，特别是在航路点3和4之间，你将在那里下降到750英尺AGL。务必遵守计划中的高度，这些信息在你的膝板上可以找到，出发前务必仔细研究这些文件。\
+\
+确保打开你的RWR并设置防御程序——敌人曾试图攻击我们，可能还会再来。\
+\
+还有一件事——严格遵守你的飞行计划，因为格鲁吉亚直升机将在主要城市上空盘旋。他们知道你的到来，确保你在他们预期的位置出现。\
+\
+飞越体育场后，转向航路点5并爬升至15,000英尺。等待Hunter 1-1与你会合。Hunter是一名格鲁吉亚联络官，将在整个部署期间都会和我们同行。你将与他一起在CLA控制的领土上巡逻，他会为你提供更多关于敌人的信息。\
+\
+如果遇到任何敌人，联系Overlord并请求指令。你将携带实弹，如果必要，我希望你能好好使用它们。\
+\
+有问题吗？很好。登上自己的飞机吧，先生们。\
+\
+频率：\
+Dodge（你的编队）：251 UHF\
+AOC（Overlord）：254.5 UHF\
+Beholder（Rockman）：142.3 FM\
+Hunter 1-1：144.3\
+\
+天气：\
+零散云，云底：18,000英尺，温度9摄氏度。风速4节/224度。\
+\
+任务概览\
+\
+主要目标：\
+遵循飞行计划，并在航路点4（位于第比利斯体育场上空）低空飞行，准确在当地时间12:00 / 08:00 Zulu到达。\
+\
+次要目标：\
+与Hunter 1-1一起在CLA控制的领土上巡逻。\
+\
+备注：\
+- 在任务期间保持计划中的高度。\
+- 设置航路点4的到达时间为12:00 LT / 08:00 Z。\
+- 起飞后设置你的CMS并准备好热诱弹，在任务低飞阶段（航路点3到航路点4）要格外小心。\
+- 在航路点5盘旋并等待Hunter 1-1加入编队，此阶段不要超过220节IAS。使用左梯队编队。在巡逻期间不要超过300节地速。\
+- 在Overlord授权攻击之前保持武器待命。"
+DictKey_descriptionNeutralsTask_,4,DictKey_descriptionNeutralsTask_4,,
+DictKey_descriptionRedTask_,2,DictKey_descriptionRedTask_2,,
+DictKey_descriptionText_,1,DictKey_descriptionText_1,"BRIEFING\
+29 March 2012, 10:00 local time\
+\
+(The briefing room in Kobuleti airport is located in an small, old barracks not far from the tower. Pilots, mechanics sit on plastic chairs in a room containing a chalkboard, projector and medium-sized screen. As usual, mission preparation is divided into two sections - intelligence and tasking. The first one is being presented by Major Nicholas Grey, Squadron Intelligence Officer)\
+\
+Welcome to Georgia to all those, who arrived yesterday onboard a ship, gentlemen.\
+\
+I am sure you all know why we are here. In short - it seems that another front in the war against terror has just opened in Georgia. A group calling itself  the 'Caucasus Liberation Army’ or CLA for short, has struck at least twelve targets - both civilian and military - throughout the country in the last few weeks. The first attack happened just after Georgia was promised a Membership Action Plan by NATO in September 2011. Others followed between then and 15 March, when 14 Georgian conscripts were killed in a suicide bomb attack on barracks near Gori. We have witnessed the last one upon arrival of our Hogs, when two civilian buildings were bombed to lure our planes into the trap.  \
+\
+For those who just came here, let me repeat some basic facts. After the attacks, Georgian authorities asked NATO for help in containing the threat. So far no decision has been taken by the Alliance, however President Obama decided to support the new potential NATO member and sent a number of A10's from the 74th Fighter Squadron. So here we are.\
+\
+We do not know too much about the CLA, apart from the fact that it is a militant Islamic organisation which originated somewhere in North Caucasus. It might have links to Caucasus Emirate, yet this remains to be confirmed, as the latter is seen mainly as an anti-Russian movement, while CLA seems to be more anti-western. While our boys in the CIA and other agencies sort this out, we have our job to do here.\
+\
+The morale among Georgian people is currently low, as terror is spreading. Our arrival here is seen almost as a miracle, which you could have easily observed at the airport. Our first task is to help the government contain the dissent. The Pentagon wants us to be visible, that is command came up with a simple plan - but more on that from Col. Johnson.","简报\
+2012年3月29日，上午10:00当地时间\
+\
+（科布列季机场的简报室位于塔台附近的一座小型旧兵营中。飞行员和机械师坐在一个有黑板、投影仪和中型尺寸的屏幕的房间里，坐在塑料椅子上。像往常一样，任务准备分为两个部分——情报和任务分配。第一部分由中队情报官尼古拉斯·格雷少校介绍）\
+\
+欢迎各位昨天乘船抵达格鲁吉亚的先生们。\
+\
+我相信你们都知道我们为什么在这里。简而言之——在格鲁吉亚，反恐战争似乎现在才刚打响。一个自称“高加索解放阵营”（简称CLA）的组织在过去几周内袭击了全国至少十二个目标，包括平民和军事目标。第一次袭击发生在2011年9月，格鲁吉亚获得加入北约成员的承诺后。随后至3月15日期间，14名格鲁吉亚新兵在哥里附近的兵营遭自杀式炸弹袭击身亡。我们抵达时，目睹了至今为止的最后一次袭击，两个民用建筑被炸毁，以引诱我们的飞机进入陷阱。\
+\
+对于刚到这里的人，我再重复一些基本事实。袭击发生后，格鲁吉亚当局请求北约协助以遏制威胁。目前北约尚未作出正式决定，但奥巴马总统决定支持这个新的潜在北约成员，并派遣了第74战斗中队的多架A10战机。这就是我们在这里的原因。\
+\
+关于CLA，我们所知不多，只知道它是一个起源于北高加索的激进伊斯兰组织。它可能与高加索酋长国有联系，但这还有待确认，因为高加索酋长国主要反俄，而CLA似乎更反西方。我们的CIA和其他机构的同事正在查清这个问题，而与此同时，我们在这也有我们自己的工作要做。\
+\
+由于恐怖活动蔓延，目前格鲁吉亚人民的士气很低。我们的到来几乎被当成了神迹，你们在机场应该很容易观察到这一点。我们的首要任务是帮助政府遏制异见者。五角大楼希望我们能得到更多关注，因此指挥部提出了一个简单的计划——但更多细节由约翰逊上校来介绍。"
+DictKey_sortie_,5,DictKey_sortie_5,TEW3 M03: Restoring Hope,TEW3 M03：重获希望
+DictKey_subtitle_,85,DictKey_subtitle_85,"PLAYER: Alright, Dodge flight, take off briefing. We are going to go with 10 second separation, flaps maneuvering unti 180 knots and then we're going  to climb at 5 degrees until everybody is in formation. We will increase our speed and continue our climb to level off at 15 000. We'll get above 10 000 as soon as possible since the Georgian Inteligence Service and our intel have determined that MANPAD attack probability is very high.  So we won't be taking any chances until we get to Tbilisi. Any questions?","玩家：好的，Dodge编队，起飞简报。我们将以10秒间隔起飞，180节收襟翼，然后以5度爬升，直到所有人加入编队。我们将加速并继续爬升，在15,000尺平飞。我们会尽快升到10,000英尺以上，因为格鲁吉亚情报局和我们自己的情报已经确定，遭遇MANPAD攻击的概率非常高。所以在到达第比利斯之前，我们不希望遭遇任何风险。有问题吗？"
+DictKey_subtitle_,87,DictKey_subtitle_87,"WINGMAN (GHOST): Two, negative.",僚机（GHOST）：二号，没问题。
+DictKey_subtitle_,89,DictKey_subtitle_89,"WINGMAN 2 (CAPTAIN): Three, no questions.",僚机2（CAPTAIN）：三号，没问题。
+DictKey_subtitle_,91,DictKey_subtitle_91,"WINGMAN 3 (SIX-PACK): Four, all clear, good to go.",僚机3（SIX-PACK）：四号，清楚了，可以出发。
+DictKey_subtitle_,93,DictKey_subtitle_93,"PLAYER: Alright, Lead is rolling.",玩家：好的，长机开始滑行。
+DictKey_subtitle_,95,DictKey_subtitle_95,"PLAYER: Lead, gear Up",玩家：长机，起落架收起。
+DictKey_subtitle_,97,DictKey_subtitle_97,WINGMAN (GHOST): Two is saddled.,僚机（GHOST）：二号就位。
+DictKey_subtitle_,99,DictKey_subtitle_99,WINGMAN 2 (CAPTAIN): Three is in formation.,僚机2（CAPTAIN）：三号已加入编队。
+DictKey_subtitle_,101,DictKey_subtitle_101,"WINGMAN 3 (SIX-PACK): Four, saddled.",僚机3（SIX-PACK）：四号就位。
+DictKey_subtitle_,103,DictKey_subtitle_103,"PLAYER: And Dodge flight, set climb power.",玩家：Dodge编队，设置爬升推力。
+DictKey_subtitle_,105,DictKey_subtitle_105,"WINGMAN 3 (SIX-PACK): Hold on, there's a throttle position between full and idle?",僚机3（SIX-PACK）：等等，咱的油门还有个介于怠速和全推力之间的位置吗？
+DictKey_subtitle_,283,DictKey_subtitle_283,"PLAYER: Alright, we should be above the MANPAD threat level at this point, but configure and arm your countermeasures and keep your eyes outside your aircraft. We're going to keep our NAV lights on until we get to the Tbilisi because we want to be seen by the locals. This sortie is designed to boost their morale.",玩家：好了，我们现在应该在MANPAD威胁高度的上方了，但还是要配置好对抗措施，并留意舱外。我们将在到达第比利斯之前保持导航灯开启，我们希望被当地人看到。这次出击是为了提升他们的士气。
+DictKey_subtitle_,285,DictKey_subtitle_285,WINGMAN (GHOST): In that case we should be going really low over the major cities. Nothing boosts morale as the sound of Hogs engines!,僚机（GHOST）：那样的话，我们应该在主要城市上空超低空飞行。没什么能比疣猪引擎的声音更能提升士气！
+DictKey_subtitle_,287,DictKey_subtitle_287,WINGMAN (CAPTAIN): Don't forget about the sound of the gun!,僚机（CAPTAIN）：还有疣猪机炮的声音！
+DictKey_subtitle_,289,DictKey_subtitle_289,WINGMAN (GHOST): Not sure if that would be entirely appropriate...,僚机（GHOST）：你自己看看你说的什么话……
+DictKey_subtitle_,291,DictKey_subtitle_291,"PLAYER: The Georgians wanted us to fly as low and slow as possible over as many towns and cities as we could along the way. That idea was immediately dismissed by the colonel. I believe the exact words were: \""That's a damn stupid idea\"", because loosing a Hog on the second day of operations is not exactly his idea of boosting the locals morale.",玩家：格鲁吉亚人希望我们沿途，在尽可能多的城镇上空，以尽可能低和慢的速度飞行。这个想法被上校立即否决了。我相信他的原话是：“那是个非常蠢的想法”。因为他觉得，在行动第二天就损失一架疣猪，显然并不能提振士气。
+DictKey_subtitle_,293,DictKey_subtitle_293,WINGMAN 2 (CAPTAIN): Can't say I disagree. That road from the port to the airfield yesterday was completely crazy.,僚机2（CAPTAIN）：我完全同意。昨天从港口到机场，一路上太惊险了。
+DictKey_subtitle_,295,DictKey_subtitle_295,PLAYER: It was indeed.,玩家：确实如此。
+DictKey_subtitle_,311,DictKey_subtitle_311,"PLAYER: We're going to stay above 150 until we get to WP 3, then we'll start our descent. I want you guys to be extra careful at this point, because this is where we're going to be the most vulnerable. The Georgians have placed patrols along our flight path, but keep that finger on the countermeasures switch. We'll check in with Rockman when we get closer, he's going to be directing us today.","玩家：我们将在15,000以上飞行，直到到达航路点3，然后开始下降。我希望你们在下降后格外小心，因为那是我们最脆弱的时候。格鲁吉亚人在我们的飞行路径上部署了巡逻队，但还是要随时准备好使用对抗措施。我们接近任务区时会与Rockman联系，他会为我们引导方向。"
+DictKey_subtitle_,313,DictKey_subtitle_313,"PLAYER: We will level out at 750 feet AGL over Tbilisi and will try to make a good impression. Then we'll turn north, climb out to 15 000, we're going to orbit and wait for Hunter 1-1 to rejoin. We're going to follow him to the northern part of the country where there are big swaths that are under the de facto control of the CLA.","玩家：我们将在第比利斯上空750英尺AGL高度平飞，尽量留下好印象。然后我们将向北转向，爬升至15,000英尺，盘旋并等待Hunter 1-1加入编队。我们将跟随他前往格鲁吉亚北部，那里有大片区域，实际上已经落入CLA手中。"
+DictKey_subtitle_,315,DictKey_subtitle_315,WINGMAN 3 (SIX-PACK): Who is this guy? The one that's going to be briefing us?,僚机3（SIX-PACK）：这个人是谁？就是那个要给我们简报的人？
+DictKey_subtitle_,317,DictKey_subtitle_317,PLAYER: He is a major in their intelligence service. He is a liaison with the Georgian army throughout our deployment here.,玩家：他是他们情报部门的一名少校。在我们部署期间，他担任格鲁吉亚军方的联络官。
+DictKey_subtitle_,319,DictKey_subtitle_319,WINGMAN 3 (SIX-PACK): Good! He may be giving some intel where the good bars and clubs are!,僚机3（SIX-PACK）：太好了！他应该知道好酒吧和夜总会都在哪里！
+DictKey_subtitle_,321,DictKey_subtitle_321,"PLAYER: You feel free to liaise with him on that after the sortie, OK?",玩家：等任务结束后，你可以随意和他探讨这个话题，好吗？
+DictKey_subtitle_,323,DictKey_subtitle_323,WINGMAN 2 (CAPTAIN): Will we go over the mountains that they are allegedely getting their weapons through from Chechnya?,僚机2（CAPTAIN）：我们会飞越那些，据说有车臣人在给叛军运送武器的山吗？
+DictKey_subtitle_,325,DictKey_subtitle_325,PLAYER: Negative. GIS believes that only part of the shipments goes through the mountain ranges. In fact they think that the Russians are turning blind eye on the truck loads full of ammo and equipment going through the Roki tunnel in South Ossetia.,玩家：不会。而且，格鲁吉亚情报局认为只有部分运输是翻越山脉的。事实上，他们认为，满载弹药和装备的卡车时刻都在穿越南奥塞梯的罗基隧道，而俄罗斯对此视而不见。
+DictKey_subtitle_,327,DictKey_subtitle_327,WINGMAN (GHOST): Turning the blind eye or actively supporting?,僚机（GHOST）：是视而不见还是积极支持？
+DictKey_subtitle_,329,DictKey_subtitle_329,PLAYER: We'll ask the Georgian major later during the sortie. For now just relax and enjoy the views.,玩家：我们稍后在任务中问问那位格鲁吉亚少校。现在放松一下，欣赏风景吧。
+DictKey_subtitle_,331,DictKey_subtitle_331,"PLAYER: Alright guys, we are on unsecured comms, let's go ahead and tighten the radio discipline.",玩家：好了，各位，我们现在使用的是非加密通信，保持无线电纪律。
+DictKey_subtitle_,352,DictKey_subtitle_352,"WINGMAN 3 (SIX-PACK): Hey, Captain. I meant to ask you - how was that Herc ride coming in to Georgia?",僚机3（SIX-PACK）：嘿，Captain。我想问你——来格鲁吉亚路上，“大力神”乘坐体验怎么样？
+DictKey_subtitle_,354,DictKey_subtitle_354,"WINGMAN 2 (CAPTAIN): I enjoyed every second of it. Actually spent most of the time in the pit, chatting with the pilots.",僚机2（CAPTAIN）：我跟你讲，舒服极了。实际上我没在后舱，而是大部分时间都在驾驶舱里和飞行员聊天。
+DictKey_subtitle_,356,DictKey_subtitle_356,"WINGMAN 3 (SIX-PACK): Well, since you spent so much time talking to them, maybe you can answer me this: what the C-130 need four people in the pit for? I mean I get the pilot and the co, but what are the other two for?",僚机3（SIX-PACK）：既然你跟他们聊了那么久，也许你能解答我的这条困惑：C-130的驾驶舱里为什么要有四个人？我是说，我理解飞行员和副驾驶，但另外两个是干什么的？
+DictKey_subtitle_,358,DictKey_subtitle_358,"WINGMAN 2 (CAPTAIN): Actually, other three. You also have a navigator, flight engineer and a loadmaster.",僚机2（CAPTAIN）：实际上，还有三个。你还需要一个领航员、飞行工程师和装载长。
+DictKey_subtitle_,360,DictKey_subtitle_360,"WINGMAN 3 (SIX-PACK): See, that's what's been bugging me...I mean, you've got two pilots in the huge pit. You have all the nav info and more on the MFDs. you may need there and more. The hell you be needing the nav for?",僚机3（SIX-PACK）：你看，这就是让我困惑的地方……我是说，你有两个飞行员在这么大的驾驶舱里。多功能显示器上有所有导航信息和那么丰富的其他数据。为什么还需要领航员？
+DictKey_subtitle_,362,DictKey_subtitle_362,"WINGMAN 2 (CAPTAIN): Hey, do I look like I'm some sort of a C-130 expert? I just flew in one to Georgia.",僚机2（CAPTAIN）：嘿，我看起来像是C-130专家吗？我只是坐着它飞到格鲁吉亚而已。
+DictKey_subtitle_,370,DictKey_subtitle_370,"WINGMAN 2 (CAPTAIN): One has to admit, country sure is beautiful.",僚机2（CAPTAIN）：不得不承认，这个国家确实很美。
+DictKey_subtitle_,372,DictKey_subtitle_372,WINGMAN (GHOST): Just wait until we get over the mountains. The views there are absolutely amazing.,僚机（GHOST）：等我们飞过山脉后再看。那里的景色绝对令人惊叹。
+DictKey_subtitle_,374,DictKey_subtitle_374,"WINGMAN 2 (CAPTAIN): So I've heard. They are pretty tall, right?",僚机2（CAPTAIN）：我听说过。它们很高，对吧？
+DictKey_subtitle_,376,DictKey_subtitle_376,"WINGMAN (GHOST): Yeah, they are. I think the highest peak is about 17000 feet, somewhere near the Russian border.","僚机（GHOST）：是的，很高。我记得最高峰大约有17,000英尺，在靠近俄罗斯边境的某个地方。"
+DictKey_subtitle_,378,DictKey_subtitle_378,"WINGMAN 3 (SIX-PACK): That's actually pretty smart, keeping the Russians behind a huge mountain range.",僚机3（SIX-PACK）：用一大片山脉把俄罗斯挡在外面，这倒是个战略优势。
+DictKey_subtitle_,380,DictKey_subtitle_380,"WINGMAN (GHOST): Yeah, and the best thing about Georgia is the Borjomi natural park. And make sure to try the Borjomi mineral water if you can, it is not just famous here, but in Russia too!",僚机（GHOST）：是的，格鲁吉亚最棒的地方是博尔若米（Borjomi）自然公园。如果可以的话，一定要尝尝博尔若米矿泉水，它不仅在这有名，在俄罗斯也很有名！
+DictKey_subtitle_,382,DictKey_subtitle_382,WINGMAN 3 (SIX-PACK): You seem to know a hell of a lot about this country.,僚机3（SIX-PACK）：你似乎很了解这个国家。
+DictKey_subtitle_,384,DictKey_subtitle_384,"WINGMAN (GHOST): Well, that would be because my wife is Armenian. We spent around two years in the South Caucasus.",僚机（GHOST）：因为我妻子是亚美尼亚人。我们在南高加索地区待了大约两年。
+DictKey_subtitle_,386,DictKey_subtitle_386,"WINGMAN (SIX-PACK): OK, cool. I'm going to want to pick your brain after we land, then.",僚机（SIX-PACK）：太好了。那我们着陆后我想向你请教一下。
+DictKey_subtitle_,402,DictKey_subtitle_402,"PLAYER: And Dodge flight, push 142.3, standby for check-in with Beholder.",玩家：Dodge编队，切换到142.3，准备与Beholder联系。
+DictKey_subtitle_,418,DictKey_subtitle_418,"PLAYER: Beholder, Beholder, Dodge 1-1, checking in as fragged, passing waypoint 2, how copy?",玩家：Beholder，Beholder，Dodge 1-1，按计划报告，经过航路点2，是否收到？
+DictKey_subtitle_,420,DictKey_subtitle_420,"BEHOLDER (ROCKMAN): Dodge 1-1, Beholder, you're looking good. You are expected here at 12:00 sharp. Descend to 750 feet AGL at waypoint 4, then pull up, turn left and climb out. Orbit at waypoint 5 and randezvous with Hunter.",Beholder（ROCKMAN）：Dodge 1-1，Beholder，通信状态良好。希望你们能在12:00准时到达。到航路点4时下降至750英尺AGL，然后拉升，左转并爬升。在航路点5盘旋，与Hunter会合。
+DictKey_subtitle_,422,DictKey_subtitle_422,"PLAYER: Dodge 1-1 copies all, we'll check-in at WP 3 before we descend.",玩家：Dodge 1-1收到，我们将在航路点3前联系。
+DictKey_subtitle_,424,DictKey_subtitle_424,"PLAYER: Beholder, Dodge 1-1, checking in, waypoint 3, preparing for descent.",玩家：Beholder，Dodge 1-1，报告，到达航路点3，准备下降。
+DictKey_subtitle_,426,DictKey_subtitle_426,"BEHOLDER (ROCKMAN): Copy that, Dodge 1-1. Be advised, Georgian forces have secured the area below you, you should be good to go, but better keep your eyes open.",Beholder（ROCKMAN）：收到，Dodge 1-1。注意，格鲁吉亚部队已控制你下方的区域，你可以继续，但最好保持警惕。
+DictKey_subtitle_,428,DictKey_subtitle_428,PLAYER: Copy.,玩家：收到。
+DictKey_subtitle_,430,DictKey_subtitle_430,"BEHOLDER (ROCKMAN): Heads up, you have helicopters hovering at 1000 feet AGL around 2000 feet south and south - east from your route.",Beholder（ROCKMAN）：注意，你的航线上南方和东南方约2000英尺处有直升机在1000英尺AGL悬停。
+DictKey_subtitle_,432,DictKey_subtitle_432,PLAYER: Copy.,玩家：收到。
+DictKey_subtitle_,434,DictKey_subtitle_434,"PLAYER: Beholder, Dodge 1-1 is at 750 AGL, approaching waypoint 4.",玩家：Beholder，Dodge 1-1在750英尺AGL，接近航路点4。
+DictKey_subtitle_,436,DictKey_subtitle_436,"BEHOLDER (ROCKMAN): Dodge 1-1, you're looking good!",Beholder（ROCKMAN）：Dodge 1-1，你的速度很好！
+DictKey_subtitle_,438,DictKey_subtitle_438,"BEHOLDER (ROCKMAN): Dodge 1-1, copy, you're a bit ahead of time.",Beholder（ROCKMAN）：Dodge 1-1，收到，你稍微提前了一点。
+DictKey_subtitle_,440,DictKey_subtitle_440,"BEHOLDER (ROCKMAN): Dodge 1-1, roger, hurry up, you're behind schedule!",Beholder（ROCKMAN）：Dodge 1-1，明白，加快速度，你比计划时间落后了！
+DictKey_subtitle_,442,DictKey_subtitle_442,"BEHOLDER (ROCKMAN): Dodge Flight, Beholder, good work! People love you!",Beholder（ROCKMAN）：Dodge编队，Beholder，干得好！大家都喜欢你们！
+DictKey_subtitle_,444,DictKey_subtitle_444,"PLAYER: Copy that, Rockman, enjoy your time and represent us well. Dodge flight is pushing to waypoint 5 and checking in with Hunter. Dodge flight out.",玩家：收到，Rockman，祝你一切顺利，维护好我们的形象。Dodge编队前往航路点5，与Hunter联系。Dodge编队完毕。
+DictKey_subtitle_,471,DictKey_subtitle_471,"PLAYER: Dodge flight, TOT for waypoint 4: 12:00.",玩家：Dodge编队，航路点4的到达时间（TOT）：12:00。
+DictKey_subtitle_,473,DictKey_subtitle_473,"WINGMAN (GHOST): Two, 12:00 set.",僚机（GHOST）：二号，12:00设定完毕。
+DictKey_subtitle_,475,DictKey_subtitle_475,"WINGMAN 2 (CAPTAIN): Three, time set.",僚机2（CAPTAIN）：三号，时间设定完毕。
+DictKey_subtitle_,477,DictKey_subtitle_477,WINGMAN 3 (SIX-PACK): Four.,僚机3（SIX-PACK）：四号。
+DictKey_subtitle_,479,DictKey_subtitle_479,"PLAYER: We're coming up to waypoint 3, I will be contacting Beholder in 5.",玩家：我们即将到达航路点3，我将在5分钟内联系Beholder。
+DictKey_subtitle_,481,DictKey_subtitle_481,"PLAYER: Dodge flight, descend to fragged altitude, maintain formation, check countermeasures.",玩家：Dodge编队，下降到计划高度，保持编队，检查对抗措施。
+DictKey_subtitle_,483,DictKey_subtitle_483,WINGMAN (GHOST): Two.,僚机（GHOST）：二号。
+DictKey_subtitle_,485,DictKey_subtitle_485,"WINGMAN 2 (CAPTAIN): Three, rog.",僚机2（CAPTAIN）：三号，明白。
+DictKey_subtitle_,488,DictKey_subtitle_488,WINGMAN 3 (SIX-PACK): Four.,僚机3（SIX-PACK）：四号。
+DictKey_subtitle_,490,DictKey_subtitle_490,"PLAYER: Alright guys, keep your formation tight, lets do this!",玩家：好了，大家保持紧密编队，开始行动！
+DictKey_subtitle_,557,DictKey_subtitle_557,"HUNTER 1-1: Dodge 1-1, this is Hunter 1-1, we have you visual, coming from the south at 15 000 feet.",Hunter 1-1：Dodge 1-1，这里是Hunter 1-1，我们已目视到你们，正从南方15000英尺处靠近。
+DictKey_subtitle_,559,DictKey_subtitle_559,PLAYER: Let's anchor here and wait for Hunter to rejoin.,玩家：我们在这里盘旋，等待Hunter加入编队。
+DictKey_subtitle_,561,DictKey_subtitle_561,WINGMAN 3 (SIX-PACK): That was a lot of people down there! And did you hear that cheeting in the background?,僚机3（SIX-PACK）：下面有很多人！你听到背景里的欢呼声了吗？
+DictKey_subtitle_,563,DictKey_subtitle_563,WINGMAN 2 (CAPTAIN): This is definitely one of those places where the DO want to see the US troops.,僚机2（CAPTAIN）：这地方绝对是那种，当地人真心期待美军到来的地区。
+DictKey_subtitle_,565,DictKey_subtitle_565,,
+DictKey_subtitle_,567,DictKey_subtitle_567,"WINGMAN (GHOST): Come on guys, we can act like heroes when we actually root out the terrorists. So far we haven't really done anything aside from looking good.",僚机（GHOST）：拜托，伙计们，等我们真正铲除恐怖分子时再当英雄吧。到目前为止，我们除了看起来不错，还真没做什么。
+DictKey_subtitle_,575,DictKey_subtitle_575,"WINGMAN 3 (SIX-PACK): That's because it is not just what you do, but also how you do it that counts.",僚机3（SIX-PACK）：重要的不只是你做到了什么，还在于你是怎么做的。
+DictKey_subtitle_,591,DictKey_subtitle_591,"PLAYER: Hunter 1-1, Dodge 1-1, copy. You're cleared to join up when able.",玩家：Hunter 1-1，Dodge 1-1，收到。准备好时可以加入。
+DictKey_subtitle_,593,DictKey_subtitle_593,HUNTER 1-1: Hunter 1-1 is in formation.,Hunter 1-1：Hunter 1-1已加入编队。
+DictKey_subtitle_,595,DictKey_subtitle_595,"PLAYER: Roger that, we're pushing to waypoint 6. OK, we're all ears, looking forward to learn more about the situation.",玩家：收到，我们前往航路点6。我们会仔细收听，期待你能让我们了解更多情况。
+DictKey_subtitle_,597,DictKey_subtitle_597,"HUNTER 1-1: Thank you. When we were preparing your flight plan we decided to take you to the edge of the area which is no longer under effective Tbilisi control. And contrary to what you'll hear in Georgian TV channels, it is quite a big part of the country.",Hunter 1-1：谢谢。当我们准备你的飞行计划时，我们决定带你到不再受第比利斯有效控制的区域转一转。与格鲁吉亚电视台说的恰恰相反，这些敌占区实际上占了格鲁吉亚领土很大一部分。
+DictKey_subtitle_,599,DictKey_subtitle_599,"WINGMAN 3 (SIX-PACK): Don't want the people to panic, huh?",僚机3（SIX-PACK）：不想让民众恐慌，是吧？
+DictKey_subtitle_,601,DictKey_subtitle_601,"HUNTER 1-1: Of course. But I can't stress enough how much your arrival here means to us. Your six jets are like a whole army coming to our aid. And we need assistance. I will be frank with you: the situation, also from the military point of view, is very bad.",Hunter 1-1：当然。我很难表达你们的到来对我们有多重要。你们六架战机，就像一整支前来支援我们的军队一样。我们也确实需要帮助。我坦诚地讲，眼下的局势，不论是从军事角度还是别的角度来看，都非常糟糕。
+DictKey_subtitle_,603,DictKey_subtitle_603,"HUNTER 1-1: We have been effectively pushed out from a big part of our own land. We will get there pretty soon, a whole large area between Oni and Enguri Dam. Everything north of that line save for some major roads and a few settlements, is controlled by the CLA. They are claiming this area is to become a \""new caliphate\"".",Hunter 1-1：实际上，我们已经被从我们自己的大片土地上赶了出去。我们很快就会飞到那里，奥尼（Oni）和英古里坝（Enguri Dam）之间的一大片地区。这条连线以北的所有地区，除了几条主要道路和少数定居点，都被CLA控制。他们声称要在这片地区建立一个“新哈里发国”。
+DictKey_subtitle_,605,DictKey_subtitle_605,"WINGMAN 2 (CAPTAIN): It is that bad? But you have regular army, helicopters, airplanes... you should be able to fight them back.",僚机2（CAPTAIN）：情况有这么糟吗？你们有正规地面部队、直升机、固定翼……你们理应能反击他们。
+DictKey_subtitle_,607,DictKey_subtitle_607,"HUNTER 1-1: In theory: yes. But the area they control is very unforgiving and difficult, with high mountains and thick forests. We also believe that the CLA is getting a constant flow of reinforcements. The battle - hardened veterans from the Chechen wars from the north... and also trainers from Hezbollah arriving from the south.",Hunter 1-1：理论上是这样。但他们控制的区域非常艰险，到处是高山和密林。我们相信CLA还在不断得到增援。从北方来的车臣战争的老兵，以及从南方来的真主党的教官。
+DictKey_subtitle_,609,DictKey_subtitle_609,DODGE 1-2 (GHOST): That sounds really serious. Any estimates on their numbers?,Dodge 1-2（GHOST）：听起来很严重。能预估他们的人数吗？
+DictKey_subtitle_,611,DictKey_subtitle_611,"HUNTER 1-1: As we don't have access to the territory they control, we can't tell how many have arrived. We only get sporadic data from the people that manage to escape from the \""new Caliphate\"", but there is not enough to draw a clear picture. But we know that civilians are not allowed to leave. They are also being killed, used as slaves and worse...",Hunter 1-1：由于我们无法进入他们控制的区域，我们无法确定有多少人到达。我们只能从设法逃出“新哈里发国”的人那里得到零星的数据，但不足以描绘出清晰的图景。不过我们知道平民不被允许离开。他们还被杀害、奴役，甚至更糟……
+DictKey_subtitle_,613,DictKey_subtitle_613,DODGE 1-2 (GHOST): What about their equipment? What do they have access to?,Dodge 1-2（GHOST）：他们的装备怎么样？他们能获得什么？
+DictKey_subtitle_,615,DictKey_subtitle_615,"HUNTER 1-1: Whatever they can bring over mountains from Chechnya. They use donkeys, so mostly light equipment, including MANPADs and machine guns, which they later mount on trucks. There are rumours, however, that they managed to bring some heavier stuff, including the APCs, with quiet consent of the Russians.",Hunter 1-1：他们能翻越山岭从车臣带来的任何东西。但他们使用驴子运输，所以主要是轻型装备，包括便携式防空导弹和机枪，运抵后会安装在卡车上。不过有传言说，他们设法带来了一些重型装备，包括装甲运兵车，且得到了俄罗斯的默许。
+DictKey_subtitle_,617,DictKey_subtitle_617,"WINGMAN 2 (CAPTAIN): I heard they would do anything to undermine your government, but creating a new potentially hostile entity just at their borders? I doubt it. Who knows where the CLA would strike next... if we didn't take them out, which we will, of course.",僚机2（CAPTAIN）：我得到的消息是，他们会不择手段地削弱你们的官方力量，但在边境上创造一个新的潜在敌对实体？我对此表示怀疑。如果不尽快消灭他们，谁知道CLA接下来会攻击哪……当然我们会的。
+DictKey_subtitle_,619,DictKey_subtitle_619,PLAYER: Speaking of which: do we know who their leaders are? Usually it is enough to cut off the head of the snake...,玩家：说到消灭他们，知道他们的领导是谁吗？通常只要斩断蛇头就够了……
+DictKey_subtitle_,621,DictKey_subtitle_621,"HUNTER 1-1: Or several heads. We are still trying to determine who is running the whole operation, we will share it with you once we are certain of their ID and role played in the organisation. But I agree, taking out a few high - value targets will be a crucial part of the whole campaign.",Hunter 1-1：没准是好几个头。我们仍在努力确定谁在指挥整个行动，一旦确认他们的身份和在组织中的角色，我们会与你们分享。但我同意你的观点，消灭几个高价值目标将是整个战役的关键部分。
+DictKey_subtitle_,623,DictKey_subtitle_623,"HUNTER 1-1: Alright, the area to our 2 o'clock and extending north and west from there is mostly controlled by the CLA. As I mentioned, we're maintaining several checkpoints inside and are also trying to patrol the outskirts, but for the moment the goal is rather to try and keep the terrorists away from TCT (Tbilisi Controlled Territory) than to retake any of the land.",Hunter 1-1：好的，注意我们两点钟方向的区域，向北侧和西侧延伸的地方大部分被CLA控制。如我所说，我们在内部维持几个检查站，并尝试在外围巡逻，但当前的目标是尽量将恐怖分子阻挡在第比利斯控制区（TCT）之外，而不是夺回任何土地。
+DictKey_subtitle_,625,DictKey_subtitle_625,"HUNTER 1-1: As you can see, these are mostly highlands, mountains and forests. The enemy is keeping their training camps and supply depots there.",Hunter 1-1：如你所见，这里大多是高地、山脉和森林。敌人在那里设有训练营和补给站。
+DictKey_subtitle_,627,DictKey_subtitle_627,WINGMAN (GHOST): So you say that they might have some armoured vehicles at their disposal?,僚机（GHOST）：你说过，他们可能有一些装甲车辆？
+DictKey_subtitle_,629,DictKey_subtitle_629,"HUNTER 1-1: They most certainly do. I think I didn't mention that we lost contact with several of our patrols in Cobras, BTR-80s and BMPs. Some probably were destroyed, but others could have... most probably were captured. There is also an issue of some of the soldiers that could have switched sides.",Hunter 1-1：他们肯定有。我刚刚忘记说了，我们与几支使用眼镜蛇装甲车、BTR-80和BMP的巡逻队失去了联系。有些可能被摧毁了，但其他的可能……很可能被俘获了。还有一些士兵可能会有倒戈的问题。
+DictKey_subtitle_,631,DictKey_subtitle_631,"WINGMAN 3 (SIX-PACK): Wow, wow, wow. Could have switched sides? We're talking treason here. You're gonna tell me your soldiers defected and joined the terrorists?",僚机3（SIX-PACK）：喂，喂，喂。倒戈？你是说叛变？你是说你的士兵叛逃并加入了恐怖分子？
+DictKey_subtitle_,633,DictKey_subtitle_633,WINGMAN 2 (CAPTAIN): They have Georgian vehicles and uniforms? No telling what kind of trouble they can start!,僚机2（CAPTAIN）：他们有格鲁吉亚的车辆和制服？如果是这样，不敢想象他们能制造多么大的麻烦！
+DictKey_subtitle_,635,DictKey_subtitle_635,HUNTER 1-1: That is why I told you that the situation was really bad. We're working around the clock to find out who their leaders are and where do they operate from.,Hunter 1-1：这就是我告诉你们情况非常糟糕的原因。我们正在昼夜不停地工作，以找出他们的领导是谁以及他们的活动地点。
+DictKey_subtitle_,637,DictKey_subtitle_637,"HUNTER 1-1: This is Hunter 1-1, I can see some smoke and fire on our 2 o'clock.. can you have a closer look?",Hunter 1-1：这里是Hunter 1-1，我在我们两点钟方向看到一些烟雾和火光……你能靠近看看吗？
+DictKey_subtitle_,639,DictKey_subtitle_639,"PLAYER: Hunter 1-1, Dodge flight's tally, standby.",玩家：Hunter 1-1，Dodge编队发现目标，待命。
+DictKey_subtitle_,641,DictKey_subtitle_641,"PLAYER: Dodge 1-1 is tally a group of footmobiles holding four people in Georgian uniforms against the wall... tangos are rising their weapons and taking aim. There is also an APC, a Cobra, close by... the gunner is wearing Georgian uniform but is also aiming at the soldiers. They started shooting, it is an execution!",玩家：Dodge 1-1，发现一群步兵把四名穿着格鲁吉亚制服的人押在墙边……敌人正在举枪瞄准。附近还有一辆装甲运兵车（APC），一辆眼镜蛇装甲车，炮手穿着格鲁吉亚制服，但也在瞄准那些士兵。他们开始射击了，这是一场处刑！
+DictKey_subtitle_,643,DictKey_subtitle_643,HUNTER 1-1: Roger. Do you see any other forces in the area?,Hunter 1-1：明白。你在该区域看到有其他部队吗？
+DictKey_subtitle_,645,DictKey_subtitle_645,"PLAYER: a couple of SUVs and some trucks, and there are some more footmobiles with rifles.",玩家：有几辆SUV和一些卡车，还有更多持步枪的步兵。
+DictKey_subtitle_,647,DictKey_subtitle_647,"HUNTER 1-1: Wait one, let me contact my superiors.",Hunter 1-1：稍等，我联系一下上级。
+DictKey_subtitle_,649,DictKey_subtitle_649,"HUNTER 1-1: Dodge 1-1, Hunter. My command confirms they lost contact with a patrol in this area. They want you to eliminate the terrorists.",Hunter 1-1：Dodge 1-1，这里是Hunter。指挥部确认他们与该区域的一支巡逻队失去联系。他们希望你消灭恐怖分子。
+DictKey_subtitle_,651,DictKey_subtitle_651,"PLAYER: Dodge 1-1 copies. Wait one, contacting Overlord.",玩家：Dodge 1-1收到。稍等，正在联系Overlord。
+DictKey_subtitle_,653,DictKey_subtitle_653,"PLAYER: Hunter 1-1, Dodge flight. Go find a shady spot with a good view, Dodge flight's  is in hot.",玩家：Hunter 1-1，Dodge编队。去找个视野好的隐蔽位置，Dodge编队准备攻击。
+DictKey_subtitle_,655,DictKey_subtitle_655,"HUNTER 1-1: Hunter 1-1, understood. Take out that APC first, I'd rather see it destroyed than used by the CLA against us.",Hunter 1-1：Hunter 1-1，明白。先摧毁那辆装甲运兵车，我宁愿看到它被摧毁，也不想它被CLA用来对付我们。
+DictKey_subtitle_,657,DictKey_subtitle_657,"PLAYER: Hunter, Dodge. Enemy units in that area destroyed, we're at the end of our vul time, we're RTB.",玩家：Hunter，这里是Dodge。该区域的敌军已被摧毁，我们的任务时间结束，准备返航。
+DictKey_subtitle_,659,DictKey_subtitle_659,"HUNTER 1-1: Roger. It was an incredible show. I think we should make the recordings public. OK, we're turning back to Vaziani now. I will arrive in Kobuleti in the evening and should be joining most of your briefings from now on.",Hunter 1-1：明白。这真是一场精彩的行动。我想我们应该公开这些录像。好的，我们现在返回瓦兹亚尼。我将在晚上抵达科布列蒂，并从今天开始，参加你们的大部分的简报。
+DictKey_subtitle_,661,DictKey_subtitle_661,"PLAYER: Copy that Hunter and see you. Dodge 1-1, push.",玩家：收到，Hunter，再见。Dodge 1-1，继续。
+DictKey_subtitle_,680,DictKey_subtitle_680,"WINGMAN (GHOST): This is two, heads up, smoke and fires on our 2 o'clock!",僚机（GHOST）：我是2号，注意，我们两点钟方向有烟雾和火光！
+DictKey_subtitle_,682,DictKey_subtitle_682,"PLAYER: Lead's visual. Go ahead and go sensors in that area, we'll have a look.",玩家：长机目视。把传感器放在那片区域，我们看看发生了什么。
+DictKey_subtitle_,684,DictKey_subtitle_684,"WINGMAN 2 (CAPTAIN): This is three, tally a group of vehicles and some armed footmobiles. Looking at a village, grid 38T KN 9441 4518.",僚机2（CAPTAIN）：这里是3号，发现一组车辆和一些武装步兵。我侦察的位置是一个村庄，坐标38T KN 9441 4518。
+DictKey_subtitle_,686,DictKey_subtitle_686,"WINGMAN 4 (SIX-PACK): This it four, tally a group of tangos holding Georgian soldiers at a gunpoint.",僚机4（SIX-PACK）：4号，发现一群敌人用枪指着格鲁吉亚士兵。
+DictKey_subtitle_,688,DictKey_subtitle_688,WINGMAN 3 (CAPTAIN): Did you all see what happened? These poor guys were cut in half by that machine gun fire.,僚机3（CAPTAIN）：你们都看到刚才发生的事了吗？这些可怜的家伙被机枪拦腰打断。
+DictKey_subtitle_,690,DictKey_subtitle_690,"WINGMAN 4 (SIX-PACK): Yeah, I saw it. It was personal before because they shot at my plane, now they definitely crossed the line. One, put me on the roster for the next sortie, I can't wait to smoke these bastards some more!",僚机4（SIX-PACK）：是的，我看到了。之前他们向我的飞机开火就已经很过分了，现在他们绝对越界了。1号，把我列入下次出击名单，我迫不及待想再教训这些混蛋！
+DictKey_subtitle_,692,DictKey_subtitle_692,"PLAYER: We will talk about the flying schedule when we get back, looks like this is going to be a long debriefing. Alright people, let's head back home. Maintain radio silence until over the base. Lead's out.",玩家：我们回去后再讨论之后的飞行计划，看起来这次汇报会很长了。好了，大家，回家吧。在飞越基地前保持无线电静默。领队完毕。
+DictKey_subtitle_,738,DictKey_subtitle_738,"PLAYER: Overlord, Overlord, Dodge 1-1. Dodge 1-1 is tally on a large group of Tangos,  setting fires to civilian buildings at grid 38T KN 944 452. They just executed four Georgian soldiers, we're requesting permission to engage.",玩家：Overlord，Overlord，这里是Dodge 1-1。Dodge 1-1发现一大群敌人在坐标38T KN 944 452，纵火焚烧民用建筑。他们刚刚处决了四名格鲁吉亚士兵，我们请求开火许可。
+DictKey_subtitle_,740,DictKey_subtitle_740,"OVERLORD: Dodge 1-1, Overlord. Copy your last, tangos at grid KN 944 452, standby.",Overlord：Dodge 1-1，这里是Overlord。收到你刚才的信息，敌人在坐标KN 944 452，待命。
+DictKey_subtitle_,742,DictKey_subtitle_742,PLAYER: Dodge 1-1 is standing by.,玩家：Dodge 1-1待命中。
+DictKey_subtitle_,744,DictKey_subtitle_744,"OVERLORD: Dodge 1-1, Overlord, you are cleared hot, I repeat: cleared hot.",Overlord：Dodge 1-1，这里是Overlord，你已获准攻击，重复：获准攻击。
+DictKey_subtitle_,746,DictKey_subtitle_746,"PLAYER: Dodge 1-1 copies, cleared hot.",玩家：Dodge 1-1收到，获准攻击。
+DictKey_subtitle_,748,DictKey_subtitle_748,"PLAYER: And Overlord, Dodge 1-1, we are off the target, back at the IP, all targets in the area splashed.",玩家：Overlord，这里是Dodge 1-1，我们已离开目标，返回攻击起始点（IP），区域内所有目标已被摧毁。
+DictKey_subtitle_,750,DictKey_subtitle_750,"OVERLORD: Dodge 1-1, Overlord. Roger that, you are cleared to RTB.",Overlord：Dodge 1-1，这里是Overlord。收到，你已获准返航。
+DictKey_subtitle_,753,DictKey_subtitle_753,PLAYER: Copy.,玩家：收到。
+DictKey_subtitle_,768,DictKey_subtitle_768,"HUNTER 1-1: Alright, if there are no more questions I'll shut up for a moment and let you enjoy the views. We will soon turn towards the mountains and main CLA hideouts north and north west of Ambrolauri.",Hunter 1-1：好的，如果没有其他问题，我就暂时不说话，让你们欣赏风景。我们很快将转向山脉，前往安布罗劳里以北和西北的主要CLA藏身处。
+DictKey_subtitle_,786,DictKey_subtitle_786,"PLAYER: OK, let's go through the general plan for the sortie.",玩家：好的，让我们过一遍这次出击的总体计划。
+DictKey_subtitle_,791,DictKey_subtitle_791,"PLAYER: OK, let's go through the general plan for the sortie.",玩家：好的，让我们过一遍这次出击的总体计划。
+DictKey_subtitle_,793,DictKey_subtitle_793,PLAYER: It was indeed.,玩家：确实如此。

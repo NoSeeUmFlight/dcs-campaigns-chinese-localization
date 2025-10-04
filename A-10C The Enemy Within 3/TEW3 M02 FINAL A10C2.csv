@@ -1,0 +1,430 @@
+﻿Field Type,ID,Field Name,Original Text,Translated Text,,
+DictKey_ActionRadioText_,963,DictKey_ActionRadioText_963,There is nothing there,那里什么都没有。,,
+DictKey_ActionRadioText_,964,DictKey_ActionRadioText_964,"Looks suspicious, stop PROWLER",看起来可疑，叫停PROWLER。,,
+DictKey_ActionRadioText_,967,DictKey_ActionRadioText_967,,,,
+DictKey_ActionRadioText_,968,DictKey_ActionRadioText_968,,,,
+DictKey_ActionRadioText_,969,DictKey_ActionRadioText_969,There is nothing there,那里什么都没有。,,
+DictKey_ActionRadioText_,970,DictKey_ActionRadioText_970,"Looks suspicious, stop PROWLER",看起来可疑，叫停PROWLER。,,
+DictKey_ActionRadioText_,973,DictKey_ActionRadioText_973,There is nothing there,那里什么都没有。,,
+DictKey_ActionRadioText_,974,DictKey_ActionRadioText_974,"Looks suspicious, stop PROWLER",看起来可疑，叫停PROWLER。,,
+DictKey_ActionRadioText_,977,DictKey_ActionRadioText_977,,,,
+DictKey_ActionRadioText_,978,DictKey_ActionRadioText_978,,,,
+DictKey_ActionRadioText_,1245,DictKey_ActionRadioText_1245,This is not a threat.,不构成威胁。,,
+DictKey_ActionRadioText_,1246,DictKey_ActionRadioText_1246,"This is a threat, stop Prowler.",可能存在威胁，叫停PROWLER。,,
+DictKey_ActionRadioText_,1249,DictKey_ActionRadioText_1249,,,,
+DictKey_ActionRadioText_,1250,DictKey_ActionRadioText_1250,,,,
+DictKey_ActionRadioText_,1251,DictKey_ActionRadioText_1251,This is not a threat.,不构成威胁。,,
+DictKey_ActionRadioText_,1252,DictKey_ActionRadioText_1252,"This is a threat, stop Prowler.",可能存在威胁，叫停PROWLER。,,
+DictKey_ActionRadioText_,1254,DictKey_ActionRadioText_1254,This is not a threat.,不构成威胁。,,
+DictKey_ActionRadioText_,1255,DictKey_ActionRadioText_1255,"This is a threat, stop Prowler.",可能存在威胁，叫停PROWLER。,,
+DictKey_ActionRadioText_,1258,DictKey_ActionRadioText_1258,There is nothing there.,那里什么都没有。,,
+DictKey_ActionRadioText_,1259,DictKey_ActionRadioText_1259,"This is a threat, stop Prowler.",可能存在威胁，叫停PROWLER。,,
+DictKey_ActionRadioText_,1261,DictKey_ActionRadioText_1261,There is nothing there.,那里什么都没有。,,
+DictKey_ActionRadioText_,1262,DictKey_ActionRadioText_1262,"This is a threat, stop Prowler.",可能存在威胁，叫停PROWLER。,,
+DictKey_ActionRadioText_,1264,DictKey_ActionRadioText_1264,There is nothing there.,那里什么都没有。,,
+DictKey_ActionRadioText_,1265,DictKey_ActionRadioText_1265,"This is a threat, stop Prowler.",可能存在威胁，叫停PROWLER。,,
+DictKey_ActionRadioText_,1270,DictKey_ActionRadioText_1270,Use guns.,使用机炮。,,
+DictKey_ActionRadioText_,1271,DictKey_ActionRadioText_1271,Use rockets.,使用火箭弹。,,
+DictKey_ActionRadioText_,1272,DictKey_ActionRadioText_1272,Use GBU-12.,使用GBU-12。,,
+DictKey_ActionRadioText_,1275,DictKey_ActionRadioText_1275,,,,
+DictKey_ActionRadioText_,1276,DictKey_ActionRadioText_1276,,,,
+DictKey_ActionRadioText_,1277,DictKey_ActionRadioText_1277,,,,
+DictKey_ActionRadioText_,1278,DictKey_ActionRadioText_1278,Use guns.,使用机炮。,,
+DictKey_ActionRadioText_,1279,DictKey_ActionRadioText_1279,Use rockets.,使用火箭弹。,,
+DictKey_ActionRadioText_,1280,DictKey_ActionRadioText_1280,Use GBU-12.,使用GBU-12。,,
+DictKey_ActionRadioText_,1282,DictKey_ActionRadioText_1282,,,,
+DictKey_ActionRadioText_,1283,DictKey_ActionRadioText_1283,,,,
+DictKey_ActionRadioText_,1284,DictKey_ActionRadioText_1284,,,,
+DictKey_ActionRadioText_,1286,DictKey_ActionRadioText_1286,Use guns.,使用机炮。,,
+DictKey_ActionRadioText_,1287,DictKey_ActionRadioText_1287,Use rockets.,使用火箭弹。,,
+DictKey_ActionRadioText_,1288,DictKey_ActionRadioText_1288,Use GBU-12.,使用GBU-12。,,
+DictKey_ActionRadioText_,1290,DictKey_ActionRadioText_1290,Use guns.,使用机炮。,,
+DictKey_ActionRadioText_,1291,DictKey_ActionRadioText_1291,Use rockets.,使用火箭弹。,,
+DictKey_ActionRadioText_,1292,DictKey_ActionRadioText_1292,Use GBU-12.,使用GBU-12。,,
+DictKey_ActionRadioText_,1482,DictKey_ActionRadioText_1482,Safeguard: mission success,Safeguard：任务成功。,,
+DictKey_ActionText_,570,DictKey_ActionText_570,,,,
+DictKey_ActionText_,571,DictKey_ActionText_571,,,,
+DictKey_ActionText_,573,DictKey_ActionText_573,Make sure that you are on correct frequency and press SPACE BAR to contact OVERLORD.,确保你在正确的频率上，并按空格键联系OVERLORD。,,
+DictKey_ActionText_,574,DictKey_ActionText_574,,,,
+DictKey_ActionText_,575,DictKey_ActionText_575,,,,
+DictKey_ActionText_,576,DictKey_ActionText_576,.,。,,
+DictKey_ActionText_,577,DictKey_ActionText_577,"Get close to the helicopter over Bravo or check its bort number via TGP, tune to GUARD frequency and press SPACE BAR to contact him on the radio.",靠近Bravo上空的直升机，或通过TGP检查其机身编号，调至GUARD频率，并按空格键通过无线电联系他。,,
+DictKey_ActionText_,579,DictKey_ActionText_579,.,。,,
+DictKey_ActionText_,828,DictKey_ActionText_828,"Date: 28/03/2012\
+\
+Time: 08:45 local\
+\
+Location: Kobuleti Airport, parking spot 15\","日期：2012年3月28日\
+\
+时间：当地时间08:45\
+\
+地点：Kobuleti机场，停机位15",,
+DictKey_ActionText_,829,DictKey_ActionText_829,"Flight: DODGE 01\
+\
+Wingman: CAPTAIN\
+\
+Task: XCAS","小队：DODGE 01\
+\
+僚机：CAPTAIN\
+\
+任务：临时近距离空中支援（XCAS）",,
+DictKey_ActionText_,832,DictKey_ActionText_832,Check that you are on the correct frequency and press SPACE BAR to contact PROWLER when you reach WP 2.,确认你在正确的频率上，到达航路点2时按空格键联系PROWLER。,,
+DictKey_ActionText_,857,DictKey_ActionText_857,,,,
+DictKey_ActionText_,858,DictKey_ActionText_858,,,,
+DictKey_ActionText_,864,DictKey_ActionText_864,Remember to switch back to Overlord's frequency on AM radio (140.5).,记得切换回AM无线电上的Overlord频率（140.5）。,,
+DictKey_ActionText_,901,DictKey_ActionText_901,IN ZONE,进入区域,,
+DictKey_ActionText_,958,DictKey_ActionText_958,,,,
+DictKey_ActionText_,960,DictKey_ActionText_960,"CHARLIE 13.\
+Red brick garage north of the smoking chimney, facing the road.\
+\
+Press SPACE BAR when you are visual on that place.  \
+\
+(a markpoint has been added on the map if you need it)","CHARLIE 13。\
+红砖车库位于冒烟烟囱的北侧，面向道路。\
+\
+当你看到该地点时按空格键。\
+\
+（地图上已添加标记点，以备所需）",,
+DictKey_ActionText_,961,DictKey_ActionText_961,"Use F10 radio menu to decide what to do. \
+\
+- Tell CAPTAIN that nothing is there.\
+- Tell that it looks suspicious and that you need to stop Prowler.","使用F10无线电菜单决定如何行动。\
+\
+- 告诉CAPTAIN那里什么都没有。\
+- 告诉他那里看起来可疑，需要叫停Prowler。",,
+DictKey_ActionText_,965,DictKey_ActionText_965,.,.,,
+DictKey_ActionText_,971,DictKey_ActionText_971,.,.,,
+DictKey_ActionText_,975,DictKey_ActionText_975,,,,
+DictKey_ActionText_,981,DictKey_ActionText_981,,,,
+DictKey_ActionText_,982,DictKey_ActionText_982,FL120,FL120,,
+DictKey_ActionText_,1108,DictKey_ActionText_1108,"Press SPACE BAR to inform CAPTAIN that you are visual on the truck.\
+\
+(Truck entering the road just north of the third river)","按空格键通知CAPTAIN你已看到卡车。\
+\
+（卡车正进入第三条河流以北的道路）",,
+DictKey_ActionText_,1109,DictKey_ActionText_1109,.,.,,
+DictKey_ActionText_,1110,DictKey_ActionText_1110,,,,
+DictKey_ActionText_,1113,DictKey_ActionText_1113,,,,
+DictKey_ActionText_,1114,DictKey_ActionText_1114,,,,
+DictKey_ActionText_,1243,DictKey_ActionText_1243,"Use F-10 radio menu to inform CAPTAIN what you see there. \
+\
+(WINGMAN (CAPTAIN): One, two, can you have a closer look at the bridge in Echo, where the road turns to the east?)","使用F-10无线电菜单通知CAPTAIN你在那里看到的情况。\
+\
+（僚机（CAPTAIN）：一号，二号呼叫，你能更仔细看看Echo区域的桥附近，道路向东转弯的地方吗？）",,
+DictKey_ActionText_,1247,DictKey_ActionText_1247,.,。,,
+DictKey_ActionText_,1253,DictKey_ActionText_1253,.,。,,
+DictKey_ActionText_,1256,DictKey_ActionText_1256,"Use F-10 radio menu to inform OVERLORD what you see there. \
+\
+(OVERLORD:  Check the forest and surroundings at grid GG 311 388 for possible enemy presence, report back)","使用F-10无线电菜单通知OVERLORD你在那里看到的情况。\
+\
+（OVERLORD：检查网格GG 311 388的森林及周边地区，是否可能有敌人，并报告情况）",,
+DictKey_ActionText_,1260,DictKey_ActionText_1260,.,。,,
+DictKey_ActionText_,1263,DictKey_ActionText_1263,.,。,,
+DictKey_ActionText_,1268,DictKey_ActionText_1268,"Check the surroundings of the target and decide, which weapon would be the best for the given situation. \
+\
+Take into account proximity of civilian infrastructure, vehicles etc.\
+\
+When ready, use F10 to report to Overlord.","检查目标周围环境，并决定哪种武器最适合当前情况。\
+\
+需要考虑民用基础设施、车辆等到目标的距离。\
+\
+准备好后，使用F10向Overlord报告。",,
+DictKey_ActionText_,1273,DictKey_ActionText_1273,.,。,,
+DictKey_ActionText_,1281,DictKey_ActionText_1281,,,,
+DictKey_ActionText_,1285,DictKey_ActionText_1285,.,。,,
+DictKey_ActionText_,1289,DictKey_ActionText_1289,.,。,,
+DictKey_ActionText_,1293,DictKey_ActionText_1293,"Prowler has taken heavy damage, mission FAILED.",Prowler受到重创，任务失败。,,
+DictKey_ActionText_,1406,DictKey_ActionText_1406,"CHARLIE 13\
+\
+A garage built from red bricks, north of the smoking chimney.","CHARLIE 13\
+\
+红砖建成的车库，位于冒烟烟囱的北侧。",,
+DictKey_ActionText_,1471,DictKey_ActionText_1471,,,,
+DictKey_ActionText_,1479,DictKey_ActionText_1479,"MISSION COMPLETE\
+\
+Taxi to parking area and shut down your jet. You may exit at any time.","任务完成\
+\
+滑行至停机区并关车。你可以随时退出。",,
+DictKey_ActionText_,1483,DictKey_ActionText_1483,MISSION WILL COUNT AS A SUCCESS. YOU CAN EXIT NOW. SORRY FOR INCONVENIENCE!,任务将记为成功。你现在可以退出。对带来的不便表示歉意！,,
+DictKey_ActionText_,1491,DictKey_ActionText_1491,"You have successfully escorted convoy bringing vital supplies from the Batumi port to Kobuleti AB. You have also repelled enemy attack, which was carried out despite extreme security measures put in place by the Georgian hosts. If anything, this shows the unique ability of the CLA to act under any circumstances.\
+\
+Your choice to engage enemy infantry with the gun was indeed the right one. Avenger is almost a precision weapon and - if used correctly - brings minimal risk of collateral damage.","你已成功护送车队，将重要补给从Batumi港运送至Kobuleti空军基地。尽管东道主格鲁吉亚采取了极端的安全措施，你也成功击退了敌人的攻击，但本次行动仍然表明，高加索解放阵营拥有几乎在任何态势下都能作战的独特能力。\
+\
+你选择使用机炮攻击敌方步兵无疑是正确的。复仇者机炮几乎相当于精确武器，如果使用得当，带来的附带损害风险极小。",,
+DictKey_ActionText_,1493,DictKey_ActionText_1493,"You have successfully escorted convoy bringing vital supplies from the Batumi port to Kobuleti AB. You have also repelled enemy attack, which was carried out despite extreme security measures put in place by the Georgian hosts. If anything, this shows the unique ability of the CLA to act under any circumstances.\
+\
+You have chosen to attack the enemy forces with Mk151 rockets. These are not as accurate as the Avenger gun and increased the risk of additional collateral damage. Next time in similar circumstances it would be wiser to use the cannon.","你已成功护送车队，将重要补给从Batumi港运送至Kobuleti空军基地。尽管东道主格鲁吉亚采取了极端的安全措施，你也成功击退了敌人的攻击，但本次行动仍然表明，高加索解放阵营拥有几乎在任何态势下都能作战的独特能力。\
+\
+你选择使用Mk151火箭弹攻击敌军。这些火箭弹的精确度不如复仇者机炮，增加了附带损害的风险。下次在类似情况下，使用机炮会更明智。",,
+DictKey_ActionText_,1495,DictKey_ActionText_1495,"You have successfully escorted convoy bringing vital supplies from the Batumi port to Kobuleti AB. You have also repelled enemy attack, which was carried out despite extreme security measures put in place by the Georgian hosts. If anything, this shows the unique ability of the CLA to act under any circumstances.\
+\
+Your choice to drop a GBU-12 bomb on the enemy forces was a questionable one. Massive explosion caused collateral damage to nearby buildings and wounded 2 civilians. Used against infantry it was an overkill and did not go well in local media, which reported the event wide.","你已成功护送车队，将重要补给从Batumi港运送至Kobuleti空军基地。尽管东道主格鲁吉亚采取了极端的安全措施，你也成功击退了敌人的攻击，但本次行动仍然表明，高加索解放阵营拥有几乎在任何态势下都能作战的独特能力。\
+\
+你选择对敌军投下GBU-12炸弹是一个值得商榷的决定。巨大的爆炸对附近建筑物造成了附带损害，并导致2名平民受伤。对付步兵时，这种做法过于极端，并且在当地媒体中引起了广泛报道，影响不好。",,
+DictKey_ActionText_,1507,DictKey_ActionText_1507,,,,
+DictKey_ActionText_,1508,DictKey_ActionText_1508,,,,
+DictKey_descriptionBlueTask_,3,DictKey_descriptionBlueTask_3,"“Alright, people. This sortie is important for two reasons. One: we are protecting our own equipment and vehicles coming from Aviano which we will need in the coming days or weeks. Two: this convoy will of course attract a lot of attention from the locals. For that reason we have set up a zone where they can watch Prowler as they pass by, and we have declared the rest of the route as “off limits” to anyone.  So all the civilians will be standing in zone Alpha. The media crews will also be present, at least two in helicopters. These helos are not authorised to leave that zone. If need be you may reach them on Guard, they are instructed to monitor it at all times. \
+\
+The rest of the route has been divided into seven subsequent zones from Bravo to Hotel. You have an aerial photo of each zone in your kneeboard, divided into smaller squares. This should speed up identification and location of potential targets or threats. \
+\
+Game plan is as follows: you will take off and anchor at WP 2, where you will contact Prowler. As they start to move you will circle overhead, monitoring the road ahead of the convoy. If you spot anything suspicious, you stop the convoy and contact us. Once the road is clear again, you tell the Prowler to move out. \
+\
+It is up to you if you prefer to stay high or low. We currently only have one TGP, so dash 2 will have to use good old binos. \
+\
+Prowler will report entering to each of the zones. Maintain constant communication with them on Fox Mike. \
+\
+Finally - this is an urban area and a middle of a friendly town. Be very mindful of what weapon you are going to use - if any. It may well be the CLA plan to provoke an overkill and then blame us for any civilian casualties or collateral damage. Don’t have to tell you how poorly it would look on the second day of operations. \
+\
+That is all from my side. Make sure to study additional info available in your kneeboards. Good luck and godspeed.” \
+\
+\
+Frequencies:\
+AOC: Overlord: 140.5 AM\
+Dodge 1 (Your flight, 2 A10s): 251 UHF\
+Prowler 1 (US convoy): 35.6 FM\
+Guard Channel: 121.5 AM\
+\
+WEATHER\
+Scattered clouds (cloud base 8200 feet), temperature 12 deg. C\
+\
+OBJECTIVES OVERVIEW\
+\
+PRIMARY:\
+Escort Prowler 1 from Batumi port to Kobuleti AB. \
+\
+SECONDARY: \
+Engage and destroy enemy targets.\
+\
+REMARKS:\
+- Civilian bystanders and media, including helicopters, only allowed in zone ALPHA. \
+- Zones BRAVO to HOTEL are off - limits to any civilian movement. \
+- If any threat or suspicious activity is spotted, stop Prowler and contact Overlord. \
+- Pay attention when choosing weapons and engaging enemy, highly populated AO.\
+\
+*** DESIGNER's NOTES ****\
+- Make sure to set option \""CHIMNEY SMOKE DENSITY\"" to at least 1.\
+- Make sure to disable civilian traffic or at least disable enforcing your own settings in all missions  in options menu.","“好了，各位。这次出击有两个重要任务。第一：我们要保护从意大利Aviano空军基地运来的装备和车辆，这些东西在未来几天或几周的行动中会用到。第二：这支车队理所应当的，会吸引本地居民大量关注。因此，我们设立了一个区域，让他们可以在Prowler经过时观看。我们同时宣布，路线的其余部分对所有人都是禁区。所以，平民都会聚集在Alpha区域。媒体团队也会在场，至少有两架直升机。这些直升机不允许离开这一区域。如有需要，你可以通过Guard频率联系他们，他们被要求随时监听该频率。\
+\
+路线的其余部分被分为从Bravo到Hotel的七个连续区域。你在膝板上有每个区域的航拍照片，分为更小的方格。这应该能加快潜在目标或威胁的识别和定位。\
+\
+计划如下：起飞并在航路点2处盘旋，在那里联系Prowler。当他们开始移动时，你在上空盘旋，监控车队前方的道路。如果发现任何可疑情况，叫停车队并联系我们。一旦道路再次清空，你通知Prowler继续前进。\
+\
+你可以选择高空或低空，都可以。我们目前只有一个TGP，所以2号机不得不使用传统的双筒望远镜。\
+\
+Prowler进入每个区域时会报告。通过FM与他们保持通信。\
+\
+最后——本次任务位于一个人口密集区，是友方城镇的市中心。使用武器时千万要小心——如果确实要进攻的话。高加索解放阵营很可能故意刺激我们，让我们过度反应，然后把平民伤亡或附带损害归咎于我们。不用我多说，如果在行动开始的第二天就发生这些事情，那简直就糟透了。\
+\
+我这边就这些。仔细阅读膝板上提供的额外信息。祝好运，愿上帝保佑。”\
+\
+\
+频率：\
+AOC: Overlord: 140.5 AM\
+Dodge 1（你的小队，2架A10）：251 UHF\
+Prowler 1（美军车队）：35.6 FM\
+Guard频道：121.5 AM\
+\
+天气：\
+零散云（云底高度8200英尺），温度12摄氏度\
+\
+任务概述：\
+\
+主要任务：\
+护送Prowler 1从Batumi港到Kobuleti空军基地。\
+\
+次要任务：\
+攻击并摧毁敌方目标。\
+\
+备注：\
+- 平民旁观者和媒体，包括直升机，只允许在Alpha区域活动。\
+- Bravo到Hotel区域禁止任何平民活动。\
+- 如果发现任何威胁或可疑活动，叫停Prowler并联系Overlord。\
+- 在选择武器和攻击敌人时，要留意人口密集区。\
+\
+*** 设计者备注 ***\
+- 确保将“烟囱烟雾密度”选项设置为至少1。\
+- 确保在选项菜单中禁用民用交通，或至少禁用“在所有任务中强制执行你自己的设置”选项。",,
+DictKey_descriptionNeutralsTask_,4,DictKey_descriptionNeutralsTask_4,,,,
+DictKey_descriptionRedTask_,2,DictKey_descriptionRedTask_2,,,,
+DictKey_descriptionText_,1,DictKey_descriptionText_1,"28 March 2012, 07:15 local time\
+\
+(Major Nicholas Grey, Squadron intelligence officer, sits in the briefing room, waiting for everyone to take their seats. He then stands up, looks around and begins)\
+\
+Good morning, ladies and gentlemen. Welcome on this first operational sortie, where you will be flying an overwatch over the friendly convoy bringing so much needed munitions, equipment and spare parts. But first a word of introduction about the general situation. \
+\
+As you might have noticed yesterday during the landing, it is bad. The CLA is striking civilian and military targets on a daily basis, using bombs, IEDs, snipers and suicide bombers. They have this incredible ability of showing up unexpectedly and out of nowhere and then disappearing again, very much as the Taliban did in Afghanistan. They seem to have access to Georgian military uniforms and armament. And they are determined to secure their full control over vast parts of the country in the north. Well, that’s the general situation. \
+\
+Colonel will brief you on the specific tasking, but before that happens, a short overview of threat assessment. Together with the GIS, or Georgian Intelligence Service, we have set it at a MEDIUM level, which means that attack on USAF ground and airborne assets are quite likely. These may take the form of an IED, although the Georgians ensured us that they have sweeped the route of the convoy. It may also be a small group of insurgents using RPGs and rifles - so be prepared for anything and keep your eyes on the road ahead of the convoy at all times. Any questions?\
+\
+(CAPTAIN, your wingman for this sortie, raises his hand. Major Grey points at him).\
+\
+“Yes, captain?” \
+\
+“What is the role of the Georgian forces located in the area? When we detect the enemy, is it their responsibility to react or should we engage?”\
+\
+“If you spot anything suspicious, you will stop Prowler and inform Overlord. We will then do the necessary to liaise with the Georgians and make sure that a patrol is sent to the location which you provide. However, if Prowler is under direct attack or if you are 100% positive that you are looking at the insurgents, then Overlord will authorise you to engage the targets. Anything else?”\
+\
+(Silence. Major nods his heads and sits down, replaced by Col. Berry). \","2012年3月28日，07:15当地时间\
+\
+（少校尼古拉斯·格雷，中队情报官，坐在简报室，等待所有人就座。他随后站起身，环顾四周并开始讲话）\
+\
+早上好，女士们，先生们。欢迎参加你们的首次作战行动，你们将为运送急需弹药、装备和备件的友军车队提供空中侦察和掩护。但首先，我要介绍一下总体情况。\
+\
+正如你们昨天在降落时遇到的，现在情况很糟。高加索解放阵营每天都在搞袭击，军用目标和民用目标都打，袭击方式多种多样，包括炸弹、简易爆炸物（IED）、狙击手和自杀式爆炸。他们有着难以置信的能力，能出其不意地出现，然后消失得无影无踪，就像塔利班在阿富汗的做法。他们似乎能搞到格鲁吉亚的军装和武器。他们决心在北部地区全面控制大片国土。这就是现在的总体态势。\
+\
+上校会向你们简述任务细节，但在此之前，我需要先介绍一下威胁评估。我们与格鲁吉亚情报局（GIS）都认为，当前的威胁是中等水平，这意味着美国空军的地面资产和空中资产都可能遭到攻击。这些攻击可能是简易爆炸物（IED）的形式，尽管格鲁吉亚方面向我们保证过，他们已经清扫了车队的路线。袭击也可能来自于一小群使用RPG和步枪的叛乱分子——所以要做好准备，时刻关注车队前方的道路。有什么问题吗？\
+\
+（CAPTAIN，你此次出击的僚机，举手。格雷少校指向他。）\
+\
+“有什么问题，上尉？”\
+\
+“驻扎在这一地区的格鲁吉亚部队扮演什么角色？当我们发现敌人时，是他们负责处理，还是我们直接介入？”\
+\
+“如果你发现任何可疑情况，你要叫停Prowler并通知Overlord。然后我们将与格鲁吉亚方面联系，派遣巡逻队到你提供的位置。然而，如果Prowler受到直接攻击，或者你百分之百确定你看到的是叛乱分子，那么Overlord将授权你攻击目标。还有其他问题吗？”\
+\
+（沉默。少校点头并坐下，由贝里上校接替，继续简报。）",,
+DictKey_sortie_,5,DictKey_sortie_5,TEW3 M02: Supplies,TEW3 M02：补给,,
+DictKey_subtitle_,450,DictKey_subtitle_450,"PLAYER: Prowler 1, Dodge 1-1, checking in as fragged. We're on station and ready to provide air cover and two pairs of eyes on the road ahead of you.",玩家：Prowler 1，这里是Dodge 1-1，按计划就位。我们在空中待命，准备为你提供空中掩护，并监视你前方的道路。,,
+DictKey_subtitle_,452,DictKey_subtitle_452,"PROWLER 1: Dodge 1-1, Prowler, roger. We're oscar mike, entering Alpha.",PROWLER 1：Dodge 1-1，这里是Prowler，收到。我们正在移动，进入Alpha区域。,,
+DictKey_subtitle_,454,DictKey_subtitle_454,"PLAYER: Dodge 1-1 copies, we'll inform you if we spot anything out of place.",玩家：Dodge 1-1收到，如果发现任何异常，我们会通知你。,,
+DictKey_subtitle_,456,DictKey_subtitle_456,,,,
+DictKey_subtitle_,486,DictKey_subtitle_486,"WINGMAN (CAPTAIN): This is two, let me get my binos ready. Just like good old times.",僚机（CAPTAIN）：这里是二号，我会准备好我的双筒望远镜。就像我们曾经的“快乐时光”那样。,,
+DictKey_subtitle_,488,DictKey_subtitle_488,"PLAYER: If you want me to check something out for you with the TGP, just shout.",玩家：如果你需要我用TGP帮你查看什么，尽管喊我。,,
+DictKey_subtitle_,490,DictKey_subtitle_490,"WINGMAN (CAPTAIN): Yeah, wilco.",僚机（CAPTAIN）：好的。,,
+DictKey_subtitle_,492,DictKey_subtitle_492,"WINGMAN (CAPTAIN): Damn, so many people. On the streets, in the windows. The guys in that convoy must feel like our grandfathers when they were liberating France.",僚机（CAPTAIN）：该死，这么多人。街上，窗户里，到处都是。车队里的那些家伙一定感觉像我们的祖辈解放法国时一样。,,
+DictKey_subtitle_,494,DictKey_subtitle_494,"PLAYER: Yeah. It is too crowded, if anything happens there we won't be able to react.",玩家：是啊。人太多了，如果发生什么事情，我们无法及时反应。,,
+DictKey_subtitle_,496,DictKey_subtitle_496,"WINGMAN (CAPTAIN): And what about those helos? They are authorised to film up to Bravo, then they have to turn back?",僚机（CAPTAIN）：那些直升机呢？他们被授权拍摄到Bravo，然后必须返回？,,
+DictKey_subtitle_,498,DictKey_subtitle_498,PLAYER: Affirm. Just the very first part. Let’s scan up ahead and check Bravo and Charlie.,玩家：没错。只能跟随最开始的一段路程。我们巡视前方，检查Bravo和Charlie。,,
+DictKey_subtitle_,500,DictKey_subtitle_500,WINGMAN (CAPTAIN): Rog.,僚机（CAPTAIN）：收到。,,
+DictKey_subtitle_,515,DictKey_subtitle_515,"PROWLER 1: Dodge 1-1, this is Prowler 1, entering Bravo.",PROWLER 1：Dodge 1-1，这里是Prowler 1，进入Bravo区域。,,
+DictKey_subtitle_,517,DictKey_subtitle_517,"PLAYER: Prowler 1, Dodge 1-1 copies, all clear.",玩家：Prowler 1，Dodge 1-1收到，一切正常。,,
+DictKey_subtitle_,523,DictKey_subtitle_523,"PLAYER: Overlord, Overlord, Dodge 1-1. Be advised, one of the civilian helicopters entered Bravo following Prowler, can you advise?",玩家：Overlord，Overlord，这里是Dodge 1-1。请注意，一架民用直升机跟随Prowler进入了Bravo区域，请指示。,,
+DictKey_subtitle_,525,DictKey_subtitle_525,"OVERLORD: Dodge 1-1, Overlord, copy. Get closer and raise him on Guard.",OVERLORD：Dodge 1-1，这里是Overlord，收到。靠近一些，通过Guard频道联系他。,,
+DictKey_subtitle_,527,DictKey_subtitle_527,PLAYER: Dodge 1-1 copies.,玩家：Dodge 1-1收到。,,
+DictKey_subtitle_,556,DictKey_subtitle_556,"WINGMAN (CAPTAIN): One, two. I think one of the helos is still following Prowler.",僚机（CAPTAIN）：一号，这里是二号。我觉得，有一架直升机仍在跟随Prowler。,,
+DictKey_subtitle_,558,DictKey_subtitle_558,"PLAYER: Yeah, visual. Wait one.",玩家：是的，目视了。稍等。,,
+DictKey_subtitle_,560,DictKey_subtitle_560,WINGMAN (CAPTAIN): Nicely dealt with.,僚机（CAPTAIN）：处理的相当漂亮。,,
+DictKey_subtitle_,562,DictKey_subtitle_562,"PLAYER: Oh why, thank you. Let's hope that's the worst of the problems we deal with today.",玩家：哦？多谢夸奖。希望这就是我们今天遇到的最大麻烦了。,,
+DictKey_subtitle_,566,DictKey_subtitle_566,"PLAYER: Civilian UH-1, bort X-Ray Whisky Papa Foxtrot Juliet, this is Dodge 1 flight, a pair of US Air Force A-10C Thunderbolts. You have entered an restricted zone, turn back immediately.",玩家：民用UH-1，机号XWPFJ，这里是Dodge 1编队，两架美国空军A-10C雷电攻击机。你已进入管制区域，立即返回。,,
+DictKey_subtitle_,568,DictKey_subtitle_568,"HUEY PILOT: I am sorry Sir, understood, changing course now.",休伊飞行员：抱歉，长官，明白，正在改变航向。,,
+DictKey_subtitle_,808,DictKey_subtitle_808,"PLAYER: OK, Dodge flight, take off briefing. We'll go with 10 seconds separation, flaps maneuvering. We'll keep the speed of 180 and climb with 1000 foot permitted up until you're joined up. Then we'll turn south towards Batumi and climb to 10 000. Questions?","玩家：好的，Dodge编队，起飞简报。我们将间隔10秒起飞，襟翼设机动位（7°，即起飞襟翼位）。保持速度180，爬升至1,000英尺汇合。然后转向南方前往Batumi，爬升至10,000英尺。有问题吗？",,
+DictKey_subtitle_,810,DictKey_subtitle_810,WINGMAN (CAPTAIN): I hope it won't be as serious as the briefing says... though it does seem these guys do mean business.,僚机（CAPTAIN）：我希望情况不会像简报中说的那么严重……不过看起来这些家伙确实是认真的。,,
+DictKey_subtitle_,812,DictKey_subtitle_812,"PLAYER: Well, we'd better be prepared for anything. Alright, Lead is rolling.",玩家：嗯……我们最好做好万全准备。好，长机开始滑行。,,
+DictKey_subtitle_,814,DictKey_subtitle_814,PLAYER: Lead is gear up.,玩家：长机，收轮。,,
+DictKey_subtitle_,816,DictKey_subtitle_816,"WINGMAN (CAPTAIN): Two, saddled.",僚机（CAPTAIN）：二号，已就位。,,
+DictKey_subtitle_,818,DictKey_subtitle_818,"PLAYER:  Alright, Let's get to WP 2 and check in with Prowler 1. They should start stepping out once we arrive on station.",玩家：好的，我们前往航路点2，与Prowler 1联系。他们应该会在我们就位后行动。,,
+DictKey_subtitle_,820,DictKey_subtitle_820,"WINGMAN (CAPTAIN): Two, roger. I don't really understand all the fuss. Why couldn't we simply airlift all of this equipment and personnel?",僚机（CAPTAIN）：二号，收到。我真不明白为什么要这么大费周章。为什么我们不能直接空运所有这些装备和人员呢？,,
+DictKey_subtitle_,822,DictKey_subtitle_822,"PLAYER: I don't think there was enough time to organise airlift. This ammo and equipment was shipped from Aviano.  I agree - we don't need to send that column in broad daylight, with cameras and crowds of people...",玩家：我认为我们没有足够的时间来组织空运。这些弹药和装备是从Aviano（一处位于意大利的北约空军基地）运来的。不过我同意你的观点——我们没必要在大白天大张旗鼓的派这么一支车队，还有摄像机和人群……,,
+DictKey_subtitle_,824,DictKey_subtitle_824,"WINGMAN (CAPTAIN): I understand that we're here to make the people feel better, but this.. this is going too far.",僚机（CAPTAIN）：我理解我们部署在这是为了让人们感到更安全，但这样……有些过头了。,,
+DictKey_subtitle_,826,DictKey_subtitle_826,"PLAYER: Well, we are where we are, Captain. Let's just do our job.",玩家：嗯……，反正已经这样了，Captain。我们只管做好我们的工作。,,
+DictKey_subtitle_,835,DictKey_subtitle_835,"PLAYER: Prowler 01, Prowler 01, Dodge 1-1, checking in as fragged. On station and ready to provide air cover. Eyes on the road ahead of you.",玩家：Prowler 01，Prowler 01，这里是Dodge 1-1，按计划报到。已到达待命位置，准备提供空中掩护。正在监视你前方的道路。,,
+DictKey_subtitle_,837,DictKey_subtitle_837,"PROWLER 1: Dodge 1-1, Prowler, roger. We're oscar mike, entering Alpha.",PROWLER 1：Dodge 1-1，这里是Prowler，收到。我们正在移动，进入Alpha区域。,,
+DictKey_subtitle_,839,DictKey_subtitle_839,"PLAYER: And Dodge 1-1 copies, we'll inform you if we spot anything out of place ahead.",玩家：Dodge 1-1收到，如果我们在前方发现任何异常情况，会通知你。,,
+DictKey_subtitle_,841,DictKey_subtitle_841,"WINGMAN (CAPTAIN): This is two, let me get my binos ready. Just like good old times.",僚机（CAPTAIN）：这里是二号，我会准备好我的双筒望远镜。就像我们曾经的“快乐时光”那样。,,
+DictKey_subtitle_,843,DictKey_subtitle_843,"PLAYER: OK, if you want me to check something out for you with the TGP, just shout.",玩家：如果你需要我用TGP帮你查看什么，尽管喊我。,,
+DictKey_subtitle_,845,DictKey_subtitle_845,"WINGMAN (CAPTAIN): Yeah, wilco.",僚机（CAPTAIN）：好的。,,
+DictKey_subtitle_,847,DictKey_subtitle_847,"WINGMAN (CAPTAIN): Damn, so many people. On the streets, in the windows. The guys in that convoy must feel like our grandfathers when they were liberating France.",僚机（CAPTAIN）：该死，这么多人。街上，窗户里，到处都是。车队里的那些家伙一定感觉像我们的祖辈解放法国时一样。,,
+DictKey_subtitle_,849,DictKey_subtitle_849,"PLAYER: Yeah. But it is too crowded, if anything happens there we won't be able to react appropriately.",玩家：是啊。人太多了，如果发生什么事情，我们无法及时反应。,,
+DictKey_subtitle_,851,DictKey_subtitle_851,"WINGMAN (CAPTAIN): And what about those helos? They are authorised to film up to Bravo, then they have to turn back?",僚机（CAPTAIN）：那些直升机呢？他们被授权拍摄到Bravo，然后必须返回？,,
+DictKey_subtitle_,853,DictKey_subtitle_853,"PLAYER: Yeah, that checks, though they are only allowed to film the first part. Let’s scan up ahead, check Bravo and Charlie.",玩家：是的，没错，不过他们只被允许拍摄最开始的部分。我们继续巡视前方，检查Bravo和Charlie区域。,,
+DictKey_subtitle_,855,DictKey_subtitle_855,WINGMAN (CAPTAIN): Rog.,僚机（CAPTAIN）：收到。,,
+DictKey_subtitle_,859,DictKey_subtitle_859,"PROWLER 1: Dodge 1-1, this is Prowler 1, entering Bravo.",PROWLER 1：Dodge 1-1，这里是Prowler 1，进入Bravo区域。,,
+DictKey_subtitle_,862,DictKey_subtitle_862,"PLAYER: And 01, Dodge 1-1 copies, all clear at this time.",玩家：01，这里是Dodge 1-1，目前一切正常。,,
+DictKey_subtitle_,934,DictKey_subtitle_934,"PROWLER 1: Dodge 1-1, Prowler 1 is in Charlie.",PROWLER 1：Dodge 1-1，这里是Prowler 1，已进入Charlie区域。,,
+DictKey_subtitle_,936,DictKey_subtitle_936,"PLAYER: And Prowler, Dodge 1-1, your route looks good.",玩家：Prowler，这里是Dodge 1-1，你的路线看起来没问题。,,
+DictKey_subtitle_,938,DictKey_subtitle_938,"PLAYER: Prowler 1, Dodge 1-1, go ahead and stop your advance, hold position where you're at.",玩家：Prowler 1，这里是Dodge 1-1，停止前进，保持当前位置。,,
+DictKey_subtitle_,940,DictKey_subtitle_940,"PLAYER: Prowler 1, Dodge 1-1, you may move out, false alarm.",玩家：Prowler 1，这里是Dodge 1-1，可以继续前进，虚惊一场。,,
+DictKey_subtitle_,942,DictKey_subtitle_942,"PROWLER 1: Dodge 1-1, Prowler 1 copies, moving out.",PROWLER 1：Dodge 1-1，这里是Prowler 1，收到，继续前进。,,
+DictKey_subtitle_,944,DictKey_subtitle_944,"WINGMAN (CAPTAIN): One, two, could you check a garage for me in Charlie three? Built of bricks, facing the road, north of the smoking chimney. .",僚机（CAPTAIN）：一号，这里是二号，你能帮我检查一下Charlie三号区域的一个车库吗？砖砌的，面向道路，位于冒烟烟囱的北边。,,
+DictKey_subtitle_,946,DictKey_subtitle_946,"PLAYER: Yeah, 1-1 copies.",玩家：好的，1-1收到。,,
+DictKey_subtitle_,948,DictKey_subtitle_948,"PLAYER: It looks like it is just a parked civilian vehicle, it didn't look suspicious.",玩家：看起来只是辆停放的民用车辆，并不可疑。,,
+DictKey_subtitle_,950,DictKey_subtitle_950,"PLAYER: OK, I've got tally vehicle and it looks like there may be some men hiding nearby. Let's go ahead and stop Prowler.",玩家：好的，我发现了一辆车，看起来附近可能有人藏匿。我们先让Prowler停下。,,
+DictKey_subtitle_,952,DictKey_subtitle_952,"PLAYER: And Overlord, Overlord, Dodge 1-1, we have some suspicious activity, grid GG 2840 2620, a vehicle with numerous footmobiles hiding nearby, we need to send a patrol to check that position.",玩家：Overlord，Overlord，这里是Dodge 1-1，我们发现一些可疑活动，坐标GG 2840 2620，车辆附近有多人藏匿，我们需要派遣巡逻队检查该位置。,,
+DictKey_subtitle_,954,DictKey_subtitle_954,"OVERLORD: Dodge 1-1, Overlord, roger. Notifying the Georgians, wait one.",OVERLORD：Dodge 1-1，这里是Overlord，收到。正在通知格鲁吉亚方面，稍等。,,
+DictKey_subtitle_,956,DictKey_subtitle_956,"OVERLORD: Dodge 1-1, Overlord. False alarm, Prowler can continue.",OVERLORD：Dodge 1-1，这里是Overlord。虚惊一场，Prowler可以继续前进。,,
+DictKey_subtitle_,979,DictKey_subtitle_979,"PROWLER 1: Dodge 1-1, Prowler 1, stopping.",PROWLER 1：Dodge 1-1，这里是Prowler 1，已停车。,,
+DictKey_subtitle_,1070,DictKey_subtitle_1070,"PROWLER 1: Dodge 1-1, Prowler 1, entering Delta.",PROWLER 1：Dodge 1-1，这里是Prowler 1，进入Delta区域。,,
+DictKey_subtitle_,1072,DictKey_subtitle_1072,"PLAYER: Prowler 1, Dodge 1-1 copies, continue.",玩家：Prowler 1，这里是Dodge 1-1，收到，继续前进。,,
+DictKey_subtitle_,1074,DictKey_subtitle_1074,"PLAYER: Prowler 1, Dodge 1-1, a civilian truck has turned onto the main road at Delta and is going towards your posit, please advise.",玩家：Prowler 1，这里是Dodge 1-1，一辆民用卡车已进入Delta区域内的主路，正朝你的位置驶去，请注意。,,
+DictKey_subtitle_,1076,DictKey_subtitle_1076,"PROWLER 1: Dodge 1-1, Prowler 1, roger. We’ll hold here, try to scare them away with a low flyby, drop some flares for a good effect.",PROWLER 1：Dodge 1-1，这里是Prowler 1，收到。我们会在这停车。尝试低空飞略吓走他们，可以投些热诱，增强威慑效果。,,
+DictKey_subtitle_,1078,DictKey_subtitle_1078,"PLAYER: Prowler 1, Dodge 1-1 copies, show of force.",玩家：Prowler 1，这里是Dodge 1-1，收到，准备武力展示。,,
+DictKey_subtitle_,1081,DictKey_subtitle_1081,"PLAYER: Prowler 1, Dodge 1-1, the road is clear, you can continue.",玩家：Prowler 1，这里是Dodge 1-1，道路已清理，可以继续前进。,,
+DictKey_subtitle_,1083,DictKey_subtitle_1083,"PROWLER 1: Dodge 1-1, Prowler 1, moving out.",PROWLER 1：Dodge 1-1，这里是Prowler 1，继续前进。,,
+DictKey_subtitle_,1085,DictKey_subtitle_1085,"PROWLER 1: Prowler 1, tally tango, we’ll fire a warning shot.",PROWLER 1：这里是Prowler 1，发现目标，我们将进行警告射击。,,
+DictKey_subtitle_,1087,DictKey_subtitle_1087,WINGMAN (CAPTAIN): What do you think? It is really quiet...,僚机（CAPTAIN）：你什么感觉？丝毫有些太安静了……,,
+DictKey_subtitle_,1089,DictKey_subtitle_1089,"PLAYER: Yeah, I don’t like it.",玩家：没错，我不喜欢这种感觉。,,
+DictKey_subtitle_,1091,DictKey_subtitle_1091,"WINGMAN (CAPTAIN): On the other hand all that was organised on a short notice, the bad guys probably didn’t have enough time to come up with something meaningful.",僚机（CAPTAIN）：不过倒也可以理解。一切都是临时安排的，坏蛋们可能没有足够的时间策划什么有意义的行动。,,
+DictKey_subtitle_,1093,DictKey_subtitle_1093,"PLAYER: I hope so, but I wouldn't put any money on that.",玩家：希望如此，我不可不敢打包票。,,
+DictKey_subtitle_,1095,DictKey_subtitle_1095,"WINGMAN (CAPTAIN): Heads up, tally a truck entering the road and turning towards Prowler in Delta, just north of the third river.",僚机（CAPTAIN）：注意，发现一辆卡车进入道路，朝Delta的Prowler方向行驶，就在第三条河的北边。,,
+DictKey_subtitle_,1097,DictKey_subtitle_1097,PLAYER: And Lead's tally. Wait one.,玩家：长机已目视，稍等。,,
+DictKey_subtitle_,1099,DictKey_subtitle_1099,"WINGMAN (CAPTAIN): One, two, it worked, he is turning back.",僚机（CAPTAIN）：一号，这里是二号，成功了，他正在掉头。,,
+DictKey_subtitle_,1111,DictKey_subtitle_1111,"OK, looks like it worked, he is turning back. We’re moving out.",好的，看起来成功了，他正在掉头。我们继续前进。,,
+DictKey_subtitle_,1147,DictKey_subtitle_1147,"PROWLER 1: Dodge 1-1, Prowler 1, in Echo.",PROWLER 1：Dodge 1-1，这里是Prowler 1，已进入Echo区域。,,
+DictKey_subtitle_,1149,DictKey_subtitle_1149,"PLAYER: Prowler 1, Dodge 1-1 copies. Be advised, there is a lot more forests and a lot less buildings up ahead.",玩家：Prowler 1，这里是Dodge 1-1，收到。请注意，前方森林较多，建筑较少。,,
+DictKey_subtitle_,1151,DictKey_subtitle_1151,"PROWLER 1: Prowler 1 copies, we’re counting on you guys to spot any threats for us.",PROWLER 1：这里是Prowler 1，收到。我们要指望你们帮我们探查威胁了。,,
+DictKey_subtitle_,1154,DictKey_subtitle_1154,"PLAYER: Prowler 1, Dodge 1-1, go ahead and stop your advance, hold position where you're at.",玩家：Prowler 1，这里是Dodge 1-1，停止前进，保持当前位置。,,
+DictKey_subtitle_,1156,DictKey_subtitle_1156,"PROWLER 1: Dodge 1-1, Prowler 1, stopping.",PROWLER 1：Dodge 1-1，这里是Prowler 1，已停止。,,
+DictKey_subtitle_,1158,DictKey_subtitle_1158,"PLAYER: Prowler 1, Dodge 1-1, you're cleared to continue, Sir. False alarm.",玩家：Prowler 1，这里是Dodge 1-1，可以继续前进，长官。是虚警。,,
+DictKey_subtitle_,1160,DictKey_subtitle_1160,"PROWLER 1: Dodge 1-1, Prowler 1 copies, moving out.",PROWLER 1：Dodge 1-1，这里是Prowler 1，收到，继续前进。,,
+DictKey_subtitle_,1162,DictKey_subtitle_1162,,,,
+DictKey_subtitle_,1169,DictKey_subtitle_1169,"WINGMAN (CAPTAIN): One, two, can you have a closer look at the bridge in Echo, where the road turns to the east?",僚机（CAPTAIN）：一号，这里是二号，你能仔细查看一下Echo区域的桥梁吗？就是道路转向东边的地方。,,
+DictKey_subtitle_,1171,DictKey_subtitle_1171,PLAYER: Wait one.,玩家：稍等。,,
+DictKey_subtitle_,1173,DictKey_subtitle_1173,"PLAYER: This looks like a Georgian patrol. Good eyes, though!",玩家：看起来是格鲁吉亚的巡逻队。不过眼力不错！,,
+DictKey_subtitle_,1175,DictKey_subtitle_1175,"PLAYER: Yeah, Lead's tally a group of four armed footmobiles. Let's stop Prowler.",玩家：是的，长机发现四名武装人员。我们先让Prowler停下。,,
+DictKey_subtitle_,1177,DictKey_subtitle_1177,"WINGMAN (CAPTAIN): One, two, it's Echo 15, the patch of forest behind the small buildings and some bushes.",僚机（CAPTAIN）：一号，这里是二号，是Echo 15，小建筑和一些灌木丛后面的那片森林。,,
+DictKey_subtitle_,1179,DictKey_subtitle_1179,,,,
+DictKey_subtitle_,1181,DictKey_subtitle_1181,"PLAYER: Overlord, Dodge 1-1, we have some suspicious activity in grid GG 3004 4235, we'd like to have the Georgians check it out please.",玩家：Overlord，这里是Dodge 1-1，我们在坐标GG 3004 4235发现一些可疑活动，请格鲁吉亚方面检查一下。,,
+DictKey_subtitle_,1183,DictKey_subtitle_1183,"OVERLORD: Dodge 1-1, Overlord, roger. Notifying the Georgians, wait one.",OVERLORD：Dodge 1-1，这里是Overlord，收到。正在通知格鲁吉亚方面，稍等。,,
+DictKey_subtitle_,1185,DictKey_subtitle_1185,"OVERLORD: Dodge 1-1, Overlord. False alarm, you are looking at a Georgian patrol.",OVERLORD：Dodge 1-1，这里是Overlord。虚惊一场，你看到的是格鲁吉亚的巡逻队。,,
+DictKey_subtitle_,1187,DictKey_subtitle_1187,PLAYER: And Dodge 1-1 copies.,玩家：Dodge 1-1收到。,,
+DictKey_subtitle_,1189,DictKey_subtitle_1189,"OVERLORD: Dodge 1-1, Overlord. Heads up, we might have something for you. Check the forest and surroundings at grid GG 311 388 for possible enemy presence, report back.",OVERLORD：Dodge 1-1，这里是Overlord。注意，我有任务给你。检查坐标GG 311 388的森林及周边，可能有敌人，完成后报告。,,
+DictKey_subtitle_,1191,DictKey_subtitle_1191,"PLAYER: Overlord, Dodge 1-1 copies, grid GG 311 388, standby.",玩家：Overlord，这里是Dodge 1-1，收到，坐标GG 311 388，稍等。,,
+DictKey_subtitle_,1193,DictKey_subtitle_1193,"PLAYER: Overlord, Dodge 1-1, we're visual on a group of footmobiles in civilian clothes with rifles.. and at least one RPG.",玩家：Overlord，这里是Dodge 1-1，我们看到一群穿着便装的步兵，携带步枪……还有至少一具RPG。,,
+DictKey_subtitle_,1195,DictKey_subtitle_1195,"PLAYER: Overlord, Dodge 1-1, we don't see anything at those coordinates.",玩家：Overlord，这里是Dodge 1-1，我们在那个坐标上没发现任何东西。,,
+DictKey_subtitle_,1197,DictKey_subtitle_1197,"OVERLORD: Dodge 1-1, Overlord. roger. Stop Prowler and give us a feedback on tactical situation.",OVERLORD：Dodge 1-1，这里是Overlord。收到。让Prowler停下，向我反馈战场态势。,,
+DictKey_subtitle_,1199,DictKey_subtitle_1199,"PLAYER: Overlord, Dodge 1-1, we've got some civilian buildings in the area, I recommend we go guns on this target.",玩家：Overlord，这里是Dodge 1-1，区域内有一些民用建筑，我建议对这个目标使用机炮。,,
+DictKey_subtitle_,1201,DictKey_subtitle_1201,"PLAYER: Overlord, Dodge 1-1, the enemy is spread wide, we will use rockets for best effect.",玩家：Overlord，这里是Dodge 1-1，敌人分散较广，我们将使用火箭弹以达到最佳效果。,,
+DictKey_subtitle_,1203,DictKey_subtitle_1203,"PLAYER: Overlord, Dodge 1-1, collateral damage is not a factor here, we'll use GBU-12.",玩家：Overlord，这里是Dodge 1-1，这里没有附带损害因素，我们将使用GBU-12。,,
+DictKey_subtitle_,1205,DictKey_subtitle_1205,"OVERLORD: Dodge 1-1, Overlord. solid copy. You are cleared hot.",OVERLORD：Dodge 1-1，这里是Overlord。收到。可以攻击。,,
+DictKey_subtitle_,1207,DictKey_subtitle_1207,"PLAYER: Overlord, Dodge 1-1 copies, cleared hot.",玩家：Overlord，这里是Dodge 1-1，收到，可以攻击。,,
+DictKey_subtitle_,1209,DictKey_subtitle_1209,"PLAYER: Overlord, Dodge 1-1, targets destroyed.",玩家：Overlord，这里是Dodge 1-1，目标已摧毁。,,
+DictKey_subtitle_,1211,DictKey_subtitle_1211,,,,
+DictKey_subtitle_,1216,DictKey_subtitle_1216,"PLAYER: Prowler 1, Dodge 1-1, enemy neutralised, you are cleared to continue.",玩家：Prowler 1，这里是Dodge 1-1，敌人已被消灭，可以继续前进。,,
+DictKey_subtitle_,1218,DictKey_subtitle_1218,"PROWLER 1: Dodge 1-1, Prowler 1, we are taking accurate small arms fire from the forest to the east, request assistance!",PROWLER 1：Dodge 1-1，这里是Prowler 1，我们正遭受来自东边森林的精确小型武器射击，请求支援！,,
+DictKey_subtitle_,1220,DictKey_subtitle_1220,"PROWLER 1: This is Prowler 1, we lost one truck!",PROWLER 1：这里是Prowler 1，我们损失了一辆卡车！,,
+DictKey_subtitle_,1222,DictKey_subtitle_1222,"PROWLER 1: Prowler 1, we're taking losses, engage the shooters!",PROWLER 1：这里是Prowler 1，我们正在遭受损失，攻击射手！,,
+DictKey_subtitle_,1224,DictKey_subtitle_1224,"PLAYER: Overlord, Dodge 1-1 copies, cleared hot.",玩家：Overlord，这里是Dodge 1-1，收到，可以攻击。,,
+DictKey_subtitle_,1266,DictKey_subtitle_1266,"PLAYER: Prowler 1, Dodge 1-1, I need you to hold position, we have tangos in view in Echo 15.",玩家：Prowler 1，这里是Dodge 1-1，我需要你们保持当前位置，我们在Echo 15发现敌人。,,
+DictKey_subtitle_,1378,DictKey_subtitle_1378,"PROWLER 1: Dodge 1-1, Prowler 1, entering Golf.",PROWLER 1：Dodge 1-1，这里是Prowler 1，进入Golf区域。,,
+DictKey_subtitle_,1380,DictKey_subtitle_1380,"PLAYER: Prowler 1, Dodge 1-1 copies. The road ahead looks clear at this time.",玩家：Prowler 1，这里是Dodge 1-1，收到。目前前方道路看起来很通畅。,,
+DictKey_subtitle_,1382,DictKey_subtitle_1382,WINGMAN (CAPTAIN): The bastards.. they had very little early warning but they still managed to set a trap. I wonder who tipped up Overlord about their presence.,僚机（CAPTAIN）：这些混蛋……他们几乎没有提前预警，但仍能设下了陷阱。我想知道是谁向Overlord透露了他们的存在。,,
+DictKey_subtitle_,1384,DictKey_subtitle_1384,"PLAYER: Hopefully we will find out when we get home. They still have some way to go, keep your eyes open.",玩家：希望我们回去后能查明。他们还有一段路要走，保持警惕。,,
+DictKey_subtitle_,1386,DictKey_subtitle_1386,"PROWLER 1: Dodge 1-1, Prowler 1, we're in Hotel.",PROWLER 1：Dodge 1-1，这里是Prowler 1，我们进入Hotel区域。,,
+DictKey_subtitle_,1388,DictKey_subtitle_1388,"PLAYER: Prowler 1, Dodge 1-1, copies. Welcome to Kobuleti, we will see you when we land",玩家：Prowler 1，这里是Dodge 1-1，收到。欢迎来到Kobuleti，降落后见。,,
+DictKey_subtitle_,1390,DictKey_subtitle_1390,"PLAYER: Overlord, Dodge 1-1. Prowler is now at Hotel and is on his way to the airbase.",玩家：Overlord，这里是Dodge 1-1。Prowler现在在Hotel区域，正前往空军基地。,,
+DictKey_subtitle_,1392,DictKey_subtitle_1392,"OVERLORD: Dodge 1-1, Overlord. Good job, you may RTB.",OVERLORD：Dodge 1-1，这里是Overlord。干得好，可以返航。,,
+DictKey_subtitle_,1394,DictKey_subtitle_1394,"PLAYER: Overlord, show Dodge flight RTB at this time.",玩家：Overlord，Dodge编队现在返航。,,
+DictKey_subtitle_,1396,DictKey_subtitle_1396,"WINGMAN (CAPTAIN): Looks like we'll have all we need now to start kicking the butt of the CLA. So far they had the initiative, I think it is highest time to change that.",僚机（CAPTAIN）：看来，我们现在终于有了对抗高加索解放阵营所需的一切。到目前为止，他们一直占据着主动，是时候改变这种局面了。,,
+DictKey_subtitle_,1398,DictKey_subtitle_1398,"PLAYER: Agreed. Prowler brought all the necessary tools. Let's go home, I'm tired of looking at the TGP screen.",玩家：同意。Prowler带来了所有必要的设备。我们回家吧，我看TGP屏幕看的眼睛都花了。,,
+DictKey_subtitle_,1408,DictKey_subtitle_1408,"WINGMAN (CAPTAIN): Not sure if this is going to be the most exciting sortie of all. Honestly, would be better suited for the helos.",僚机（CAPTAIN）：我不确定这是否是我们做过的最激动人心的行动。但说实话，这次的任务，让直升机来做更合适。,,
+DictKey_subtitle_,1410,DictKey_subtitle_1410,"PLAYER: Yeah, but we'd have to trust the Georgians with protecting our equipment.",玩家：是啊，但我们得相信格鲁吉亚人能保护我们的装备。,,
+DictKey_subtitle_,1412,DictKey_subtitle_1412,"WINGMAN (CAPTAIN): Well, NATO says they are ready to join. I am sure their Hinds could handle a simple escort mission?",僚机（CAPTAIN）：嗯，北约的说法是，他们准备加入了。我觉得他们的雌鹿直升机能执行这么简单的护航任务吧？,,
+DictKey_subtitle_,1414,DictKey_subtitle_1414,PLAYER: Oh yeah? You try telling that to the Skipper.,玩家：哦，是吗？那你跟咱老大汇报一下吧。,,
+DictKey_subtitle_,1416,DictKey_subtitle_1416,WINGMAN (CAPTAIN): Alright... I rest my case.,僚机（CAPTAIN）：好吧……当我没说。,,
+DictKey_subtitle_,1418,DictKey_subtitle_1418,"WINGMAN (CAPTAIN): Lead, two.",僚机（CAPTAIN）：领队，这里是二号机。,,
+DictKey_subtitle_,1420,DictKey_subtitle_1420,PLAYER: Go ahead two.,玩家：请讲，二号机。,,
+DictKey_subtitle_,1422,DictKey_subtitle_1422,"WINGMAN (CAPTAIN): Actually, I think that Skipper is right. I remember reading somewhere about the performance of the Georgian attack helicopters during the 2008 war.",僚机（CAPTAIN）：其实，我觉得咱们指挥官是对的。我记得在某处读到过格鲁吉亚的武装直升机在2008年战争（俄罗斯-格鲁吉亚战争）中的表现。,,
+DictKey_subtitle_,1424,DictKey_subtitle_1424,PLAYER: And how did they fare?,玩家：他们怎么样？,,
+DictKey_subtitle_,1426,DictKey_subtitle_1426,"WINGMAN (CAPTAIN): They participated in only one combat sortie, attacking a Russian convoy. If I am not mistaken they managed to damage one truck. Pretty impressive, eh?",僚机（CAPTAIN）：他们只参与了一次战斗行动，攻击了一个俄军车队。如果我没记错的话，他们一通操作，击伤了一辆卡车。相当让人印象深刻，是吧？,,
+DictKey_subtitle_,1428,DictKey_subtitle_1428,"PLAYER: Oh yeah, quite a score for at least two Hinds... why did they fly only one mission?",玩家：哦，是呢，对两架雌鹿来说，这成绩真不错……他们为什么只执行了一次任务？,,
+DictKey_subtitle_,1430,DictKey_subtitle_1430,WINGMAN (CAPTAIN): Because the Russians fully controlled the air space. Georgians hid their helos until the end of the conflict.,僚机（CAPTAIN）：因为俄军完全控制了空域。格鲁吉亚人把他们的直升机藏到了冲突结束。,,
+DictKey_subtitle_,1432,DictKey_subtitle_1432,"PLAYER. Wow. OK, Skipper was right.",玩家：哇。好吧，看来指挥官让咱来护航是对的。,,
+DictKey_subtitle_,1434,DictKey_subtitle_1434,,,,
+DictKey_subtitle_,1438,DictKey_subtitle_1438,WINGMAN (CAPTAIN): There are Georgian troops at every crossroads. I really don't think anything will happen.,僚机（CAPTAIN）：每个十字路口都有格鲁吉亚的士兵。我真不觉得会发生什么事情。,,
+DictKey_subtitle_,1440,DictKey_subtitle_1440,"PLAYER: Then we will enjoy the view. Too bad it is not later in the year, these beaches look really amazing.",玩家：那我们就欣赏风景吧。这些海滩看起来真的很棒，可惜现在还没到暖和的时候。,,
+DictKey_subtitle_,1442,DictKey_subtitle_1442,"WINGMAN (CAPTAIN): Indeed. Though you'd have all the fun, I don't have the targeting pod. Only binos, not good enough.",僚机（CAPTAIN）：确实。不过你能玩得很开心。我没有瞄准吊舱，只有双筒望远镜，不好玩。,,
+DictKey_subtitle_,1444,DictKey_subtitle_1444,"PLAYER: Hey, that's not what I meant!",玩家：嘿，我不是那个意思！,,
+DictKey_subtitle_,1446,DictKey_subtitle_1446,"WINGMAN (CAPTAIN): They could speed up a little, at this rate we'll run out of fuel before they get to their destination.",僚机（CAPTAIN）：他们可以稍微加快一点速度，这样下去，在他们到达以前，我们就没油了。,,
+DictKey_subtitle_,1448,DictKey_subtitle_1448,PLAYER: Just keep scanning the road ahead.,玩家：继续巡视前方道路。,,
+DictKey_subtitle_,1450,DictKey_subtitle_1450,WINGMAN (CAPTAIN): Roger.,僚机（CAPTAIN）：收到。,,
+DictKey_subtitle_,1469,DictKey_subtitle_1469,"PLAYER: Standby, I will contact Prowler.",玩家：待命，我去联系Prowler。,,

@@ -1,0 +1,493 @@
+﻿Field Type,ID,Field Name,Original Text,Translated Text
+DictKey_ActionRadioText_,325,DictKey_ActionRadioText_325,,
+DictKey_ActionRadioText_,338,DictKey_ActionRadioText_338,,
+DictKey_ActionRadioText_,647,DictKey_ActionRadioText_647,Reply to Georgian Forces,回复格鲁吉亚部队
+DictKey_ActionRadioText_,684,DictKey_ActionRadioText_684,,
+DictKey_ActionRadioText_,746,DictKey_ActionRadioText_746,Reply to Georgian Forces,回复格鲁吉亚部队
+DictKey_ActionRadioText_,756,DictKey_ActionRadioText_756,Request smoke,请求烟雾标记
+DictKey_ActionRadioText_,757,DictKey_ActionRadioText_757,Report visual,报告目视情况
+DictKey_ActionRadioText_,761,DictKey_ActionRadioText_761,,
+DictKey_ActionRadioText_,762,DictKey_ActionRadioText_762,,
+DictKey_ActionRadioText_,763,DictKey_ActionRadioText_763,Request smoke,请求烟雾标记
+DictKey_ActionRadioText_,764,DictKey_ActionRadioText_764,,
+DictKey_ActionRadioText_,768,DictKey_ActionRadioText_768,,
+DictKey_ActionRadioText_,769,DictKey_ActionRadioText_769,,
+DictKey_ActionRadioText_,770,DictKey_ActionRadioText_770,Request smoke,请求烟雾标记
+DictKey_ActionRadioText_,771,DictKey_ActionRadioText_771,Report visual,报告目视情况
+DictKey_ActionRadioText_,939,DictKey_ActionRadioText_939,Report vehicles to the east,报告东边有车辆
+DictKey_ActionRadioText_,972,DictKey_ActionRadioText_972,Report vehicles to the east,报告东边有车辆
+DictKey_ActionRadioText_,1292,DictKey_ActionRadioText_1292,Checkpoint 38T LN 162 343,检查站 38T LN 162 343
+DictKey_ActionRadioText_,1293,DictKey_ActionRadioText_1293,Checkpoint 38T LN 162 343,检查站 38T LN 162 343
+DictKey_ActionRadioText_,1303,DictKey_ActionRadioText_1303,Axeman: bulls 017 for 13,Axeman：靶眼017，距离13
+DictKey_ActionRadioText_,1304,DictKey_ActionRadioText_1304,Axeman: bulls 017 for 13,Axeman：靶眼017，距离13
+DictKey_ActionRadioText_,1305,DictKey_ActionRadioText_1305,Report vehicles to the east,报告东边有车辆
+DictKey_ActionRadioText_,1306,DictKey_ActionRadioText_1306,Checkpoint 38T LN 162 343,检查站 38T LN 162 343
+DictKey_ActionText_,324,DictKey_ActionText_324,,
+DictKey_ActionText_,336,DictKey_ActionText_336,,
+DictKey_ActionText_,337,DictKey_ActionText_337,,
+DictKey_ActionText_,417,DictKey_ActionText_417,CHEVY LANDS,CHEVY着陆
+DictKey_ActionText_,418,DictKey_ActionText_418,LANDED!!!,已着陆！
+DictKey_ActionText_,419,DictKey_ActionText_419,"REFERENCE\
+Bulls 38 for 32.  \
+\
+Press SPACE BAR to remove this message.","参考\
+靶眼38，距离32。\
+\
+按空格键以移除此消息。"
+DictKey_ActionText_,421,DictKey_ActionText_421,.,。
+DictKey_ActionText_,422,DictKey_ActionText_422,,
+DictKey_ActionText_,423,DictKey_ActionText_423,"REFERENCE\
+Mission frequency: 128 AM\
+\
+Press SPACE BAR to remove this message.","参考\
+任务频率：128 AM\
+\
+按空格键以移除此消息。"
+DictKey_ActionText_,424,DictKey_ActionText_424,.,。
+DictKey_ActionText_,460,DictKey_ActionText_460,FL151,FL151
+DictKey_ActionText_,461,DictKey_ActionText_461,FL152,FL152
+DictKey_ActionText_,567,DictKey_ActionText_567,Press SPACE BAR to check in with Overlord when you reach WP 3.,到达航路点3时，按空格键与Overlord联系。
+DictKey_ActionText_,568,DictKey_ActionText_568,,
+DictKey_ActionText_,569,DictKey_ActionText_569,,
+DictKey_ActionText_,570,DictKey_ActionText_570,"Checkpoint LN-16\
+37T LN 162 343","检查站 LN-16\
+37T LN 162 343"
+DictKey_ActionText_,602,DictKey_ActionText_602,Press SPACE BAR to contact Overlord when you are visual on the outpost.,当目视前哨时，按空格键联系Overlord。
+DictKey_ActionText_,604,DictKey_ActionText_604,.,.
+DictKey_ActionText_,606,DictKey_ActionText_606,,
+DictKey_ActionText_,640,DictKey_ActionText_640,,
+DictKey_ActionText_,642,DictKey_ActionText_642,"Proceed towards D-Town (DZHVARI, next to the dam - check your map if necessary). The helicopter was lost north east from there. \
+\
+Tune to GUARD frequency. If you hear Georgian Special Forces at any time, use F10 radio menu to respond\
+\
+Press SPACE BAR to remove this message.","前往D镇（DZHVARI，位于水坝旁边——如有需要请查看地图）。一架直升机在该地东北方向失联。\
+\
+调至GUARD频率。如果听到格鲁吉亚特种部队的消息，使用F10无线电菜单回应。\
+\
+按空格键移除此消息。"
+DictKey_ActionText_,644,DictKey_ActionText_644,.,.
+DictKey_ActionText_,681,DictKey_ActionText_681,Check that you are on a correct frequency and press SPACE BAR to contact OVERLORD.,确认你在正确的频率上，然后按空格键联系OVERLORD。
+DictKey_ActionText_,685,DictKey_ActionText_685,.,.
+DictKey_ActionText_,688,DictKey_ActionText_688,,
+DictKey_ActionText_,690,DictKey_ActionText_690,"Check that you are on the new frequency (34.3 FM) on the bottom radio. Switch to OVERLORD on the top radio. \
+\
+Press SPACE BAR to request AXEMAN position.","确认你最后方的电台（AN/ARC-186-FM）调至新频率（34.3 FM）。最前方的电台（AN/ARC-210）切换到OVERLORD。\
+\
+按空格键请求AXEMAN位置。"
+DictKey_ActionText_,693,DictKey_ActionText_693,.,.
+DictKey_ActionText_,739,DictKey_ActionText_739,,
+DictKey_ActionText_,741,DictKey_ActionText_741,Press SPACE BAR to request the situation update from AXEMAN.,按空格键请求AXEMAN更新情况。
+DictKey_ActionText_,744,DictKey_ActionText_744,.,.
+DictKey_ActionText_,747,DictKey_ActionText_747,.,.
+DictKey_ActionText_,748,DictKey_ActionText_748,,
+DictKey_ActionText_,750,DictKey_ActionText_750,Check that you are on the new frequency (128.2) and press SPACE BAR to request AXEMAN position.,确认你在新频率（128.2）上，然后按空格键请求AXEMAN位置。
+DictKey_ActionText_,753,DictKey_ActionText_753,"Use F10 radio menu to:\
+\
+- request that AXEMAN marks his position with smoke\
+\
+- report that you are visual on AXEMAN","使用F10无线电菜单：\
+\
+- 请求AXEMAN用烟雾标记他的位置\
+\
+- 报告你已目视AXEMAN"
+DictKey_ActionText_,758,DictKey_ActionText_758,,
+DictKey_ActionText_,765,DictKey_ActionText_765,.,.
+DictKey_ActionText_,772,DictKey_ActionText_772,Press SPACE BAR to request nine-line from AXEMAN.,按空格键请求AXEMAN提供九行简报。
+DictKey_ActionText_,775,DictKey_ActionText_775,",",","
+DictKey_ActionText_,778,DictKey_ActionText_778,,
+DictKey_ActionText_,909,DictKey_ActionText_909,Press SPACE BAR to request a nine line from AXEMAN.,按空格键请求AXEMAN提供九行简报。
+DictKey_ActionText_,912,DictKey_ActionText_912,",",","
+DictKey_ActionText_,934,DictKey_ActionText_934,Press SPACE BAR to request nine line from AXEMAN.,按空格键请求AXEMAN提供九行简报。
+DictKey_ActionText_,937,DictKey_ActionText_937,",",","
+DictKey_ActionText_,949,DictKey_ActionText_949,"Use normal JTAC radio menu to request nine line. \
+\
+Press SPACE BAR to remove this message.","使用常规JTAC无线电菜单请求九行简报。\
+\
+按空格键以移除此消息。"
+DictKey_ActionText_,952,DictKey_ActionText_952,",",","
+DictKey_ActionText_,954,DictKey_ActionText_954,"Axeman and his team have been killed. You may RTB.\
+\
+(If you choose to return and land, the campaign will progress normally).\
+\
+Press SPACE BAR to remove this message.","Axeman和他的队伍已经阵亡。你可以返航。\
+\
+（如果你选择返回并着陆，战役将正常推进）。\
+\
+按空格键以移除此消息。"
+DictKey_ActionText_,957,DictKey_ActionText_957,",",","
+DictKey_ActionText_,1066,DictKey_ActionText_1066,,
+DictKey_ActionText_,1141,DictKey_ActionText_1141,,
+DictKey_ActionText_,1143,DictKey_ActionText_1143,"(AXEMAN:  IP will be mine position. Offset 246, 1.1 mile, 1785, MANPAD, KN 6784 5798, no mark, 1700 north east, egress east.   )\
+\
+Press SPACE BAR to readback AXEMAN instructions","（AXEMAN：攻击起始点（IP）位于我所在的位置。方向246，1.1海里，1785，单兵防空导弹（MANPAD），KN 6784 5798，无标记，东北1700，向东脱离。）\
+\
+按空格键复述AXEMAN指令。"
+DictKey_ActionText_,1145,DictKey_ActionText_1145,",",","
+DictKey_ActionText_,1147,DictKey_ActionText_1147,,
+DictKey_ActionText_,1149,DictKey_ActionText_1149,"(AXEMAN: Offset 036, 300 feet, 1850, infantry, KN 695 587, marked with WP, 100 south - west, egress west, troops in contact!)\
+\
+Press SPACE BAR to readback AXEMAN's message.","（AXEMAN：方向036，300英尺，1850，步兵，KN 695 587，白色烟雾标记，西南100，向西脱离，部队正在接敌！）\
+\
+按空格键复述AXEMAN的信息。"
+DictKey_ActionText_,1152,DictKey_ActionText_1152,.,.
+DictKey_ActionText_,1154,DictKey_ActionText_1154,,
+DictKey_ActionText_,1156,DictKey_ActionText_1156,,
+DictKey_ActionText_,1158,DictKey_ActionText_1158,"(AXEMAN: Offset 007, 900 feet, 1995, infantry, KN 695 589, on the roof of a building, no mark, 275 south, egress west.)\
+\
+Press SPACE BAR to readback the nine line.","（AXEMAN：方向007，900英尺，1995，步兵，KN 695 589，在一栋建筑的屋顶，无标记，南275，向西脱离。）\
+\
+按空格键复述九行简报。"
+DictKey_ActionText_,1161,DictKey_ActionText_1161,",",","
+DictKey_ActionText_,1163,DictKey_ActionText_1163,,
+DictKey_ActionText_,1165,DictKey_ActionText_1165,"(AXEMAN: Offset 168, 490 feet, 1837, infantry, KN 695 585, marked with WP, 150 north, egress west, troops in contact! )\
+\
+Press SPACE BAR to readback the nine line.","（AXEMAN：方向168，490英尺，1837，步兵，KN 695 585，白色烟雾标记，北150，向西脱离，部队接敌中！）\
+\
+按空格键复述九行简报。"
+DictKey_ActionText_,1168,DictKey_ActionText_1168,.,.
+DictKey_ActionText_,1171,DictKey_ActionText_1171,,
+DictKey_ActionText_,1179,DictKey_ActionText_1179,"(AXEMAN: Dodge 1-1, Axeman, the fire is coming from the west, you should clearly see the tracers)\
+\
+Press SPACE BAR to report that you are visual on tracers.","（AXEMAN：Dodge 1-1，Axeman，交火地点在西侧，你应该能清楚的看到曳光弹）\
+\
+按空格键报告你已看到曳光弹。"
+DictKey_ActionText_,1181,DictKey_ActionText_1181,.,.
+DictKey_ActionText_,1300,DictKey_ActionText_1300,"MISSION COMPLETE\
+\
+Taxi to parking area and shut down your jet. You can exit at any time.","任务完成\
+\
+滑行至停机区并关车。你可以随时退出。"
+DictKey_ActionText_,1311,DictKey_ActionText_1311,"This was your first proper combat sortie in this campaign - and it turned out to be very intensive. You responded to the Georgian request to check up on the outpost they lost contact with, and which turned out to be attacked and destroyed by the CLA forces, which you promptly took out. \
+\
+Next, you responded to the distress call by the crew of a downed Georgian Mi-8 helicopter and set up defensive posture, engaging any CLA units in the area that tried to attack the damaged HiP. \
+\
+You successfully repelled several different attacks, keeping enemy at bay until reinforcements arrived. Well done.","这是你在本次战役中的第一次正式作战任务，战况非常激烈。你响应了格鲁吉亚方面的请求，检查了他们失联的前哨，发现该前哨已被CLA袭击并摧毁，而你迅速消灭了敌人。\
+\
+接下来，你回应了一架被击落的格鲁吉亚Mi-8直升机机组的求救信号，建立了防御姿态，打击任何企图袭击受损直升机的CLA单位。\
+\
+你成功的击退了多次攻击，将敌人阻挡在外，直到增援部队到达。干得好。"
+DictKey_ActionText_,1313,DictKey_ActionText_1313,"This was your first proper combat sortie in this campaign - and it turned out to be very intensive. You responded to the Georgian request to check up on the outpost they lost contact with, and which turned out to be attacked and destroyed by the CLA forces, which you promptly took out. \
+\
+Next, you responded to the distress call by the crew of a downed Georgian Mi-8 helicopter and set up defensive posture, engaging any CLA units in the area that tried to attack the damaged HiP. \
+\
+Unfortunately, despite your best efforts, the terrorists managed to overrun Georgian forces defending the helicopter and the reinforcements did not arrive in time. You need to stay on your toes at all times and perform better if we are to root the CLA from the region.","这是你在本次战役中的第一次正式作战任务，战况非常激烈。你响应了格鲁吉亚方面的请求，检查了他们失联的前哨，发现该前哨已被CLA袭击并摧毁，而你迅速消灭了敌人。\
+\
+接下来，你回应了一架被击落的格鲁吉亚Mi-8直升机机组的求救信号，建立了防御姿态，打击任何企图袭击受损直升机的CLA单位。\
+\
+不幸的是，尽管你尽了最大努力，恐怖分子还是成功击溃了防守直升机的格鲁吉亚部队，而增援部队未能及时到达。我们需要时刻保持警惕，做得更出色，才能将CLA从该地区根除。"
+DictKey_ActionText_,1314,DictKey_ActionText_1314,,
+DictKey_ActionText_,1321,DictKey_ActionText_1321,Make sure you are on correct frequency and press SPACE BAR to check in with Overlord.,确保你在正确的频率上，然后按空格键与Overlord联系。
+DictKey_ActionText_,1323,DictKey_ActionText_1323,,
+DictKey_ActionText_,1324,DictKey_ActionText_1324,Switch back to GUARD frequency and press SPACE BAR to tell AXEMAN to switch to a different frequency on FM radio.,切换回GUARD频率，然后按空格键告诉AXEMAN切换到FM无线电的不同频率。
+DictKey_ActionText_,1326,DictKey_ActionText_1326,,
+DictKey_descriptionBlueTask_,211,DictKey_descriptionBlueTask_211,"(Major Grey sits down, and lieutenant - colonel Ron Smith takes his place. He is a tall, middle aged man wearing thick-rimmed glasses).\
+\
+Gentlemen, your mission today is simple. Grizzly, you will lead a 2-plane flight, callsign Dodge 01, into the north of the country. It is imperative that you know the area well if we are to conduct successful operations against the enemy there. These are going to be high mountains, so enjoy the views - but also keep your head on a swivel and watch out for MANPADs. ROE is in your FRAGO, you are to return fire. Which means that you can shoot if you are being shot at or if you see that the enemy is engaging Georgian forces on the ground. You still need to report that to us afterwards. In all other instances obtain clearance before opening fire.\
+\
+I will be your AMC for this operation, callsign Overlord Actual. In case of need of direct contact with Georgian troops, we will provide you with the frequencies and required intel.\
+\
+FREQUENCIES:\
+Dodge Flight: 250 FM\
+AMC (Overlord): 135.3 UHF\","（Grey少校坐下，Ron Smith中校接替了他的位置。他是一位戴着厚边眼镜的中年高个子。）\
+\
+各位，今天的任务很简单。Grizzly，你将带领一个双机编队，呼号Dodge 01，飞往该国北部。想要打一场胜仗，必须要熟悉那里的地形。交战区位于高山地带，欣赏风景的同时，也要保持警惕，注意单兵式防空导弹（MANPAD）。交战规则在你的FRAGO中，你可以还击。也就是，如果你被攻击或看到敌人正在攻击地面上的格鲁吉亚部队，你可以开火。之后仍需向我们报告。在其他情况下，开火前需获得许可。\
+\
+我将担任此次行动的空中任务指挥官，呼号Overlord Actual。如果需与格鲁吉亚部队直接联系，我们将为你提供频率和所需情报。\
+\
+频率：\
+Dodge编队：250 FM\
+空中任务指挥官（Overlord）：135.3 UHF"
+DictKey_descriptionRedTask_,210,DictKey_descriptionRedTask_210,,
+DictKey_descriptionText_,209,DictKey_descriptionText_209,"A Patrol Near the Border\
+30 March 2012, 07:00\
+\
+(Major Nicolas Grey waits patiently as pilots and other members take their seats, then he reaches out and turns on the projector)\
+\
+Gentlemen,\
+\
+The events which took place during yesterday's flight have clearly shown the determination and ruthlessness of the CLA. With a cold blood they have executed four Georgian soldiers and seized their armoured vehicle. Luckily they paid the price for what they did thanks to Grizzly and his flight.\
+\
+(A murmur of content goes through the room. Somebody pats you on the back, someone else claps his hands. Major Grey picks up his pointer and marks different locations on the map as he speaks)\
+\
+With the whole squadron settled in Kobuleti and more equipment coming on a daily basis, we are ready to commence regular patrols to aid Georgians in their search for CLA bases. According to intel reports we received, apart from separate cells operating in major cities, the terrorists have been setting up camps used for training or as bases for smuggling illegal equipment. The Georgian Intelligence Service, or GIS for short, estimates that these bases are mainly located along the northern border of the country, predominantly - but not exclusively - close to Chechnya. However, the exact source of volunteers and weapons for the terrorists remains unknown.\
+\
+Bear in mind that any disorder in this country is in the interests of many players, Russia being at the top of the list. However, taking into account the amount of trouble they had with Islamist fighters in their backyard, it is unlikely that they are directly supporting the CLA. We are still unclear regarding the links between CLA and other terrorist organisations, like Al Qaeda, ISIS or Caucasus Emirate, but we're checking all the possibilities.\
+\
+Now, one last thing I need to mention. I am sure you have all heard about two missing German officers who came to Georgia on a NATO training programme. CLA claims to have captured them, but so far didn't present any evidence to that end. Still, searching for Captain Voss and his colleague will be one of our priorities here in Georgia. \
+\
+Over to you, Sir.\","边境巡逻\
+2012年3月30日，07:00\
+\
+（Nicolas Grey少校耐心等待飞行员和其他成员就座，然后伸手打开投影仪）\
+\
+各位，\
+\
+昨天飞行中发生的事件，我们已经很清楚的见识到了CLA的坚决和冷酷。他们残忍地处决了四名格鲁吉亚士兵并抢走了他们的装甲车。幸运的是，Grizzly（玩家扮演的飞行员的呼号）和他的编队让他们为此付出了代价。\
+\
+（房间里传来满意的低语声。有人拍了拍你的背，另一个人鼓掌。Grey少校拿起激光笔，在讲话时在地图上标记不同的位置）\
+\
+随着整个中队在科布列季安顿下来，随着每天都会陆续送达更多的设备，我们准备开始定期巡逻，以帮助格鲁吉亚人搜寻CLA的老巢。根据我们收到的情报，除了在主要城市活动的独立小组外，恐怖分子还设立了用于训练或走私非法设备的基地。格鲁吉亚情报局（简称GIS）估计这些基地主要位于该国北部边境，主要但不限于车臣地区附近。然而，恐怖分子兵员和武器的确切来源仍然未知。\
+\
+请记住，该国局势的混乱符合许多势力的利益，俄罗斯位居首位。然而，考虑到他们在国内后方与伊斯兰战斗人员的不断纠缠，他们不太可能直接支持CLA。我们仍不清楚CLA与其他恐怖组织（如基地组织、ISIS或高加索酋长国）之间的联系，但我们正在检查所有的可能性。\
+\
+我要说的最后一件事——我相信你们都听说过有两名德国军官失踪了，他们是来格鲁吉亚参加北约训练计划的。CLA声称抓住了他们，但到目前为止没有提供任何证据。尽管如此，寻找Voss上尉和他的同事将是我们在格鲁吉亚的优先任务之一。\
+\
+接下来，交给您了，长官。"
+DictKey_sortie_,212,DictKey_sortie_212,TEW3 M04: A patrol near the border,TEW3 M04：边境巡逻
+DictKey_subtitle_,339,DictKey_subtitle_339,"[Uzi] I repeat: 42-50-36 North, 42-25-37 East.",[Uzi] 重复：北纬42-50-36，东经42-25-37。
+DictKey_subtitle_,340,DictKey_subtitle_340,"[Uzi] Dodge 1-1, smoke is on the deck. White for hostiles, green for friendlies.",[Uzi] Dodge 1-1，已释放烟雾。白色是敌方，绿色是友方。
+DictKey_subtitle_,341,DictKey_subtitle_341,"[Uzi] This is Uzi flight, we need assistance. How copy?",[Uzi] 这里是Uzi编队，我们需要支援。收到请回答。
+DictKey_subtitle_,342,DictKey_subtitle_342,"[Uzi] Dodge, this is Uzi flight, Georgian Mi-8. We were shot, had an emergency landing and require assistance.",[Uzi] Dodge，这里是Uzi编队，格鲁吉亚Mi-8。我们被击中迫降，需要支援。
+DictKey_subtitle_,343,DictKey_subtitle_343,"[Uzi] Special ops team has formed a perimeter around our landing site, but we need spare parts for repairs.",[Uzi] 特种作战小组已在我们的着陆点周围建立了防御阵地，但我们需要备件维修。
+DictKey_subtitle_,344,DictKey_subtitle_344,"[Uzi] Dodge, Uzi. Enemy MANPAD neutralized.",[Uzi] Dodge，这里是Uzi。敌单兵防空导弹（MANPAD）已被消灭。
+DictKey_subtitle_,345,DictKey_subtitle_345,"[Uzi] Dodge, enemy is taking heavy losses, keep it up!",[Uzi] Dodge，敌人损失惨重，继续攻击！
+DictKey_subtitle_,346,DictKey_subtitle_346,"[Uzi] Dodge 1-1, we are under heavy fire from the north, request immediate assistance!",[Uzi] Dodge 1-1，我们正遭受来自北方的猛烈攻击，请立即支援！
+DictKey_subtitle_,347,DictKey_subtitle_347,"[Uzi] Dodge 1-1, enemy forces are withdrawing or surrendering, great work!",[Uzi] Dodge 1-1，敌军正在投降和撤退，干得好！
+DictKey_subtitle_,348,DictKey_subtitle_348,"[Uzi] Dodge 1-1, we are in the valley at coordinates 42-50-36 North, 42-25-37 East. I repeat: 42-50-36 North, 42-25-37 East.",[Uzi] Dodge 1-1，我们在北纬42-50-36，东经42-25-37的山谷中。重复：北纬42-50-36，东经42-25-37。
+DictKey_subtitle_,349,DictKey_subtitle_349,"[Uzi] Dodge 1-1, be advised, enemy has a MANPAD. We will mark enemy position with white smoke.",[Uzi] Dodge 1-1，请注意，敌人有单兵防空导弹（MANPAD）。我们将用白烟标记敌人位置。
+DictKey_subtitle_,350,DictKey_subtitle_350,"[Uzi] Dodge, Uzi. Smoke is on the deck.",[Uzi] Dodge，这里是Uzi。烟雾信号已释放。
+DictKey_subtitle_,351,DictKey_subtitle_351,"[Uzi] Dodge 1-1, Uzi. Our support team has just landed, we will take it from here. Thank you for your help, Uzi out.",[Uzi] Dodge 1-1，这里是Uzi。我们的支援小组刚刚着陆，接下来交给我们。感谢你的帮助，Uzi完毕。
+DictKey_subtitle_,352,DictKey_subtitle_352,"[Overlord] Dodge 1-1, Overlord, be advised - in the high mountains we will lose radio contact whenever you get too low. If that happens use your own discretion. Overlord out.",[Overlord] Dodge 1-1，这里是Overlord，请注意——在高山地区，当你飞得太低时，我们会失去无线电联系。如果发生这种情况，请自行判断。Overlord完毕。
+DictKey_subtitle_,353,DictKey_subtitle_353,"[Overlord] Dodge 1-1, Overlord. Georgians have just informed us that they lost a patrol chopper at bulls 038 for 32.",[Overlord] Dodge 1-1，这里是Overlord。格鲁吉亚方面刚刚通知我们，他们在靶眼038方向32海里处失去了一架巡逻直升机。
+DictKey_subtitle_,354,DictKey_subtitle_354,"[Overlord] It was probably hit by hostile SAM. Proceed to the given coordinates and investigate the crash site. Be advised, enemy still may have shoulder-fired SAMs.",[Overlord] 直升机可能是被敌方地空导弹击中。前往给定坐标并调查坠机现场。注意，敌人可能仍有单兵防空导弹（MANPAD）。
+DictKey_subtitle_,355,DictKey_subtitle_355,"[Overlord] Georgians are getting two flights of helos in the air. Pontiac will provide CAS, Hueys from Chevy will bring technicians and spare parts. \
+\",[Overlord] 格鲁吉亚方面正在派出两批直升机。Pontiac小队将提供近距离空中支援（CAS），Chevy小队的休伊负责运送技术人员和备件。
+DictKey_subtitle_,356,DictKey_subtitle_356,"[Overlord] Dodge 1-1, Overlord. Georgian command informed us that one of their checkpoints failed to report in. You are the closest air asset we have in the area. Proceed to grid 38 T LN 1372 3835 and see what is happening.",[Overlord] Dodge 1-1，这里是Overlord。格鲁吉亚指挥部通知我们，他们的一个检查站未能按时报到。你是我们在该地区最近的空中力量。前往坐标38 T LN 1372 3835查看情况。
+DictKey_subtitle_,357,DictKey_subtitle_357,"[Overlord] Dodge 1-1, Overlord. Pontiac flight is on station, call them should you be in need of CAS.",[Overlord] Dodge 1-1，这里是Overlord。Pontiac编队已到位，如需近距离空中支援（CAS），请呼叫他们。
+DictKey_subtitle_,358,DictKey_subtitle_358,[Overlord] You will coordinate the efforts as Sandy. Mission frequency will be 128 AM. Overlord out.,[Overlord] 你将作为搜救掩护机（Sandy）协调行动。任务频率为128 AM。Overlord完毕。
+DictKey_subtitle_,359,DictKey_subtitle_359,"[Overlord] Dodge, Overlord. Good job, you may depart.",[Overlord] Dodge，这里是Overlord。干得好，你可以撤出了。
+DictKey_subtitle_,360,DictKey_subtitle_360,"[Overlord] Dodge, copy. The emergency channel for Uzi is 128AM, we only get static here. Locate the Georgian chopper and report back.",[Overlord] Dodge，收到。Uzi的紧急频道是128AM，我们这里只能收到杂音。找到格鲁吉亚直升机并报告情况。
+DictKey_subtitle_,361,DictKey_subtitle_361,"[Overlord] Dodge 1-1, Overlord. Chevy will soon be on station, carrying spare parts and technicians. Call them in once you are sure the area is safe.",[Overlord] Dodge 1-1，这里是Overlord。Chevy很快就会到达，携带备件和技术人员。一旦确认区域安全，请呼叫他们。
+DictKey_subtitle_,362,DictKey_subtitle_362,"[Overlord] Dodge, Overlord. Good job, continue your patrol.",[Overlord] Dodge，这里是Overlord。干得好，继续巡逻。
+DictKey_subtitle_,363,DictKey_subtitle_363,"[Overlord] Dodge 1-1, Overlord. Georgian command informed us that one of their checkpoints failed to report in. You are the closest air asset we have in the area. Proceed to grid 38 T LN 1372 3835 and see what is happening.",[Overlord] Dodge 1-1，这里是Overlord。格鲁吉亚指挥部通知我们，他们的一个检查站未能按时报到。你是我们在该地区最近的空中力量。前往坐标38 T LN 1372 3835查看情况。
+DictKey_subtitle_,364,DictKey_subtitle_364,"[Overlord] Dodge, Overlord, copy. What about the enemy?",[Overlord] Dodge，这里是Overlord，收到。敌人情况如何？
+DictKey_subtitle_,365,DictKey_subtitle_365,"[Overlord] Dodge, wait one.",[Overlord] Dodge，请稍等。
+DictKey_subtitle_,366,DictKey_subtitle_366,"[Overlord] Dodge, Overlord. We have confirmation from the Georgians, these are not their forces. You are cleared to engage.",[Overlord] Dodge，这里是Overlord。我们已和格鲁吉亚方面确认，这些不是他们的部队。你可以开火。
+DictKey_subtitle_,374,DictKey_subtitle_374,"[Uzi] This is Uzi flight, we need assistance. How copy?",[Uzi] 这里是Uzi编队，我们需要支援。收到请回答。
+DictKey_subtitle_,376,DictKey_subtitle_376,"[Uzi] Dodge, this is Uzi flight, Georgian Mi-8. We were shot, had an emergency landing and require assistance.",[Uzi] Dodge，这里是Uzi编队，格鲁吉亚Mi-8。我们被击中迫降，需要支援。
+DictKey_subtitle_,378,DictKey_subtitle_378,"[Uzi] Dodge 1-1, we are in the valley at coordinates 42-50-34 North, 42-25-47 East. I repeat: 42-50-34 North, 42-25-47 East.",[Uzi] Dodge 1-1，我们在北纬42-50-34，东经42-25-47的山谷中。重复：北纬42-50-34，东经42-25-47。
+DictKey_subtitle_,380,DictKey_subtitle_380,"[Uzi] Special ops team has formed a perimeter around our landing site, but we need spare parts for repairs.",[Uzi] 特种作战小组已在我们的着陆点周围建立了防御阵地，但我们需要备件维修。
+DictKey_subtitle_,382,DictKey_subtitle_382,"[Uzi] Dodge 1-1, we are under heavy fire from the north, request immediate assistance!",[Uzi] Dodge 1-1，我们正遭受来自北方的猛烈攻击，请求立即支援！
+DictKey_subtitle_,386,DictKey_subtitle_386,"[Uzi] Dodge 1-1, be advised, enemy has a MANPAD. We will mark enemy position with white smoke.",[Uzi] Dodge 1-1，请注意，敌人有单兵防空导弹（MANPAD）。我们将用白烟标记敌人位置。
+DictKey_subtitle_,389,DictKey_subtitle_389,"[Uzi] Dodge 1-1, smoke is on the deck. White for hostiles, green for friendlies.",[Uzi] Dodge 1-1，已释放烟雾。白色是敌方，绿色是友方。
+DictKey_subtitle_,392,DictKey_subtitle_392,"[Uzi] Dodge, Uzi. Enemy MANPAD neutralized.",[Uzi] Dodge，这里是Uzi。敌单兵防空导弹（MANPAD）已被消灭。
+DictKey_subtitle_,394,DictKey_subtitle_394,"[Uzi] Dodge, enemy is taking heavy losses, keep it up!",[Uzi] Dodge，敌人损失惨重，继续攻击！
+DictKey_subtitle_,396,DictKey_subtitle_396,"[Uzi] Dodge 1-1, enemy forces are withdrawing or surrendering, great work!",[Uzi] Dodge 1-1，敌军正在投降和撤退，干得好！
+DictKey_subtitle_,398,DictKey_subtitle_398,"[Uzi] Dodge 1-1, Uzi. Our support team has just landed, we will take it from here. Thank you for your help, Uzi out.",[Uzi] Dodge 1-1，这里是Uzi。我们的支援小组刚刚着陆，接下来交给我们。感谢你的帮助，Uzi完毕。
+DictKey_subtitle_,400,DictKey_subtitle_400,"[Uzi] Dodge, Uzi. Smoke is on the deck.",[Uzi] Dodge，这里是Uzi。烟雾信号已释放。
+DictKey_subtitle_,403,DictKey_subtitle_403,"[Uzi] I repeat: 42-50-34 North, 42-25-47 East.",[Uzi] 重复：北纬42-50-34，东经42-25-47。
+DictKey_subtitle_,481,DictKey_subtitle_481,"PLAYER: Dodge 1 flight, take off briefing. Standard procedures. We will go with 10 second separation, flaps maneuvering, I will keep 180 knots indicated and 5 degree climb until rejoin, we'll then get to our cruise altitude. Questions?",玩家：Dodge 1编队，起飞简报。标准程序。我们以10秒间隔起飞，襟翼设起飞位，我会保持180节指示空速，5度爬升，直到完成编队，然后我们爬升到巡航高度。有问题吗？
+DictKey_subtitle_,483,DictKey_subtitle_483,"WINGMAN (ROCKMAN): No questions, two is ready.",僚机（ROCKMAN）：没问题，二号准备就绪。
+DictKey_subtitle_,485,DictKey_subtitle_485,PLAYER: Lead is gear up.,玩家：长机，收轮。
+DictKey_subtitle_,487,DictKey_subtitle_487,PLAYER: Lead's rolling.,玩家：长机开始滑跑。
+DictKey_subtitle_,495,DictKey_subtitle_495,"WINGMAN (ROCKMAN): One, two.",僚机（ROCKMAN）：一号，二号呼叫。
+DictKey_subtitle_,497,DictKey_subtitle_497,"PLAYER: Go ahead, two.",玩家：继续，二号。
+DictKey_subtitle_,499,DictKey_subtitle_499,"WINGMAN (ROCKMAN): I've been in Georgia two years ago, soon after the war. Flew in as a tourist. Man, it looks so much nicer now.. don't know what it is, maybe the light?",僚机（ROCKMAN）：我两年前来过格鲁吉亚，就在战争（08年俄-格战争）结束后不久。是作为游客飞过来的。我跟你说，我觉得现在的景色比那时好太多了……不知道是什么原因，也许是光线？
+DictKey_subtitle_,501,DictKey_subtitle_501,"PLAYER: I wouldn't know, looks pretty normal to me. But I do agree, the views are pretty nice. Wait until we get over the mountains.",玩家：我不太清楚，对我来说，看起来没什么特别的。不过我同意，景色确实不错。等我们飞过山后更好。
+DictKey_subtitle_,503,DictKey_subtitle_503,WINGMAN (ROCKMAN): The guys told me stories about your yesterday' sortie. They say you hit the CLA pretty hard.,僚机（ROCKMAN）：基地那帮人跟我讲了你昨天出击的事。他们说你把CLA打的很惨。
+DictKey_subtitle_,505,DictKey_subtitle_505,"PLAYER: Yeah, we did, but it was too late to save those poor grunts. At least we paid them back. Before stepping I heard from Hunter that the body count after our attack was at least 22 tangos, one APC, a couple of trucks and a couple of SUVs. Not a bad day at work.",玩家：没错，但还是太迟了，没能救下那些可怜的格鲁吉亚步兵。不过至少报了仇。出发前我听Hunter说，我们的攻击至少消灭了22名敌人、1辆装甲运兵车（APC）、几辆卡车和几辆SUV。算是不错的一天。
+DictKey_subtitle_,507,DictKey_subtitle_507,WINGMAN (ROCKMAN): I saw some footage in the media yesterday. Pretty good job.,僚机（ROCKMAN）：我昨天在媒体上看到了一些画面。干得真不错。
+DictKey_subtitle_,512,DictKey_subtitle_512,"PLAYER: Overlord, Dodge 1-1, checking waypoint 2 as fragged, we're turning northtowards D-Town. Any words?",玩家：Overlord，这里是Dodge 1-1，按计划到达航路点2，我们正向北转向D镇。有任何指示吗？
+DictKey_subtitle_,514,DictKey_subtitle_514,"OVERLORD: Dodge 1-1, Overlord. Negative, continue. Check in at waypoint 3.",Overlord：Dodge 1-1，这里是Overlord。没有指示，继续前进。在航路点3报告。
+DictKey_subtitle_,516,DictKey_subtitle_516,"PLAYER: Dodge 1-1 copies, check in at waypoint 3.",玩家：Dodge 1-1收到，在航路点3报告。
+DictKey_subtitle_,518,DictKey_subtitle_518,"PLAYER: Overlord, Dodge 1-1 checks, waypoint 3, as fragged, turning east. Any words?",玩家：Overlord，这里是Dodge 1-1，按计划到达航路点3，转向东。有任何指示吗？
+DictKey_subtitle_,520,DictKey_subtitle_520,"OVERLORD: Dodge 1-1, Overlord. Affirm, standby words.",Overlord：Dodge 1-1，这里是Overlord。收到，请等待指示。
+DictKey_subtitle_,522,DictKey_subtitle_522,"PLAYER: Dodge 1-1, standing by.",玩家：Dodge 1-1，等待中。
+DictKey_subtitle_,524,DictKey_subtitle_524,"OVERLORD: Georgian command informed us that few minutes ago they lost contact with checkpoint Lima November 16. It is ahead of you, on your current flight plan. I want you to get a visual and check what happened. Standby for coordinates.",Overlord：格鲁吉亚指挥部通知我们，几分钟前他们与检查站LN 16失去了联系。它就在你们前方，在当前的飞行计划上。我希望你们目视侦察，看看发生了什么。请等待坐标。
+DictKey_subtitle_,528,DictKey_subtitle_528,"PLAYER: Dodge 1-1, copies, standing by for coordinates.",玩家：Dodge 1-1，收到，等待坐标。
+DictKey_subtitle_,530,DictKey_subtitle_530,OVERLORD: 38T LN 162 343.,Overlord：38T LN 162 343。
+DictKey_subtitle_,532,DictKey_subtitle_532,"PLAYER: Dodge 1-1 copies, LN 162 343. We're turning that way now.",玩家：Dodge 1-1收到，LN 162 343。我们现在转向那个方向。
+DictKey_subtitle_,538,DictKey_subtitle_538,"WINGMAN (ROCKMAN): So, the other side of the river its Abkhazia?",僚机（ROCKMAN）：所以，河的另一边就是阿布哈兹？
+DictKey_subtitle_,540,DictKey_subtitle_540,"PLAYER: Yep. But don't get fooled, that place is crawling with Russians.",玩家：是的。但别看走眼了，那地方到处都是俄罗斯人。
+DictKey_subtitle_,542,DictKey_subtitle_542,"WINGMAN (ROCKMAN): Heads up, mud, SA-11, 9 o'clock.",僚机（ROCKMAN）：注意，地空雷达，SA-11，9点钟方向。
+DictKey_subtitle_,544,DictKey_subtitle_544,"PLAYER: They'll be doing that a lot, they will be shadowing and checking our every move, but probably nothing more though.",玩家：他们总这么干。他们会跟踪我们，监视我们的一举一动，但大概率不会有其他动作。
+DictKey_subtitle_,546,DictKey_subtitle_546,"WINGMAN (ROCKMAN): Holy shit, look at that dam! It's huge!",僚机（ROCKMAN）：卧槽！看那个水坝！这也太大了！
+DictKey_subtitle_,548,DictKey_subtitle_548,"PLAYER: Yeah, it's pretty impressive. It also marks the bad guys territory, most of the area up to the north is effectively under CLA control. Coming up to waypoint 3, I'll contact Overlord.",玩家：没错，确实很震撼。它的出现就意味着到敌占区了，北边的大部分区域实际上在CLA控制下。我们快到航路点3了，我准备联系Overlord。
+DictKey_subtitle_,552,DictKey_subtitle_552,,
+DictKey_subtitle_,575,DictKey_subtitle_575,"WINGMAN (ROCKMAN): One, two. Tally smoke, burning vehicles... got some movement, tangos with rifles.",僚机（ROCKMAN）：一号，二号呼叫。发现烟雾，和起火的车辆……发现一些活动迹象，一些持有步枪的敌步兵。
+DictKey_subtitle_,577,DictKey_subtitle_577,PLAYER: And Lead copies. This doesn't look good.,玩家：长机收到。情况不太妙。
+DictKey_subtitle_,582,DictKey_subtitle_582,"PLAYER: And Overlord, Overlord, Dodge 1-1. It looks like the outpost has been overran, there is numerous enemy forces active in the perimeter, requesting permission to engage.",玩家：Overlord，Overlord，这里是Dodge 1-1。哨所似乎已被攻陷，周围有大量敌军活动，请求开火许可。
+DictKey_subtitle_,584,DictKey_subtitle_584,"OVERLORD: Dodge 1-1, Overlord, send update on enemy presence.",Overlord：Dodge 1-1，这里是Overlord，向我汇报敌情。
+DictKey_subtitle_,586,DictKey_subtitle_586,"PLAYER: And Overlord, Dodge 1-1 copies. We're visual on four trucks, AAA and between 10 to 15 footmobiles with rifles. Looks like they are just pillaging the place.",玩家：Overlord，Dodge 1-1收到。我们目视发现四辆卡车、一具防空炮，还有10到15名持步枪的步兵。看起来他们正在洗劫这个地方。
+DictKey_subtitle_,588,DictKey_subtitle_588,"OVERLORD: Dodge 1-1, you are cleared hot.",Overlord：Dodge 1-1，允许攻击。
+DictKey_subtitle_,590,DictKey_subtitle_590,"PLAYER: Dodge 1-1, copies, cleared hot.",玩家：Dodge 1-1，收到，允许攻击。
+DictKey_subtitle_,592,DictKey_subtitle_592,"PLAYER: And Overlord, Dodge 1-1, off target, enemy forces are neutralised.",玩家：Overlord，这里是Dodge 1-1，攻击完成，敌军已被消灭。
+DictKey_subtitle_,594,DictKey_subtitle_594,"OVERLORD: Dodge 1-1, Overlord, roger. Georgians are dispatching their forces to the area, continue your patrol.",Overlord：Dodge 1-1，这里是Overlord，收到。格鲁吉亚正在派部队前往该地区，继续巡逻任务。
+DictKey_subtitle_,596,DictKey_subtitle_596,PLAYER: Dodge 1-1 copies.,玩家：Dodge 1-1收到。
+DictKey_subtitle_,607,DictKey_subtitle_607,"WINGMAN (ROCKMAN): Lead, two.",僚机（ROCKMAN）：长机，二号。
+DictKey_subtitle_,609,DictKey_subtitle_609,PLAYER: Go.,玩家：说。
+DictKey_subtitle_,611,DictKey_subtitle_611,WINGMAN (ROCKMAN): Those bastards seem to be pretty bold. Why don’t the Georgians use their Frogfoots more?,僚机（ROCKMAN）：那些混蛋看起来也太明目张胆了。格鲁吉亚人为什么不派出更多的蛙足？
+DictKey_subtitle_,613,DictKey_subtitle_613,"PLAYER: I'm not sure. They disbanded their air force as a separate branch in the military last year. And from what I’ve heard the skills of their pilots.. could be better, let‘s put it that way.",玩家：不太清楚。不过他们去年解散了作为独立军种的空军。据我所知，他们飞行员的技能……有很大提升空间，你懂我意思吧。
+DictKey_subtitle_,615,DictKey_subtitle_615,WINGMAN (ROCKMAN): How many Frogfoots do they have?,僚机（ROCKMAN）：他们有多少架蛙足？
+DictKey_subtitle_,617,DictKey_subtitle_617,"PLAYER: Hmmm, eleven? You’d think it would be more than enough for a bunch of terrorists...",玩家：嗯，大概十一架？按理说对付一群恐怖分子绰绰有余了……
+DictKey_subtitle_,619,DictKey_subtitle_619,WINGMAN (ROCKMAN): Yeah...,僚机（ROCKMAN）：是啊……
+DictKey_subtitle_,624,DictKey_subtitle_624,"OVERLORD: Dodge 1-1, Overlord, new tasking, standby.",Overlord：Dodge 1-1，这里是Overlord，有新任务，请待命。
+DictKey_subtitle_,627,DictKey_subtitle_627,"PLAYER: And Dodge 1-1, ready to copy.",玩家：Dodge 1-1，准备接收。
+DictKey_subtitle_,629,DictKey_subtitle_629,OVERLORD: Georgian command have lost contact with their Mi-8 helicopter on combat patrol north-east of D-Town. They are scrambling their Hinds but have asked for our assistance.,Overlord：格鲁吉亚指挥部与他们在D镇东北执行战斗巡逻任务的Mi-8直升机失联。他们正紧急出动雌鹿武装直升机，但请求我们协助。
+DictKey_subtitle_,632,DictKey_subtitle_632,"PLAYER: Dodge 1-1, roger, turning that way now. Do you have approximate coordinates?",玩家：Dodge 1-1，收到，正在转向。你有大致坐标吗？
+DictKey_subtitle_,634,DictKey_subtitle_634,OVERLORD: That’s a negative. Try to raise them on Guard on Alpha Mike or look for the wreckage. I will contact you with any updates.,Overlord：没有。尝试在AM频率上通过应急频道联系他们，或者寻找残骸。如有新消息，我会联系你。
+DictKey_subtitle_,636,DictKey_subtitle_636,"PLAYER: And Dodge 1-1 copies, we will find them.",玩家：Dodge 1-1收到，我们开始搜索。
+DictKey_subtitle_,648,DictKey_subtitle_648,"AXEMAN: To any allied flights on this frequency, this is Axeman. Do you read?",Axeman：呼叫在此频率上的任何友军飞机，这里是Axeman。听得到吗？
+DictKey_subtitle_,651,DictKey_subtitle_651,,
+DictKey_subtitle_,655,DictKey_subtitle_655,"PLAYER: Axeman, Axeman, Dodge 1-1, copy loud and clear. Can you push to a secure channel?",玩家：Axeman，Axeman，这里是Dodge 1-1，信号很好。可以切换到加密频道吗？
+DictKey_subtitle_,657,DictKey_subtitle_657,"AXEMAN: Dodge 01, thanks God! Negative, but it is no factor, we have imminent troops in contact, I repeat: imminent troops in contact, we require assistance!",Axeman：Dodge 01，谢天谢地！无法切换频道，但这不重要，我们的部队即将接敌，重复：即将接敌，我们需要支援！
+DictKey_subtitle_,659,DictKey_subtitle_659,"PLAYER: Copy that Axeman, standby.",玩家：收到，Axeman，请稍等。
+DictKey_subtitle_,663,DictKey_subtitle_663,"WINGMAN (ROCKMAN): Lead, two. Picking something on Guard.",僚机（ROCKMAN）：长机，二号呼叫。在应急频道上收到一些信息。
+DictKey_subtitle_,665,DictKey_subtitle_665,"PLAYER: Overlord, Overlord, Dodge 1-1.",玩家：Overlord，Overlord，这里是Dodge 1-1。
+DictKey_subtitle_,667,DictKey_subtitle_667,OVERLORD: Send it for Overlord.,Overlord：请讲。
+DictKey_subtitle_,669,DictKey_subtitle_669,"PLAYER: We've established contact with Axeman, he is unable to go secure, he reports that he is in imminent contact with hostiles, please advise.",玩家：我们已与Axeman取得联系，他无法切换到加密频道，他报告即将与敌人接触，请指示。
+DictKey_subtitle_,671,DictKey_subtitle_671,"OVERLORD: Dodge 1-1, Axeman is a callsign of Rangers Team that was onboard Uzi 1-1. Request their location and provide CAS until relieved by Pontiac 01, a pair of Georgian Hinds, how copy?",Overlord：Dodge 1-1，Axeman是Uzi 1-1上的游骑兵小队的呼号。要他们汇报位置，并给他们提供近距离空中支援（CAS），直到由Pontiac 01小队，两架格鲁吉亚的雌鹿武装直升机，来接替你们。收到后确认。
+DictKey_subtitle_,673,DictKey_subtitle_673,"PLAYER: Dodge 1-1 copies, cleared to provide CAS, contacting Axeman.",玩家：Dodge 1-1收到，获准提供近距离空中支援（CAS），正在联系Axeman。
+DictKey_subtitle_,677,DictKey_subtitle_677,"PLAYER: Axeman, Dodge 1-1, push 128.2, how copy?",玩家：Axeman，这里是Dodge 1-1，切换到128.2，是否收到？
+DictKey_subtitle_,679,DictKey_subtitle_679,"AXEMAN: Dodge 1-1, Axeman, roger.",Axeman：Dodge 1-1，这里是Axeman，收到。
+DictKey_subtitle_,696,DictKey_subtitle_696,"PLAYER: Axeman, Dodge 1-1, request your location in bullseye format.",玩家：Axeman，这里是Dodge 1-1，请以靶眼坐标报告你的位置。
+DictKey_subtitle_,699,DictKey_subtitle_699,AXEMAN: Roger. We are at bulls (inaudible).,Axeman：收到。我们在靶眼（听不清）。
+DictKey_subtitle_,701,DictKey_subtitle_701,"PLAYER: Axeman, Dodge 1-1, you were unreadable, repeat your last.",玩家：Axeman，这里是Dodge 1-1，你的信号不好，重复刚才的信息。
+DictKey_subtitle_,703,DictKey_subtitle_703,"AXEMAN: We are at bulls  017 for 13, say again: bulls 017 for 13.",Axeman：我们在靶眼017方向13海里，重复：靶眼017方向13海里。
+DictKey_subtitle_,705,DictKey_subtitle_705,"PLAYER: And 1-1 copies, bulls 017 for 13.",玩家：1-1收到，靶眼017方向13海里。
+DictKey_subtitle_,709,DictKey_subtitle_709,"PLAYER: Axeman, Dodge 1-1, what’s your situation?",玩家：Axeman，这里是Dodge 1-1，你们的情况如何？
+DictKey_subtitle_,712,DictKey_subtitle_712,"AXEMAN: Our helicopter has been shot down by a MANPAD. One pilot is dead, one critically wounded. We formed a perimeter around the crash site. Radios on the Hip are destroyed, I only have an unsecured portable one.",Axeman：我们的直升机被单兵防空导弹（MANPAD）击落。一名飞行员阵亡，一名重伤。我们在坠机地点周围建立了防御阵地。河马（Mi-8直升机）的电台损坏，我只有一个无加密功能的便携电台。
+DictKey_subtitle_,714,DictKey_subtitle_714,PLAYER: And 1-1 copies. Can you give me update on enemy forces?,玩家：1-1收到。能否提供敌情通报？
+DictKey_subtitle_,716,DictKey_subtitle_716,"AXEMAN: Contact is imminent, we are in the middle of red territory. The MANPAD that hit us is still here. We need immediate medevac for our pilot, I repeat, immediate medevac.",Axeman：我们很快就会接敌。我们位于敌占区中心。击中我们的便携式防空导弹（MANPAD）也在附近。我们需要立即进行医疗转移，重复，立即进行医疗转移。
+DictKey_subtitle_,718,DictKey_subtitle_718,"PLAYER: Axeman, Dodge 1-1 copies all. Georgians helicopters are being scrambled, we're enroute to your location and will provide overwatch until reinforcements arrive.",玩家：Axeman，Dodge 1-1收到。格鲁吉亚直升机正在紧急出动，我们正前往你们的位置，提供掩护，直到增援到达。
+DictKey_subtitle_,720,DictKey_subtitle_720,"AXEMAN: Roger, holding position.",Axeman：收到，我们会保持位置。
+DictKey_subtitle_,725,DictKey_subtitle_725,"PLAYER: Axeman, Dodge 1-1, can you put a smoke out on your position.",玩家：Axeman，这里是Dodge 1-1，你能在你的位置释放烟雾标记吗？
+DictKey_subtitle_,727,DictKey_subtitle_727,"AXEMAN: Dodge 1-1, Axeman, roger.",Axeman：Dodge 1-1，这里是Axeman，收到。
+DictKey_subtitle_,729,DictKey_subtitle_729,"PLAYER: Axeman, Dodge 1-1, we've got you visual on your position, do you have any idea where that MANPAD was?",玩家：Axeman，这里是Dodge 1-1，我们目视确认你们的位置，你知道那个便携式防空导弹（MANPAD）的位置吗？
+DictKey_subtitle_,731,DictKey_subtitle_731,"AXEMAN: Dodge 1-1, Axeman. Locate and destroy enemy MANPAD. I am a US-trained JTAC, ready to provide the 9-line.",Axeman：Dodge 1-1，这里是Axeman。请求定位并摧毁敌便携式防空导弹（MANPAD）。我曾在美国受训作为联合终端攻击控制员（JTAC），可以提供9线简报。
+DictKey_subtitle_,733,DictKey_subtitle_733,PLAYER: Dodge 1-1 copies.,玩家：Dodge 1-1收到。
+DictKey_subtitle_,735,DictKey_subtitle_735,"AXEMAN: Dodge 1-1, good job!",Axeman：Dodge 1-1，干得好！
+DictKey_subtitle_,788,DictKey_subtitle_788,"AXEMAN: Dodge 1-1, this is Axeman, we're taking heavy machine gun fire from the west, request assistance!",Axeman：Dodge 1-1，这里是Axeman，我们正遭受来自西边的重机枪火力压制，请求支援！
+DictKey_subtitle_,790,DictKey_subtitle_790,"PLAYER: Axeman, Dodge 1-1 copies, hold on tight.",玩家：Axeman，这里是Dodge 1-1，收到，坚持住。
+DictKey_subtitle_,792,DictKey_subtitle_792,"AXEMAN: Good hits, good hits! Thanks!",Axeman：命中，打得好！多谢了！
+DictKey_subtitle_,814,DictKey_subtitle_814,"AXEMAN: Dodge 1-1, Axeman, we're taking fire from the north, other side of the stream, enemy infantry, danger close!!!",Axeman：Dodge 1-1，这里是Axeman，我们正遭受来自北边溪流另一侧的射击，敌方步兵，危险距离！！！
+DictKey_subtitle_,816,DictKey_subtitle_816,"WINGMAN (ROCKMAN): Lead, two, heads up, tracers, Axeman is under attack!",僚机（ROCKMAN）：长机，二号呼叫，注意，曳光弹，Axeman正遭受攻击！
+DictKey_subtitle_,819,DictKey_subtitle_819,"PLAYER: Axeman, Dodge 1-1, visual.",玩家：Axeman，这里是Dodge 1-1，已经目视。
+DictKey_subtitle_,821,DictKey_subtitle_821,"AXEMAN: Haha, good hits, get that fuckers! Dodge 1-1, thank you, enemy forces destroyed!",Axeman：哈哈，打得好！干翻那些混蛋！Dodge 1-1，谢谢，敌军已被消灭！
+DictKey_subtitle_,823,DictKey_subtitle_823,WINGMAN (ROCKMAN): It must be quite an experience to be almost at the receiving end of the Avenger...,僚机（ROCKMAN）：差一点就被复仇者机炮打中，一定是种很特别的体验……
+DictKey_subtitle_,825,DictKey_subtitle_825,PLAYER: Yeah. They say it's the best sound you can hear if you're on our side. Has quite the opposite effect for the enemy...,玩家：是啊。如果你是我们自己人，那是你能听到的最好听的声音。对敌人来说就正好相反……
+DictKey_subtitle_,846,DictKey_subtitle_846,"AXEMAN: Dodge 1-1, Axeman, roger. What kind of vehicles?",Axeman：Dodge 1-1，这里是Axeman，收到。是什么类型的车辆？
+DictKey_subtitle_,856,DictKey_subtitle_856,"PLAYER: And Axeman, be advised, you have vehicles coming up on your position from the east.",玩家：Axeman，注意，有车辆正从东边接近你们的位置。
+DictKey_subtitle_,859,DictKey_subtitle_859,"PLAYER: Looks like an APC and two military trucks, no other markings.",玩家：看起来像是一辆装甲运兵车（APC）和两辆军用卡车，没有其他标记。
+DictKey_subtitle_,861,DictKey_subtitle_861,"AXEMAN: Dodge 1-1, wait one.",Axeman：Dodge 1-1，稍等。
+DictKey_subtitle_,863,DictKey_subtitle_863,"AXEMAN: Dodge 1-1, Axeman. We don't have any regular forces this far out. This must be one of our captured vehicles. You're cleared hot!",Axeman：Dodge 1-1，这里是Axeman。我们没有任何正规军被部署在这么远的地方。这一定是我们被俘的车辆。允许开火！
+DictKey_subtitle_,865,DictKey_subtitle_865,"PLAYER: Dodge 1-1 copies, cleared hot.",玩家：Dodge 1-1收到，允许开火。
+DictKey_subtitle_,867,DictKey_subtitle_867,"PLAYER: Axeman, Dodge 1-1, splash all three vehicles.",玩家：Axeman，这里是Dodge 1-1，三辆车辆全部摧毁。
+DictKey_subtitle_,869,DictKey_subtitle_869,"WINGMAN (ROCKMAN): Lead, two. Tally three vehicles east from Axeman’s posit.",僚机（ROCKMAN）：长机，二号呼叫。发现Axeman位置东边有三辆车。
+DictKey_subtitle_,875,DictKey_subtitle_875,"AXEMAN: Dodge 1-1, Axeman. Be advised, we've detected tangos west from our positions.. looks as if they had a military radio.",Axeman：Dodge 1-1，这里是Axeman。请注意，我们在我们位置的西边发现了敌人……看起来他们有一个军用电台。
+DictKey_subtitle_,878,DictKey_subtitle_878,"AXEMAN: Dodge 1-1, Axeman, heads up, tally vehicles coming from the east!",Axeman：Dodge 1-1，这里是Axeman，注意，发现从东边驶来的车辆！
+DictKey_subtitle_,880,DictKey_subtitle_880,WINGMAN (ROCKMAN): Why would terrorists use a military radio?,僚机（ROCKMAN）：恐怖分子为什么会有军用电台？
+DictKey_subtitle_,882,DictKey_subtitle_882,PLAYER: I don't know and I don't care. Let's take it out.,玩家：我不知道，也不在乎。我们去干掉他。
+DictKey_subtitle_,885,DictKey_subtitle_885,"PLAYER: Axeman, Dodge 1-1 copies.",玩家：Axeman，这里是Dodge 1-1，收到。
+DictKey_subtitle_,887,DictKey_subtitle_887,"AXEMAN: The vehicles have opened fire, enemy troops are advancing on our positions, we need assistance! You are cleared hot!",Axeman：那些车辆开火了，敌军正向我们推进，我们需要支援！可以开火！
+DictKey_subtitle_,889,DictKey_subtitle_889,"AXEMAN: Dodge 1-1, Axeman, troops in contact! We're taking fire from the south!",Axeman：Dodge 1-1，这里是Axeman，部队接敌！我们正遭受来自南边的攻击！
+DictKey_subtitle_,891,DictKey_subtitle_891,"PLAYER: And 1-1 copies, give me a nine-line.",玩家：1-1收到，给我一个9线简报。
+DictKey_subtitle_,893,DictKey_subtitle_893,"AXEMAN: Dodge 1-1, Axeman, good shooting, enemy neutralised!",Axeman：Dodge 1-1，这里是Axeman，攻击很精准，敌人已被消灭！
+DictKey_subtitle_,895,DictKey_subtitle_895,"AXEMAN: Dodge 1-1, Axeman, I'm losing people here!",Axeman：Dodge 1-1，这里是Axeman，我们出现伤亡了！
+DictKey_subtitle_,897,DictKey_subtitle_897,"AXEMAN: Dodge 1-1, Axeman, we can't take it much longer, need help!",Axeman：Dodge 1-1，这里是Axeman，我们撑不住了，需要支援！
+DictKey_subtitle_,899,DictKey_subtitle_899,"AXEMAN: Dodge 1-1, Axeman.. help! We...",Axeman：Dodge 1-1，这里是Axeman……救命！我们……
+DictKey_subtitle_,901,DictKey_subtitle_901,"PLAYER: Axeman, Dodge 1-1, come in!",玩家：Axeman，这里是Dodge 1-1，请回答！
+DictKey_subtitle_,903,DictKey_subtitle_903,"PLAYER: Axeman, Axeman, Dodge 1-1, come in!",玩家：Axeman，Axeman，这里是Dodge 1-1，请回答！
+DictKey_subtitle_,919,DictKey_subtitle_919,"AXEMAN: To any allied flights on this frequency, this is Axeman. Do you read?",Axeman：呼叫在此频率上的任何友军飞机，这里是Axeman。听得到吗？
+DictKey_subtitle_,921,DictKey_subtitle_921,"PLAYER: Axeman, Axeman, Dodge 1-1, copy loud and clear. Can you push to a secure channel?",玩家：Axeman，Axeman，这里是Dodge 1-1，信号很好。可以切换到加密频道吗？
+DictKey_subtitle_,923,DictKey_subtitle_923,"AXEMAN: Dodge 01, thanks God! Negative, but it is no factor, we have imminent troops in contact, I repeat: imminent troops in contact, we require assistance!",Axeman：Dodge 01，谢天谢地！无法切换频道，但这不重要，我们的部队即将接敌，重复：即将接敌，我们需要支援！
+DictKey_subtitle_,925,DictKey_subtitle_925,"PLAYER: Copy that Axeman, standby.",玩家：收到，Axeman，请稍等。
+DictKey_subtitle_,927,DictKey_subtitle_927,"PLAYER: Axeman, Dodge 1-1, push 128.2, how copy?",玩家：Axeman，这里是Dodge 1-1，切换到128.2，是否收到？
+DictKey_subtitle_,929,DictKey_subtitle_929,"AXEMAN: Dodge 1-1, Axeman, roger.",Axeman：Dodge 1-1，这里是Axeman，收到。
+DictKey_subtitle_,959,DictKey_subtitle_959,"AXEMAN: The vehicles have opened fire, we need assistance! You are cleared hot!",Axeman：那些车辆开火了，我们需要支援！你们可以开火！
+DictKey_subtitle_,961,DictKey_subtitle_961,"AXEMAN: The vehicles have opened fire, we need assistance!",Axeman：那些车辆开火了，我们需要支援！
+DictKey_subtitle_,997,DictKey_subtitle_997,"PONTIAC 1-1: Dodge 1-1, Pontiac 1-1, we're 5 mikes from your location.",Pontiac 1-1：Dodge 1-1，这里是Pontiac 1-1，我们距离你的位置还有5分钟。
+DictKey_subtitle_,999,DictKey_subtitle_999,"PLAYER: Pontiac 1-1, Dodge 1-1 copies, be advised, the LZ is hot, we are providing cover, request you get in, snatch them and get out as fast as you can.",玩家：Pontiac 1-1，这里是Dodge 1-1，收到。注意，着陆区（LZ）在交战，我们正在提供掩护，尽快进入、接走他们马上撤离，越快越好。
+DictKey_subtitle_,1001,DictKey_subtitle_1001,"PONTIAC 1-1: Dodge 1-1, Pontiac 1-1, roger that.",Pontiac 1-1：Dodge 1-1，这里是Pontiac 1-1，收到。
+DictKey_subtitle_,1003,DictKey_subtitle_1003,"PONTIAC 1-1: Dodge 1-1, Pontiac 1-1 is setting down near the crash site, Pontiac 1-2 and 1-3 will provide overwatch. We will take it from here, thanks for your help, you may depart.",Pontiac 1-1：Dodge 1-1，这里是Pontiac 1-1，正在坠机地点附近降落，Pontiac 1-2和1-3将提供掩护。我们接手了，多谢你的帮助，你可以撤出了。
+DictKey_subtitle_,1005,DictKey_subtitle_1005,"PLAYER: Dodge 1-1 copies, show us RTB at this time.",玩家：Dodge 1-1收到，准备返航。
+DictKey_subtitle_,1008,DictKey_subtitle_1008,"PLAYER: Dodge 1-1 copies, show us RTB at this time.",玩家：Dodge 1-1收到，准备返航。
+DictKey_subtitle_,1010,DictKey_subtitle_1010,"WINGMAN (ROCKMAN): That's what I call a Close Air Support, baby!",僚机（ROCKMAN）：这才叫近距离空中支援，伙计！
+DictKey_subtitle_,1012,DictKey_subtitle_1012,"PLAYER: Yes, that was good work out there. Let's hope they'll bring everybody back alive.",玩家：是啊，干得不错。希望他们能把所有人安全带回来。
+DictKey_subtitle_,1014,DictKey_subtitle_1014,WINGMAN (ROCKMAN): What about that Hip?,僚机（ROCKMAN）：那架河马（Mi-8直升机）怎么样了？
+DictKey_subtitle_,1016,DictKey_subtitle_1016,PLAYER: I doubt they will be able to repair it under fire.. but we'll see.,玩家：我很怀疑，他们一边交火，还能一边把直升机修好……不过也说不准。
+DictKey_subtitle_,1023,DictKey_subtitle_1023,"HUNTER: Dodge 1-1, this is Hunter. Welcome back!  On behalf of all the Georgian soldiers in here I want to thank you for saving the lives of those boys up there in the mountains. They wouldn't have survived without you.",Hunter：Dodge 1-1，这里是Hunter。欢迎回来！我代表这里所有的格鲁吉亚军人，感谢你们拯救了山上那些士兵的生命。没有你们，他们无法生还。
+DictKey_subtitle_,1025,DictKey_subtitle_1025,"HUNTER: Dodge 1-1, this is Hunter. I know you did your best to save the boys up there. We hope to be able to at least recover their bodies... thank you anyway. I know you tried.",Hunter：Dodge 1-1，这里是Hunter。我知道你们尽力去拯救山上的士兵了。我们希望至少能找回他们的遗体……无论如何，谢谢你们。我知道你们尽力了。
+DictKey_subtitle_,1071,DictKey_subtitle_1071,"AXEMAN: IP will be mine position. Offset 246, 1.1 mile, 1785, MANPAD, KN 6784 5798, no mark, 1700 north east, egress east.",Axeman：攻击起始点（IP）位于我所在的位置。方向246，1.1海里，1785，单兵防空导弹（MANPAD），KN 6784 5798，无标记，东北 1700，向东脱离。
+DictKey_subtitle_,1073,DictKey_subtitle_1073,"PLAYER: Dodge 1-1 copies, 1785, KN 6784 5798, 1700 meters north east, ready remarks.",玩家：Dodge 1-1收到，1785，KN 6784 5798，东北1700米，准备接收备注。
+DictKey_subtitle_,1075,DictKey_subtitle_1075,"AXEMAN: Request GBU, north to south run-in.",Axeman：请求使用GBU，从北向南攻击。
+DictKey_subtitle_,1077,DictKey_subtitle_1077,"PLAYER: And copy, GBU, north to south run-in.",玩家：收到，使用GBU，从北向南攻击。
+DictKey_subtitle_,1079,DictKey_subtitle_1079,"AXEMAN: Good readback, you are cleared hot.",Axeman：回读正确，允许开火。
+DictKey_subtitle_,1081,DictKey_subtitle_1081,PLAYER: Dodge 1-1 is in hot.,玩家：Dodge 1-1正在攻击。
+DictKey_subtitle_,1086,DictKey_subtitle_1086,"AXEMAN: Dodge 1-1, Axeman, the fire is coming from the west, you should clearly see the tracers.",Axeman：Dodge 1-1，这里是Axeman，遭受西边的火力打击，你应该能清楚看到曳光弹。
+DictKey_subtitle_,1088,DictKey_subtitle_1088,"PLAYER: Dodge 1-1 copies, visual on tracers, in hot.",玩家：Dodge 1-1收到，看到曳光弹，正在攻击。
+DictKey_subtitle_,1090,DictKey_subtitle_1090,"PLAYER: Axeman, Dodge 1-1, visual. Request nine line.",玩家：Axeman，这里是Dodge 1-1，目标已确认。请求9线简报。
+DictKey_subtitle_,1092,DictKey_subtitle_1092,"AXEMAN: Offset 036, 300 feet, 1850, infantry, KN 695 587, marked with WP, 100 south - west, egress west, troops in contact!",Axeman：方向036，300英尺，1850，步兵，KN 695 587，使用白色烟雾标记，西南 100米，向西脱离，部队正在接敌！
+DictKey_subtitle_,1094,DictKey_subtitle_1094,"PLAYER: Dodge 1-1 copies, 1850, KN 695 587, 100 meters south - west, ready for remarks.",玩家：Dodge 1-1收到，1850，KN 695 587，西南 100米，准备接收备注。
+DictKey_subtitle_,1096,DictKey_subtitle_1096,"AXEMAN: Request gun, east to west run-in, along the stream.",Axeman：请求使用机炮，从东向西沿溪流攻击。
+DictKey_subtitle_,1098,DictKey_subtitle_1098,"PLAYER: And 1-1 copies, gun run, east - west run-in.",玩家：1-1收到，使用机炮，从东向西攻击。
+DictKey_subtitle_,1100,DictKey_subtitle_1100,"AXEMAN: Good readback, you are cleared hot, danger close, initials GR.",Axeman：回读正确，允许开火，危险距离，授权缩写GR。
+DictKey_subtitle_,1102,DictKey_subtitle_1102,"PLAYER: Dodge 1-1 copies, danger close, commander's initials Golf Romeo, Dodge 1-1 is in hot!",玩家：Dodge 1-1收到，危险距离，指挥官首字母GR，Dodge 1-1正在攻击！
+DictKey_subtitle_,1104,DictKey_subtitle_1104,AXEMAN: Smoke is on deck!,Axeman：烟雾弹已投放！
+DictKey_subtitle_,1109,DictKey_subtitle_1109,"PLAYER: Axeman, Dodge 1-1, copy your last, request nine-line.",玩家：Axeman，这里是Dodge 1-1，收到，请求9线简报。
+DictKey_subtitle_,1111,DictKey_subtitle_1111,"AXEMAN: Offset 007, 900 feet, 1995, infantry, KN 695 589, on the roof of a building, no mark, 275 south, egress west.",Axeman：方向007，900英尺，1995，步兵，KN 695 589，在建筑物屋顶，无标记，南方275米，向西脱离。
+DictKey_subtitle_,1113,DictKey_subtitle_1113,"PLAYER: Dodge 1-1 copies, 1995, KN 695 589, 275 meters south, ready to copy remarks.",玩家：Dodge 1-1收到，1995，坐标KN 695 589，南方275米，准备接收备注。
+DictKey_subtitle_,1115,DictKey_subtitle_1115,"AXEMAN: East to west run-in, weapons your discretion,",Axeman：从东向西攻击，武器自行决定。
+DictKey_subtitle_,1117,DictKey_subtitle_1117,"PLAYER: And 1-1 copies, weapons our discretion, east - west run-in.",玩家：1-1收到，武器自行决定，从东向西攻击。
+DictKey_subtitle_,1119,DictKey_subtitle_1119,"AXEMAN: Good readback, you are cleared hot.",Axeman：回读正确，允许开火。
+DictKey_subtitle_,1121,DictKey_subtitle_1121,"AXEMAN: And Dodge 1-1, Axeman, good hits, good hits!",Axeman：Dodge 1-1，这里是Axeman，命中，打得好！
+DictKey_subtitle_,1127,DictKey_subtitle_1127,"AXEMAN: Offset 168, 490 feet, 1837, infantry, KN 695 585, marked with WP, 150 north, egress west, troops in contact!",Axeman：方向168，490英尺，1837，步兵，KN 695 585，白色烟雾标记，北方150米，向西脱离，部队正在接敌！
+DictKey_subtitle_,1129,DictKey_subtitle_1129,"PLAYER: And 1-1 copies, 1837, KN 695 585, 150 meters north, ready remarks.",玩家：1-1收到，1837，KN 695 585，北方150米，准备接收备注。
+DictKey_subtitle_,1131,DictKey_subtitle_1131,"AXEMAN: Request gun, east to west run-in, along the road, targets in the tree line south from the road!",Axeman：请求使用机炮，从东向西沿道路攻击，目标在道路南侧的林木线中！
+DictKey_subtitle_,1133,DictKey_subtitle_1133,"PLAYER: And copy, gun run, east - west run-in, enemies are south of the road.",玩家：收到，使用机炮，从东向西攻击，敌人在道路南侧。
+DictKey_subtitle_,1135,DictKey_subtitle_1135,"AXEMAN: Good readback, you are cleared hot, danger close, initials GR.",Axeman：回读正确，允许开火，危险距离，首字母GR。
+DictKey_subtitle_,1137,DictKey_subtitle_1137,"AXEMAN: Dodge 1-1, Axeman, mark is on deck!",Axeman：Dodge 1-1，这里是Axeman，标记已投放！
+DictKey_subtitle_,1187,DictKey_subtitle_1187,"AXEMAN: To any allied flights on this frequency, this is Axeman. Do you read?",Axeman：呼叫在此频率上的任何友军飞机，这里是Axeman。听得到吗？
+DictKey_subtitle_,1189,DictKey_subtitle_1189,"PLAYER: Axeman, Axeman, Dodge 1-1, copy loud and clear. Can you push to a secure channel?",玩家：Axeman，Axeman，这里是Dodge 1-1，信号很好。可以切换到加密频道吗？
+DictKey_subtitle_,1191,DictKey_subtitle_1191,"AXEMAN: Dodge 01, thanks God! Negative, but it is no factor, we have imminent troops in contact, I repeat: imminent troops in contact, we require assistance!",Axeman：Dodge 01，谢天谢地！无法切换频道，但这不重要，我们的部队即将接敌，重复：即将接敌，我们需要支援！
+DictKey_subtitle_,1193,DictKey_subtitle_1193,"PLAYER: Copy that Axeman, standby.",玩家：收到，Axeman，请稍等。
+DictKey_subtitle_,1195,DictKey_subtitle_1195,"PLAYER: Axeman, Dodge 1-1, push 34.3 FM, how copy?",玩家：Axeman，这里是Dodge 1-1，切换到34.3 FM，是否收到？
+DictKey_subtitle_,1197,DictKey_subtitle_1197,"AXEMAN: Dodge 1-1, Axeman, roger.",Axeman：Dodge 1-1，这里是Axeman，收到。
+DictKey_subtitle_,1220,DictKey_subtitle_1220,"PLAYER: Overlord, Dodge 1-1, checking waypoint 2 as fragged, we're turning northtowards D-Town. Any words?",玩家：Overlord，这里是Dodge 1-1，按计划到达航路点2，我们正向北转向D镇。有任何指示吗？
+DictKey_subtitle_,1222,DictKey_subtitle_1222,"OVERLORD: Dodge 1-1, Overlord. Negative, continue. Check in at waypoint 3.",Overlord：Dodge 1-1，这里是Overlord。没有指示，继续前进。在航路点3报告。
+DictKey_subtitle_,1224,DictKey_subtitle_1224,"PLAYER: Dodge 1-1 copies, check in at waypoint 3.",玩家：Dodge 1-1收到，在航路点3报告。
+DictKey_subtitle_,1226,DictKey_subtitle_1226,"PLAYER: Overlord, Dodge 1-1 checks, waypoint 3, as fragged, turning east. Any words?",玩家：Overlord，这里是Dodge 1-1，按计划检到达航路点3，转向东。有任何指示吗？
+DictKey_subtitle_,1228,DictKey_subtitle_1228,"OVERLORD: Dodge 1-1, Overlord. Affirm, standby words.",Overlord：Dodge 1-1，这里是Overlord。收到，请待命。
+DictKey_subtitle_,1230,DictKey_subtitle_1230,"PLAYER: Dodge 1-1, standing by.",玩家：Dodge 1-1，待命中。
+DictKey_subtitle_,1232,DictKey_subtitle_1232,"OVERLORD: Georgian command informed us that few minutes ago they lost contact with checkpoint Lima November 16. It is ahead of you, on your current flight plan. I want you to get a visual and check what happened. Standby for coordinates.",Overlord：格鲁吉亚指挥部通知我们，几分钟前他们与检查站LN 16失去了联系。它就在你们前方，在当前的飞行计划上。我希望你们目视侦察，看看发生了什么。请等待坐标。
+DictKey_subtitle_,1234,DictKey_subtitle_1234,"PLAYER: Dodge 1-1, copies, standing by for coordinates.",玩家：Dodge 1-1，收到，等待坐标。
+DictKey_subtitle_,1236,DictKey_subtitle_1236,OVERLORD: 38T LN 162 343.,Overlord：38T LN 162 343。
+DictKey_subtitle_,1238,DictKey_subtitle_1238,"PLAYER: Dodge 1-1 copies, LN 162 343. We're turning that way now.",玩家：Dodge 1-1收到，LN 162 343。我们现在转向那个方向。
+DictKey_subtitle_,1240,DictKey_subtitle_1240,"PLAYER: And Overlord, Overlord, Dodge 1-1. It looks like the outpost has been overrun, there is numerous enemy forces active in the perimeter, requesting permission to engage.",玩家：Overlord，Overlord，这里是Dodge 1-1。哨所似乎已被攻占，周围有大量敌军活动，请求允许交战。
+DictKey_subtitle_,1242,DictKey_subtitle_1242,"OVERLORD: Dodge 1-1, Overlord, send update on enemy presence.",Overlord：Dodge 1-1，这里是Overlord，向我汇报敌情。
+DictKey_subtitle_,1244,DictKey_subtitle_1244,"PLAYER: And Overlord, Dodge 1-1 copies. We're visual on four trucks, AAA and between 10 to 15 footmobiles with rifles. Looks like they are just pillaging the place.",玩家：Overlord，Dodge 1-1收到。我们目视发现四辆卡车、一具防空炮，还有10到15名持步枪的步兵。看起来他们正在洗劫这个地方。
+DictKey_subtitle_,1246,DictKey_subtitle_1246,"OVERLORD: Dodge 1-1, you are cleared hot.",Overlord：Dodge 1-1，允许攻击。
+DictKey_subtitle_,1248,DictKey_subtitle_1248,"PLAYER: Dodge 1-1, copies, cleared hot.",玩家：Dodge 1-1，收到，允许攻击。
+DictKey_subtitle_,1250,DictKey_subtitle_1250,"PLAYER: And Overlord, Dodge 1-1, off target, enemy forces are neutralised.",玩家：Overlord，这里是Dodge 1-1，完成攻击，敌军已被消灭。
+DictKey_subtitle_,1252,DictKey_subtitle_1252,"OVERLORD: Dodge 1-1, Overlord, roger. Georgians are dispatching their forces to the area, continue your patrol.",Overlord：Dodge 1-1，这里是Overlord，收到。格鲁吉亚方面正在派遣部队前往该地区，继续巡逻任务。
+DictKey_subtitle_,1254,DictKey_subtitle_1254,PLAYER: Dodge 1-1 copies.,玩家：Dodge 1-1收到。
+DictKey_subtitle_,1256,DictKey_subtitle_1256,"OVERLORD: Dodge 1-1, Overlord, new tasking, standby.",Overlord：Dodge 1-1，这里是Overlord，有新任务，请待命。
+DictKey_subtitle_,1258,DictKey_subtitle_1258,"PLAYER: And Dodge 1-1, ready to copy.",玩家：Dodge 1-1，收到。
+DictKey_subtitle_,1260,DictKey_subtitle_1260,OVERLORD: Georgian command have lost contact with their Mi-8 helicopter on combat patrol north-east of D-Town. They are scrambling their Hinds but have asked for our assistance.,Overlord：格鲁吉亚指挥部与他们在D镇东北执行战斗巡逻任务的Mi-8直升机失联。他们正紧急出动雌鹿武装直升机，但请求我们协助。
+DictKey_subtitle_,1262,DictKey_subtitle_1262,"PLAYER: Dodge 1-1, roger, turning that way now. Do you have approximate coordinates?",玩家：Dodge 1-1，收到，正在转向。你有大致坐标吗？
+DictKey_subtitle_,1264,DictKey_subtitle_1264,OVERLORD: That’s a negative. Try to raise them on Guard on Alpha Mike or look for the wreckage. I will contact you with any updates.,Overlord：没有。尝试在AM频率上通过应急频道联系他们，或者寻找残骸。如有新消息，我会联系你。
+DictKey_subtitle_,1266,DictKey_subtitle_1266,"PLAYER: And Dodge 1-1 copies, we will find them.",玩家：Dodge 1-1收到，我们开始搜索。
+DictKey_subtitle_,1268,DictKey_subtitle_1268,"PLAYER: Overlord, Overlord, Dodge 1-1.",玩家：Overlord，Overlord，这里是Dodge 1-1。
+DictKey_subtitle_,1270,DictKey_subtitle_1270,OVERLORD: Send it for Overlord.,Overlord：请讲。
+DictKey_subtitle_,1272,DictKey_subtitle_1272,"PLAYER: We've established contact with Axeman, he is unable to go secure, he reports that he is in imminent contact with hostiles, please advise.",玩家：我们已与Axeman取得联系，他无法切换到加密频道，他报告即将与敌人接触，请指示。
+DictKey_subtitle_,1274,DictKey_subtitle_1274,"OVERLORD: Dodge 1-1, Axeman is a callsign of Rangers Team that was onboard Uzi 1-1. Request their location and provide CAS until relieved by Pontiac 01, a pair of Georgian Hinds, how copy?",Overlord：Dodge 1-1，Axeman是Uzi 1-1上的游骑兵小队的呼号。要他们汇报位置，并给他们提供近距离空中支援（CAS），直到由Pontiac 01小队，两架格鲁吉亚的雌鹿武装直升机，来接替你们。收到后确认。
+DictKey_subtitle_,1276,DictKey_subtitle_1276,"PLAYER: Dodge 1-1 copies, cleared to provide CAS, contacting Axeman.",玩家：Dodge 1-1收到，允许提供近距离空中支援（CAS），正在联系Axeman。
+DictKey_subtitle_,1278,DictKey_subtitle_1278,,
+DictKey_subtitle_,1327,DictKey_subtitle_1327,"PONTIAC 1-1: Dodge 1-1, Pontiac 1-1, we're 5 mikes from your location.",Pontiac 1-1：Dodge 1-1，这里是Pontiac 1-1，我们距离你的位置还有5分钟。
+DictKey_subtitle_,1330,DictKey_subtitle_1330,"PLAYER: Pontiac 1-1, Dodge 1-1 copies, be advised, the LZ is hot, we are providing cover, request you get in, snatch them and get out as fast as you can.",玩家：Pontiac 1-1，这里是Dodge 1-1，收到。注意，着陆区（LZ）在交战，我们正在提供掩护，尽快进入、接走他们马上撤离，越快越好。
+DictKey_subtitle_,1332,DictKey_subtitle_1332,"PONTIAC 1-1: Dodge 1-1, Pontiac 1-1, roger that.",Pontiac 1-1：Dodge 1-1，这里是Pontiac 1-1，收到。
+DictKey_subtitle_,1334,DictKey_subtitle_1334,"PONTIAC 1-1: Dodge 1-1, Pontiac. Visual on Axeman. We're touching down.",Pontiac 1-1：Dodge 1-1，这里是Pontiac。目视Axeman。我们正在着陆。
+DictKey_subtitle_,1337,DictKey_subtitle_1337,PLAYER: And Dodge 1-1 copies.,玩家：Dodge 1-1收到。
+DictKey_subtitle_,1339,DictKey_subtitle_1339,"PONTIAC 1-1: Dodge 1-1, Pontiac 1-1 is setting down near the crash site, Pontiac 1-2 and 1-3 will provide overwatch. We will take it from here, thanks for your help, you may depart.",Pontiac 1-1：Dodge 1-1，这里是Pontiac 1-1，正在坠机地点附近降落，Pontiac 1-2和1-3将提供掩护。我们接手了，多谢你的帮助，你可以撤出了。
+DictKey_subtitle_,1341,DictKey_subtitle_1341,"PLAYER: Dodge 1-1 copies, show us RTB at this time.",玩家：Dodge 1-1收到，准备返航。
+DictKey_subtitle_,1343,DictKey_subtitle_1343,"PLAYER: Axeman, Dodge 1-1, request your location in bullseye format.",玩家：Axeman，这里是Dodge 1-1，请以靶眼坐标报告你的位置。
+DictKey_subtitle_,1347,DictKey_subtitle_1347,AXEMAN: Roger. We are at bulls (inaudible).,Axeman：收到。我们在靶眼（听不清）。
+DictKey_subtitle_,1349,DictKey_subtitle_1349,"PLAYER: Axeman, Dodge 1-1, you were unreadable, repeat your last.",玩家：Axeman，这里是Dodge 1-1，你的信号不好，重复刚才的信息。
+DictKey_subtitle_,1351,DictKey_subtitle_1351,"AXEMAN: We are at bulls  017 for 13, say again: bulls 017 for 13.",Axeman：我们在靶眼017方向13海里，重复：靶眼017方向13海里。
+DictKey_subtitle_,1353,DictKey_subtitle_1353,"PLAYER: And 1-1 copies, bulls 017 for 13.",玩家：1-1收到，靶眼017方向13海里。
+DictKey_subtitle_,1355,DictKey_subtitle_1355,"PLAYER: Axeman, Dodge 1-1, what’s your situation?",玩家：Axeman，这里是Dodge 1-1，你们的情况如何？
+DictKey_subtitle_,1357,DictKey_subtitle_1357,"AXEMAN: Our helicopter has been shot down by a MANPAD. One pilot is dead, one critically wounded. We formed a perimeter around the crash site. Radios on the Hip are destroyed, I only have an unsecured portable one.",Axeman：我们的直升机被单兵防空导弹（MANPAD）击落。一名飞行员阵亡，一名重伤。我们在坠机地点周围建立了防御阵地。河马（Mi-8直升机）的电台损坏，我只有一个无加密功能的便携电台。
+DictKey_subtitle_,1359,DictKey_subtitle_1359,PLAYER: And 1-1 copies. Can you give me update on enemy forces?,玩家：1-1收到。能否提供敌情通报？
+DictKey_subtitle_,1361,DictKey_subtitle_1361,"AXEMAN: Contact is imminent, we are in the middle of red territory. The MANPAD that hit us is still here. We need immediate medevac for our pilot, I repeat, immediate medevac.",Axeman：我们很快就会接敌。我们位于敌占区中心。击中我们的便携式防空导弹（MANPAD）也在附近。我们需要立即进行医疗转移，重复，立即进行医疗转移。
+DictKey_subtitle_,1363,DictKey_subtitle_1363,"PLAYER: Axeman, Dodge 1-1 copies all. Georgians helicopters are being scrambled, we're enroute to your location and will provide overwatch until reinforcements arrive.",玩家：Axeman，Dodge 1-1收到。格鲁吉亚直升机正在紧急出动，我们正前往你们的位置，提供掩护，直到增援到达。
+DictKey_subtitle_,1365,DictKey_subtitle_1365,"AXEMAN: Roger, holding position.",Axeman：收到，我们会保持位置。

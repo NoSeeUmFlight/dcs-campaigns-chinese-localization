@@ -1,0 +1,712 @@
+﻿Field Type,ID,Field Name,Original Text,Translated Text
+DictKey_ActionRadioText_,713,DictKey_ActionRadioText_713,Wing Close Formation,僚机紧密编队
+DictKey_ActionRadioText_,716,DictKey_ActionRadioText_716,Wing Open Formation,僚机疏散编队
+DictKey_ActionRadioText_,721,DictKey_ActionRadioText_721,Wing RTB,僚机返航（RTB）
+DictKey_ActionRadioText_,722,DictKey_ActionRadioText_722,Wing Hold Position,僚机保持位置
+DictKey_ActionRadioText_,725,DictKey_ActionRadioText_725,Wing Trail Formation,僚机纵队编队
+DictKey_ActionRadioText_,726,DictKey_ActionRadioText_726,Wing Attack Ground Units,僚机攻击地面单位
+DictKey_ActionRadioText_,742,DictKey_ActionRadioText_742,Wing Attack Air Defences,僚机攻击防空系统
+DictKey_ActionRadioText_,751,DictKey_ActionRadioText_751,Wing Attack Armour,僚机攻击装甲目标
+DictKey_ActionRadioText_,763,DictKey_ActionRadioText_763,TEST EVADE ON,测试规避开启
+DictKey_ActionRadioText_,874,DictKey_ActionRadioText_874,,
+DictKey_ActionRadioText_,875,DictKey_ActionRadioText_875,,
+DictKey_ActionRadioText_,876,DictKey_ActionRadioText_876,,
+DictKey_ActionRadioText_,877,DictKey_ActionRadioText_877,,
+DictKey_ActionRadioText_,878,DictKey_ActionRadioText_878,,
+DictKey_ActionRadioText_,879,DictKey_ActionRadioText_879,,
+DictKey_ActionRadioText_,880,DictKey_ActionRadioText_880,,
+DictKey_ActionRadioText_,881,DictKey_ActionRadioText_881,,
+DictKey_ActionRadioText_,882,DictKey_ActionRadioText_882,Wing Close Formation,僚机紧密编队
+DictKey_ActionRadioText_,883,DictKey_ActionRadioText_883,Wing Open Formation,僚机疏散编队
+DictKey_ActionRadioText_,884,DictKey_ActionRadioText_884,Wing Trail Formation,僚机纵队编队
+DictKey_ActionRadioText_,885,DictKey_ActionRadioText_885,Wing Hold Position,僚机保持位置
+DictKey_ActionRadioText_,886,DictKey_ActionRadioText_886,,
+DictKey_ActionRadioText_,887,DictKey_ActionRadioText_887,Wing RTB,僚机返航（RTB）
+DictKey_ActionRadioText_,888,DictKey_ActionRadioText_888,Wing Attack Ground Units,僚机攻击地面单位
+DictKey_ActionRadioText_,889,DictKey_ActionRadioText_889,Wing Attack Air Defences,僚机攻击防空系统
+DictKey_ActionRadioText_,890,DictKey_ActionRadioText_890,Wing Attack Armour,僚机攻击装甲目标
+DictKey_ActionRadioText_,957,DictKey_ActionRadioText_957,Request Startup,请求启动
+DictKey_ActionRadioText_,958,DictKey_ActionRadioText_958,,
+DictKey_ActionRadioText_,959,DictKey_ActionRadioText_959,Request Startup,请求启动
+DictKey_ActionRadioText_,979,DictKey_ActionRadioText_979,,
+DictKey_ActionRadioText_,980,DictKey_ActionRadioText_980,Request Taxi,请求滑行
+DictKey_ActionRadioText_,981,DictKey_ActionRadioText_981,Request Taxi,请求滑行
+DictKey_ActionRadioText_,982,DictKey_ActionRadioText_982,Request Takeoff,请求起飞
+DictKey_ActionRadioText_,986,DictKey_ActionRadioText_986,Request Takeoff,请求起飞
+DictKey_ActionRadioText_,993,DictKey_ActionRadioText_993,Request Startup,请求启动
+DictKey_ActionRadioText_,994,DictKey_ActionRadioText_994,Request Taxi,请求滑行
+DictKey_ActionRadioText_,995,DictKey_ActionRadioText_995,Request Takeoff,请求起飞
+DictKey_ActionRadioText_,1102,DictKey_ActionRadioText_1102,complete,完成
+DictKey_ActionRadioText_,1103,DictKey_ActionRadioText_1103,flag 141 on,标志141开启
+DictKey_ActionRadioText_,1104,DictKey_ActionRadioText_1104,flag 141 off,标志141关闭
+DictKey_ActionRadioText_,1110,DictKey_ActionRadioText_1110,Request Landing,请求着陆
+DictKey_ActionRadioText_,1111,DictKey_ActionRadioText_1111,,
+DictKey_ActionRadioText_,1112,DictKey_ActionRadioText_1112,Request Landing,请求着陆
+DictKey_ActionRadioText_,1114,DictKey_ActionRadioText_1114,Request Landing,请求着陆
+DictKey_ActionRadioText_,1115,DictKey_ActionRadioText_1115,Request Landing,请求着陆
+DictKey_ActionRadioText_,1566,DictKey_ActionRadioText_1566,Read you Loud and Clear,收到，信号清晰。
+DictKey_ActionRadioText_,1567,DictKey_ActionRadioText_1567,Read you Loud and Clear,收到，信号清晰。
+DictKey_ActionRadioText_,1568,DictKey_ActionRadioText_1568,,
+DictKey_ActionRadioText_,1571,DictKey_ActionRadioText_1571,Read you Loud and Clear,收到，信号清晰。
+DictKey_ActionRadioText_,1573,DictKey_ActionRadioText_1573,,
+DictKey_ActionRadioText_,1577,DictKey_ActionRadioText_1577,Ready to taxi,准备滑行
+DictKey_ActionRadioText_,1584,DictKey_ActionRadioText_1584,,
+DictKey_ActionRadioText_,1593,DictKey_ActionRadioText_1593,Ready to taxi,准备滑行
+DictKey_ActionRadioText_,1594,DictKey_ActionRadioText_1594,,
+DictKey_ActionRadioText_,1942,DictKey_ActionRadioText_1942,Contact Whiplash,联系Whiplash
+DictKey_ActionRadioText_,1943,DictKey_ActionRadioText_1943,,
+DictKey_ActionRadioText_,1944,DictKey_ActionRadioText_1944,Contact Whiplash,联系Whiplash
+DictKey_ActionRadioText_,1955,DictKey_ActionRadioText_1955,,
+DictKey_ActionRadioText_,2023,DictKey_ActionRadioText_2023,Attack Completed,攻击完成
+DictKey_ActionRadioText_,2028,DictKey_ActionRadioText_2028,Attack Completed,攻击完成
+DictKey_ActionRadioText_,2029,DictKey_ActionRadioText_2029,,
+DictKey_ActionRadioText_,2086,DictKey_ActionRadioText_2086,,
+DictKey_ActionRadioText_,2089,DictKey_ActionRadioText_2089,Contact Condor,联系Condor
+DictKey_ActionRadioText_,2095,DictKey_ActionRadioText_2095,Contact Condor,联系Condor
+DictKey_ActionRadioText_,2097,DictKey_ActionRadioText_2097,Contact Condor,联系Condor
+DictKey_ActionRadioText_,2099,DictKey_ActionRadioText_2099,Contact Condor,联系Condor
+DictKey_ActionRadioText_,2101,DictKey_ActionRadioText_2101,,
+DictKey_ActionRadioText_,2102,DictKey_ActionRadioText_2102,"No, I already have visual on the target.",不，我已经目视目标。
+DictKey_ActionRadioText_,2104,DictKey_ActionRadioText_2104,"Yes, I need a talk on to locate the target.",是的，我需要引导以定位目标。
+DictKey_ActionRadioText_,2108,DictKey_ActionRadioText_2108,,
+DictKey_ActionRadioText_,2110,DictKey_ActionRadioText_2110,,
+DictKey_ActionRadioText_,2113,DictKey_ActionRadioText_2113,"Yes, I need a talk on to locate the target.",是的，我需要引导以定位目标。
+DictKey_ActionRadioText_,2114,DictKey_ActionRadioText_2114,"No, I already have visual on the target.",不，我已经目视目标。
+DictKey_ActionRadioText_,2116,DictKey_ActionRadioText_2116,,
+DictKey_ActionRadioText_,2118,DictKey_ActionRadioText_2118,,
+DictKey_ActionRadioText_,2160,DictKey_ActionRadioText_2160,Contact Whiplash,联系Whiplash
+DictKey_ActionRadioText_,2162,DictKey_ActionRadioText_2162,,
+DictKey_ActionRadioText_,2163,DictKey_ActionRadioText_2163,Contact Whiplash,联系Whiplash
+DictKey_ActionRadioText_,2169,DictKey_ActionRadioText_2169,,
+DictKey_ActionRadioText_,2175,DictKey_ActionRadioText_2175,Contact Overlord,联系Overlord
+DictKey_ActionRadioText_,2177,DictKey_ActionRadioText_2177,,
+DictKey_ActionRadioText_,2179,DictKey_ActionRadioText_2179,Contact Overlord,联系Overlord
+DictKey_ActionRadioText_,2180,DictKey_ActionRadioText_2180,Contact Overlord,联系Overlord
+DictKey_ActionRadioText_,2308,DictKey_ActionRadioText_2308,,
+DictKey_ActionRadioText_,2309,DictKey_ActionRadioText_2309,,
+DictKey_ActionRadioText_,2310,DictKey_ActionRadioText_2310,,
+DictKey_ActionRadioText_,2311,DictKey_ActionRadioText_2311,,
+DictKey_ActionRadioText_,2312,DictKey_ActionRadioText_2312,,
+DictKey_ActionRadioText_,2313,DictKey_ActionRadioText_2313,,
+DictKey_ActionRadioText_,2314,DictKey_ActionRadioText_2314,,
+DictKey_ActionRadioText_,2315,DictKey_ActionRadioText_2315,,
+DictKey_ActionRadioText_,2348,DictKey_ActionRadioText_2348,Abort Attack,中止攻击
+DictKey_ActionRadioText_,2349,DictKey_ActionRadioText_2349,,
+DictKey_ActionRadioText_,2350,DictKey_ActionRadioText_2350,Abort Attack,中止攻击
+DictKey_ActionRadioText_,2351,DictKey_ActionRadioText_2351,,
+DictKey_ActionRadioText_,2380,DictKey_ActionRadioText_2380,Fuel levels look OK.,油量正常。
+DictKey_ActionRadioText_,2381,DictKey_ActionRadioText_2381,Fuel levels look a little low.,油量有点低。
+DictKey_ActionRadioText_,2384,DictKey_ActionRadioText_2384,,
+DictKey_ActionRadioText_,2385,DictKey_ActionRadioText_2385,,
+DictKey_ActionRadioText_,2386,DictKey_ActionRadioText_2386,Fuel levels look OK.,油量正常。
+DictKey_ActionRadioText_,2387,DictKey_ActionRadioText_2387,Fuel levels look a little low.,油量有点低。
+DictKey_ActionRadioText_,2389,DictKey_ActionRadioText_2389,,
+DictKey_ActionRadioText_,2390,DictKey_ActionRadioText_2390,,
+DictKey_ActionRadioText_,2392,DictKey_ActionRadioText_2392,Fuel levels look OK.,油量正常。
+DictKey_ActionRadioText_,2393,DictKey_ActionRadioText_2393,Fuel levels look a little low.,油量有点低。
+DictKey_ActionRadioText_,2405,DictKey_ActionRadioText_2405,Request Landing,请求着陆
+DictKey_ActionRadioText_,2406,DictKey_ActionRadioText_2406,Request Landing,请求着陆
+DictKey_ActionRadioText_,2407,DictKey_ActionRadioText_2407,Request Landing,请求着陆
+DictKey_ActionRadioText_,2408,DictKey_ActionRadioText_2408,Request Landing,请求着陆
+DictKey_ActionRadioText_,2493,DictKey_ActionRadioText_2493,Attack Completed,攻击完成
+DictKey_ActionRadioText_,2496,DictKey_ActionRadioText_2496,,
+DictKey_ActionRadioText_,2499,DictKey_ActionRadioText_2499,Attack Completed,攻击完成
+DictKey_ActionRadioText_,2500,DictKey_ActionRadioText_2500,Kill Tor,击毁Tor
+DictKey_ActionRadioText_,2501,DictKey_ActionRadioText_2501,Kill Mig1,击毁Mig1
+DictKey_ActionRadioText_,2502,DictKey_ActionRadioText_2502,Kill Mig2,击毁Mig2
+DictKey_ActionRadioText_,2503,DictKey_ActionRadioText_2503,test bomb,测试炸弹
+DictKey_ActionRadioText_,2637,DictKey_ActionRadioText_2637,Abort Attack,中止攻击
+DictKey_ActionRadioText_,2643,DictKey_ActionRadioText_2643,Contact Whiplash,联系Whiplash
+DictKey_ActionRadioText_,2679,DictKey_ActionRadioText_2679,Ask about threats in the AO,询问作战区域内的威胁情况
+DictKey_ActionRadioText_,2681,DictKey_ActionRadioText_2681,,
+DictKey_ActionRadioText_,2682,DictKey_ActionRadioText_2682,Ask about threats in the AO,询问作战区域内的威胁情况
+DictKey_ActionRadioText_,2683,DictKey_ActionRadioText_2683,Ask about threats in the AO,询问作战区域内的威胁情况
+DictKey_ActionRadioText_,2710,DictKey_ActionRadioText_2710,,
+DictKey_ActionRadioText_,2717,DictKey_ActionRadioText_2717,,
+DictKey_ActionRadioText_,2723,DictKey_ActionRadioText_2723,,
+DictKey_ActionRadioText_,2775,DictKey_ActionRadioText_2775,Read you Loud and Clear,收到，信号清晰。
+DictKey_ActionRadioText_,2797,DictKey_ActionRadioText_2797,Wing Close Formation,僚机紧密编队
+DictKey_ActionRadioText_,2798,DictKey_ActionRadioText_2798,Wing Open Formation,僚机疏散编队
+DictKey_ActionRadioText_,2799,DictKey_ActionRadioText_2799,Wing Trail Formation,僚机纵队编队
+DictKey_ActionRadioText_,2800,DictKey_ActionRadioText_2800,Wing Hold Position,僚机保持位置
+DictKey_ActionRadioText_,2801,DictKey_ActionRadioText_2801,Wing RTB,僚机返航（RTB）
+DictKey_ActionRadioText_,2802,DictKey_ActionRadioText_2802,Attack SA-15,攻击SA-15
+DictKey_ActionRadioText_,2803,DictKey_ActionRadioText_2803,Attack SA-15,攻击SA-15
+DictKey_ActionRadioText_,2804,DictKey_ActionRadioText_2804,Attack Mig-21's,攻击Mig-21
+DictKey_ActionRadioText_,2805,DictKey_ActionRadioText_2805,Attack Mig-21's,攻击Mig-21
+DictKey_ActionRadioText_,2806,DictKey_ActionRadioText_2806,Attack EWR,攻击EWR
+DictKey_ActionRadioText_,2807,DictKey_ActionRadioText_2807,Attack EWR,攻击EWR
+DictKey_ActionRadioText_,2808,DictKey_ActionRadioText_2808,,
+DictKey_ActionRadioText_,2809,DictKey_ActionRadioText_2809,,
+DictKey_ActionRadioText_,2810,DictKey_ActionRadioText_2810,,
+DictKey_ActionRadioText_,2811,DictKey_ActionRadioText_2811,Attack SA-15,攻击SA-15
+DictKey_ActionRadioText_,2812,DictKey_ActionRadioText_2812,Attack Mig-21's,攻击Mig-21
+DictKey_ActionRadioText_,2813,DictKey_ActionRadioText_2813,Attack EWR,攻击EWR
+DictKey_ActionRadioText_,2814,DictKey_ActionRadioText_2814,,
+DictKey_ActionRadioText_,2815,DictKey_ActionRadioText_2815,Attack EWR,攻击EWR
+DictKey_ActionRadioText_,2816,DictKey_ActionRadioText_2816,,
+DictKey_ActionRadioText_,2820,DictKey_ActionRadioText_2820,Attack SA-15,攻击SA-15
+DictKey_ActionRadioText_,2821,DictKey_ActionRadioText_2821,,
+DictKey_ActionRadioText_,2822,DictKey_ActionRadioText_2822,Request Landing,请求着陆
+DictKey_ActionRadioText_,2825,DictKey_ActionRadioText_2825,Request Landing,请求着陆
+DictKey_ActionText_,767,DictKey_ActionText_767,,
+DictKey_ActionText_,989,DictKey_ActionText_989,You failed to obey the ATC commands.  The mission is failed.  Please exit and try again.,你未能遵守空中交通管制的指令。任务失败。请退出并重试。
+DictKey_ActionText_,1061,DictKey_ActionText_1061,"Turn on the battery and APU and power up the radios asap.\
+\
+Make sure the UHF radio is set to 260 (channel 2).\
+\
+Do not start the engines without first obtaining clearance from the tower.\
+\
+\","打开电池和辅助动力装置（APU），并尽快启动无线电。  \
+\
+确保UHF无线电设置为260（频道2）。  \
+\
+在未获得塔台许可前，不要启动引擎。"
+DictKey_ActionText_,1098,DictKey_ActionText_1098,"All radio commands should be made via the F10 menu, including control of your wingman once airborne, ATC and AWACS.\
+\
+Failure to follow ATC proceedures will result in mission failure.\
+\
+Please make sure radios are tuned correctly throughout the mission.\
+\
+\
+\","所有无线电指令应通过F10菜单进行，包括在空中对僚机的控制、空中交通管制（ATC）和预警机（AWACS）。  \
+\
+未能遵循空中交通管制程序将导致任务失败。  \
+\
+请确保在整个任务中无线电设置正确。"
+DictKey_ActionText_,1105,DictKey_ActionText_1105,You acheived the mission objective but as you failed to follow the ATC procedures the overall mission is a fail.,你达成了任务目标，但由于未能遵循空中交通管制程序，整体任务失败。
+DictKey_ActionText_,1113,DictKey_ActionText_1113,You acheived the mission objective but as you failed to follow the ATC proceedures the overall mission is a fail.,你达成了任务目标，但由于未能遵循空中交通管制程序，整体任务失败。
+DictKey_ActionText_,1117,DictKey_ActionText_1117,"You have committed an unauthorised release of ordinance.  This reckless act  can endanger the lives of those on the ground, the mission is failed.  Please exit and try again.\",你进行了未经授权的武器释放。这一鲁莽行为可能危及地面人员的生命，任务失败。请退出并重试。
+DictKey_ActionText_,1569,DictKey_ActionText_1569,Reply to Gunman 1-1 using the F10 menu.,使用F10菜单回复Gunman 1-1。
+DictKey_ActionText_,1575,DictKey_ActionText_1575,"Contact Gunman 1-1 on the F10 menu when ready to begin taxi.\
+\",准备开始滑行时，通过F10菜单联系Gunman 1-1。
+DictKey_ActionText_,1613,DictKey_ActionText_1613,"You now have commands for your wingman available through the F10 menu.\
+\
+Order them into formation with your aircraft now.","现在可以通过F10菜单对你的僚机下达指令。\
+\
+立即命令他们与您的飞机编队。"
+DictKey_ActionText_,1615,DictKey_ActionText_1615,jkk,jkk
+DictKey_ActionText_,1626,DictKey_ActionText_1626,,
+DictKey_ActionText_,1627,DictKey_ActionText_1627,Press spacebar to confirm your flight is assembled and ready to proceed on mission.,按空格键确认你的编队已集结完毕并准备执行任务。
+DictKey_ActionText_,1628,DictKey_ActionText_1628,jkk,jkk
+DictKey_ActionText_,1629,DictKey_ActionText_1629,jkk,jkk
+DictKey_ActionText_,1630,DictKey_ActionText_1630,jkk,jkk
+DictKey_ActionText_,1631,DictKey_ActionText_1631,jkk,jkk
+DictKey_ActionText_,1633,DictKey_ActionText_1633,,
+DictKey_ActionText_,1634,DictKey_ActionText_1634,Press spacebar when your VHF AM radio is set to channel 2 (128.5).,当你的VHF AM无线电设置为频道2（128.5）时，按空格键。
+DictKey_ActionText_,1636,DictKey_ActionText_1636,jkk,jkk
+DictKey_ActionText_,1643,DictKey_ActionText_1643,jkk,jkk
+DictKey_ActionText_,1644,DictKey_ActionText_1644,jkk,jkk
+DictKey_ActionText_,1772,DictKey_ActionText_1772,TEST!!!!!!!!!!,测试！！！！！！
+DictKey_ActionText_,1901,DictKey_ActionText_1901,Make sure your UHF radio is still set to monitor Gunman 1-1.,确保你的UHF无线电仍然设置为监听Gunman 1-1。
+DictKey_ActionText_,1903,DictKey_ActionText_1903,,
+DictKey_ActionText_,1905,DictKey_ActionText_1905,"Proceed on flight plan. \
+\
+Contact Whiplash via the F10 menu as you approach WP 6.","按照飞行计划继续前进。\
+\
+接近航路点6时，通过F10菜单联系Whiplash。"
+DictKey_ActionText_,1912,DictKey_ActionText_1912,"Proceed on flight plan. \
+\
+Contact Whiplash via the F10 menu as you approach WP 6.","按照飞行计划继续前进。\
+\
+接近航路点6时，通过F10菜单联系Whiplash。"
+DictKey_ActionText_,1913,DictKey_ActionText_1913,"Proceed on flight plan. \
+\
+Contact Whiplash via the F10 menu as you approach WP 6.","按照飞行计划继续前进。\
+\
+接近航路点6时，通过F10菜单联系Whiplash。"
+DictKey_ActionText_,1914,DictKey_ActionText_1914,"Proceed on flight plan. \
+\
+Contact Whiplash via the F10 menu as you approach WP 6.","按照飞行计划继续前进。\
+\
+接近航路点6时，通过F10菜单联系Whiplash。"
+DictKey_ActionText_,1939,DictKey_ActionText_1939,"Proceed on flight plan. \
+\
+Contact Whiplash via the F10 menu as you approach WP 6.","按照飞行计划继续前进。\
+\
+接近航路点6时，通过F10菜单联系Whiplash。"
+DictKey_ActionText_,1940,DictKey_ActionText_1940,"Proceed on flight plan. \
+\
+Contact Whiplash via the F10 menu as you approach WP 6.","按照飞行计划继续前进。\
+\
+接近航路点6时，通过F10菜单联系Whiplash。"
+DictKey_ActionText_,1941,DictKey_ActionText_1941,"Proceed on flight plan. \
+\
+Contact Whiplash via the F10 menu as you approach WP 6.","按照飞行计划继续前进。\
+\
+接近航路点6时，通过F10菜单联系Whiplash。"
+DictKey_ActionText_,1956,DictKey_ActionText_1956,"Proceed with your attack.\
+\
+Once complete contact Whiplash.","进行攻击。\
+\
+完成后联系Whiplash。"
+DictKey_ActionText_,2030,DictKey_ActionText_2030,,
+DictKey_ActionText_,2031,DictKey_ActionText_2031,,
+DictKey_ActionText_,2042,DictKey_ActionText_2042,"One of the SA-15s is still alive.\
+\
+Finish the Job!","其中一部SA-15仍然存活。\
+\
+继续完成你的任务！"
+DictKey_ActionText_,2044,DictKey_ActionText_2044,"The SA-15 is not destroyed.\
+\
+Finish the Job!","SA-15尚未被摧毁。\
+\
+继续完成你的任务！"
+DictKey_ActionText_,2047,DictKey_ActionText_2047,"You have not destroyed both Mig-21s.\
+\
+Finish the Job!","你尚未摧毁两架Mig-21。\
+\
+继续完成你的任务！"
+DictKey_ActionText_,2051,DictKey_ActionText_2051,"Both the SA-15s are still alive.\
+\
+Finish the Job!","两部SA-15仍然存活。\
+\
+继续完成你的任务！"
+DictKey_ActionText_,2084,DictKey_ActionText_2084,Contact Condor on VHF FM 30.7 (channel 5).,通过VHF FM 30.7（频道5）联系Condor。
+DictKey_ActionText_,2087,DictKey_ActionText_2087,,
+DictKey_ActionText_,2105,DictKey_ActionText_2105,Choose your response to Condor through the F10 menu.,通过F10菜单选择你对Condor的回复。
+DictKey_ActionText_,2111,DictKey_ActionText_2111,,
+DictKey_ActionText_,2125,DictKey_ActionText_2125,Press spacebar when you have located the eastern end of the runway.,当你找到跑道东端时，按空格键。
+DictKey_ActionText_,2127,DictKey_ActionText_2127,,
+DictKey_ActionText_,2145,DictKey_ActionText_2145,Press spacebar when you have located the target.,当你找到目标时，按空格键。
+DictKey_ActionText_,2147,DictKey_ActionText_2147,,
+DictKey_ActionText_,2156,DictKey_ActionText_2156,Switch the VHF FM radio back to Whiplash and contact via the F10 menu.,将VHF FM无线电切换回Whiplash，并通过F10菜单联系。
+DictKey_ActionText_,2158,DictKey_ActionText_2158,Switch the VHF FM radio back to Whiplash and contact via the F10 menu.,将VHF FM无线电切换回Whiplash，并通过F10菜单联系。
+DictKey_ActionText_,2161,DictKey_ActionText_2161,Switch the VHF FM radio back to Whiplash and contact via the F10 menu.,将VHF FM无线电切换回Whiplash，并通过F10菜单联系。
+DictKey_ActionText_,2168,DictKey_ActionText_2168,,
+DictKey_ActionText_,2170,DictKey_ActionText_2170,Make sure you are on the frequency for Overlord and contact via the F10 menu.,确保你在Overlord的频率上，并通过F10菜单联系。
+DictKey_ActionText_,2172,DictKey_ActionText_2172,,
+DictKey_ActionText_,2174,DictKey_ActionText_2174,Switch the VHF FM radio back to Whiplash and contact via the F10 menu.,将VHF FM无线电切换回Whiplash，并通过F10菜单联系。
+DictKey_ActionText_,2176,DictKey_ActionText_2176,Switch the VHF FM radio back to Whiplash and contact via the F10 menu.,将VHF FM无线电切换回Whiplash，并通过F10菜单联系。
+DictKey_ActionText_,2178,DictKey_ActionText_2178,Switch the VHF FM radio back to Whiplash and contact via the F10 menu.,将VHF FM无线电切换回Whiplash，并通过F10菜单联系。
+DictKey_ActionText_,2316,DictKey_ActionText_2316,"You now have commands for your wingman available through the F10 menu.\
+\
+Order them into formation with your aircraft now (make sure the radio is set correctly).","现在可以通过F10菜单对你的僚机下达指令。\
+\
+命令其与你编队（确保无线电设置正确）。"
+DictKey_ActionText_,2344,DictKey_ActionText_2344,"Engage and destroy the EWR site on the island.\
+\
+If for any reason you are unable to achieve this then contact Condor 3 and abort the strike via the F10 menu.","攻击并摧毁岛上的EWR站点。\
+\
+如果因任何原因无法完成任务，请通过F10菜单联系Condor 3并中止打击。"
+DictKey_ActionText_,2346,DictKey_ActionText_2346,,
+DictKey_ActionText_,2374,DictKey_ActionText_2374,Make sure you are tuned to the radio frequency for Gunman 1-1.,确保你调整到Gunman 1-1的无线电频率。
+DictKey_ActionText_,2376,DictKey_ActionText_2376,,
+DictKey_ActionText_,2378,DictKey_ActionText_2378,"Check your fuel status and decide if you have enough for your flight back to Al Dhafra\
+\
+Respond via the F10 menu.","检查你的燃油状态，并决定是否有足够的燃油飞回迪哈夫拉。\
+\
+通过F10菜单进行回复。"
+DictKey_ActionText_,2382,DictKey_ActionText_2382,"Check your fuel status and decide if you have enough for your flight back to Al Dhafra\
+\
+Respond via the F10 menu.","检查你的燃油状态，并决定是否有足够的燃油飞回迪哈夫拉。\
+\
+通过F10菜单进行回复。"
+DictKey_ActionText_,2388,DictKey_ActionText_2388,"Check your fuel status and decide if you have enough for your flight back to Al Dhafra\
+\
+Respond via the F10 menu.","检查你的燃油状态，并决定是否有足够的燃油飞回迪哈夫拉。\
+\
+通过F10菜单进行回复。"
+DictKey_ActionText_,2391,DictKey_ActionText_2391,"Check your fuel status and decide if you have enough for your flight back to Al Dhafra\
+\
+Respond via the F10 menu.","检查你的燃油状态，并决定是否有足够的燃油飞回迪哈夫拉。\
+\
+通过F10菜单进行回复。"
+DictKey_ActionText_,2394,DictKey_ActionText_2394,"Check your fuel status and decide if you have enough for your flight back to Al Dhafra\
+\
+Respond via the F10 menu.","检查你的燃油状态，并决定是否有足够的燃油飞回迪哈夫拉。\
+\
+通过F10菜单进行回复。"
+DictKey_ActionText_,2395,DictKey_ActionText_2395,"Check your fuel status and decide if you have enough for your flight back to Al Dhafra\
+\
+Respond via the F10 menu.","检查你的燃油状态，并决定是否有足够的燃油飞回迪哈夫拉。\
+\
+通过F10菜单进行回复。"
+DictKey_ActionText_,2396,DictKey_ActionText_2396,,
+DictKey_ActionText_,2397,DictKey_ActionText_2397,"Return to Al Dhafra and land.\
+\
+Do not forget to obtain permission to land first through Al Dhafra tower.","返回迪哈夫拉并降落。\
+\
+不要忘记先通过迪哈夫拉塔台获得降落许可。"
+DictKey_ActionText_,2398,DictKey_ActionText_2398,"Divert to Al Minhad AB and land.\
+\
+You must contact Al Minhad tower to gain permission to land first.","改航至艾尔明翰空军基地并降落。\
+\
+你必须先联系艾尔明翰塔台以获得降落许可。"
+DictKey_ActionText_,2413,DictKey_ActionText_2413,,
+DictKey_ActionText_,2414,DictKey_ActionText_2414,,
+DictKey_ActionText_,2416,DictKey_ActionText_2416,,
+DictKey_ActionText_,2417,DictKey_ActionText_2417,,
+DictKey_ActionText_,2419,DictKey_ActionText_2419,"170 off\
+\
+171 on","170关闭\
+\
+171开启"
+DictKey_ActionText_,2420,DictKey_ActionText_2420,"171 off\
+\
+1710 on\
+\
+second message","171关闭\
+\
+1710开启\
+\
+第二条消息"
+DictKey_ActionText_,2422,DictKey_ActionText_2422,message 1,消息1
+DictKey_ActionText_,2423,DictKey_ActionText_2423,170 on,170开启
+DictKey_ActionText_,2494,DictKey_ActionText_2494,,
+DictKey_ActionText_,2497,DictKey_ActionText_2497,"Procced with your attack.\
+\
+Once complete contact Whiplash.\
+\
+Remember to jettison your external fuel tank before approaching the target.","进行攻击。\
+\
+完成后联系Whiplash。\
+\
+记得在接近目标前抛弃外部油箱。"
+DictKey_ActionText_,2558,DictKey_ActionText_2558,add Orlando start sweep!,添加Orlando开始清扫！
+DictKey_ActionText_,2559,DictKey_ActionText_2559,add seattle start swwep,添加Seattle开始清扫！
+DictKey_ActionText_,2560,DictKey_ActionText_2560,add seattle start swwep,添加Seattle开始清扫！
+DictKey_ActionText_,2569,DictKey_ActionText_2569,add seattle start swwep,添加Seattle开始清扫！
+DictKey_ActionText_,2570,DictKey_ActionText_2570,add seattle start swwep,添加Seattle开始清扫！
+DictKey_ActionText_,2571,DictKey_ActionText_2571,add seattle start swwep,添加Seattle开始清扫！
+DictKey_ActionText_,2572,DictKey_ActionText_2572,add seattle start swwep,添加Seattle开始清扫！
+DictKey_ActionText_,2573,DictKey_ActionText_2573,add seattle start swwep,添加Seattle开始清扫！
+DictKey_ActionText_,2574,DictKey_ActionText_2574,add seattle start swwep,添加Seattle开始清扫！
+DictKey_ActionText_,2575,DictKey_ActionText_2575,Add overlord part 1,添加Overlord第一部分。
+DictKey_ActionText_,2576,DictKey_ActionText_2576,add overlord part 2,添加Overlord第二部分。
+DictKey_ActionText_,2581,DictKey_ActionText_2581,Make sure you are monitoring Gunman 1-1's radio frequency.,确保你正在监听Gunman 1-1的无线电频率。
+DictKey_ActionText_,2583,DictKey_ActionText_2583,Make sure you are monitoring Overlord's radio frequency.,确保你正在监听Overlord的无线电频率。
+DictKey_ActionText_,2593,DictKey_ActionText_2593,Make sure you are monitoring Overlord's radio frequency.,确保你正在监听Overlord的无线电频率。
+DictKey_ActionText_,2594,DictKey_ActionText_2594,Make sure you are monitoring Overlord's radio frequency.,确保你正在监听Overlord的无线电频率。
+DictKey_ActionText_,2595,DictKey_ActionText_2595,,
+DictKey_ActionText_,2596,DictKey_ActionText_2596,Switch your VHF AM radio to Darkstar on 141.8 (channel 3).,将你的VHF AM无线电切换到Darkstar，频率141.8（频道3）。
+DictKey_ActionText_,2598,DictKey_ActionText_2598,Switch your VHF AM radio to Darkstar on 141.8 (channel 3).,将你的VHF AM无线电切换到Darkstar，频率141.8（频道3）。
+DictKey_ActionText_,2600,DictKey_ActionText_2600,,
+DictKey_ActionText_,2638,DictKey_ActionText_2638,"Mission Completed.\
+\
+Exit when ready.","任务完成。\
+\
+准备好后退出。"
+DictKey_ActionText_,2641,DictKey_ActionText_2641,Take position at the rear of the A-10 taxi formation (you will be the 8th in line).,在A-10滑行编队的后方就位（你将排在第8位）。
+DictKey_ActionText_,2645,DictKey_ActionText_2645,Don't forget to contact Whiplash before entering the target area.,进入目标区域前，不要忘记联系Whiplash。
+DictKey_ActionText_,2666,DictKey_ActionText_2666,jkk,jkk
+DictKey_ActionText_,2667,DictKey_ActionText_2667,jkk,jkk
+DictKey_ActionText_,2668,DictKey_ActionText_2668,jkk,jkk
+DictKey_ActionText_,2669,DictKey_ActionText_2669,jkk,jkk
+DictKey_ActionText_,2670,DictKey_ActionText_2670,jkk,jkk
+DictKey_ActionText_,2671,DictKey_ActionText_2671,jkk,jkk
+DictKey_ActionText_,2672,DictKey_ActionText_2672,jkk,jkk
+DictKey_ActionText_,2673,DictKey_ActionText_2673,jkk,jkk
+DictKey_ActionText_,2674,DictKey_ActionText_2674,jkk,jkk
+DictKey_ActionText_,2675,DictKey_ActionText_2675,,
+DictKey_ActionText_,2676,DictKey_ActionText_2676,jkk,jkk
+DictKey_ActionText_,2677,DictKey_ActionText_2677,"You have a new conversation option available.\
+\
+Access through the F10 menu if you wish.\
+\
+Make sure your UHF radio is set to hear your flight.","你有一个新的对话选项可用。\
+\
+如果需要，通过F10菜单访问。\
+\
+确保你的UHF无线电设置为可以听到你的编队。"
+DictKey_ActionText_,2680,DictKey_ActionText_2680,jkk,jkk
+DictKey_ActionText_,2709,DictKey_ActionText_2709,,
+DictKey_ActionText_,2715,DictKey_ActionText_2715,,
+DictKey_ActionText_,2721,DictKey_ActionText_2721,,
+DictKey_ActionText_,2776,DictKey_ActionText_2776,Make sure the UHF radio is set to 260 (channel 2).\,确保UHF无线电设置为260（频道2）。
+DictKey_ActionText_,2783,DictKey_ActionText_2783,,
+DictKey_ActionText_,2784,DictKey_ActionText_2784,,
+DictKey_ActionText_,2785,DictKey_ActionText_2785,,
+DictKey_ActionText_,2786,DictKey_ActionText_2786,,
+DictKey_ActionText_,2795,DictKey_ActionText_2795,,
+DictKey_ActionText_,2823,DictKey_ActionText_2823,"Contact the tower to request landing, make sure the VHF AM radio is set to the correct frequency.",联系塔台请求降落，确保VHF AM无线电设置为正确的频率。
+DictKey_ActionText_,2826,DictKey_ActionText_2826,"Contact the tower to request landing, make sure the VHF AM radio is set to the correct frequency.",联系塔台请求降落，确保VHF AM无线电设置为正确的频率。
+DictKey_descriptionBlueTask_,3,DictKey_descriptionBlueTask_3,"Lt. Hill is tasked with leading a two ship to the island of Abu Musa and neutralising the recently deployed mobile SA-15 and a pair of currently grounded Mig-21 interceptors.\
+\
+*** You will be taking off as a large formation of aircraft, you will be the eighth A-10 in line for taxi. ***\","希尔中尉（玩家）的任务是率领两架飞机前往阿布穆萨岛，摧毁近期部署的机动SA-15和两架仍停在地面的Mig-21截击机。\
+\
+*** 打击编组将作为一个大型编队起飞，你将是滑行队列中的第8架A10。 ***"
+DictKey_descriptionNeutralsTask_,4,DictKey_descriptionNeutralsTask_4,,
+DictKey_descriptionRedTask_,2,DictKey_descriptionRedTask_2,,
+DictKey_descriptionText_,1,DictKey_descriptionText_1,"Operation Persian Freedom commences and the air war starts as waves of coalition aircraft head for Iran to establish air superiority.\
+\
+As part of the opening salvo the pilots of the 74th FS receive their first assignment, the neutralisation of new threats on the islands of Sirri and Abu Musa.\","“波斯自由行动”开始了。随着许多波次的联军飞机，前往伊朗并建立空中优势，空战正式打响。\
+\
+作为首轮打击的一部分，第74战斗机中队的第一个任务，是消除西里岛和阿布穆萨岛上的新威胁。"
+DictKey_sortie_,5,DictKey_sortie_5,The Beginning,开始
+DictKey_subtitle_,768,DictKey_subtitle_768,Wing attack armoured targets.,僚机攻击装甲目标。
+DictKey_subtitle_,789,DictKey_subtitle_789,Copy.,明白。
+DictKey_subtitle_,817,DictKey_subtitle_817,PLAYER:  Wing close formation.,玩家：僚机紧密编队。
+DictKey_subtitle_,819,DictKey_subtitle_819,PLAYER:  Wing open formation.,玩家：僚机疏散编队。
+DictKey_subtitle_,821,DictKey_subtitle_821,PLAYER:  Wing trail formation,玩家：僚机纵队编队。
+DictKey_subtitle_,828,DictKey_subtitle_828,"WINGMAN:  Copy, going close.",僚机：明白，正在接近。
+DictKey_subtitle_,830,DictKey_subtitle_830,"WINGMAN:  Copy, open formation.",僚机：明白，疏散编队。
+DictKey_subtitle_,832,DictKey_subtitle_832,WINGMAN:  Copy trail.,僚机：明白，纵队。
+DictKey_subtitle_,834,DictKey_subtitle_834,Wing return to base.,僚机返航。
+DictKey_subtitle_,836,DictKey_subtitle_836,"Wing, wait at holding point.",僚机，在等待点待命。
+DictKey_subtitle_,838,DictKey_subtitle_838,"WINGMAN:  Copy, I am RTB.",僚机：明白，我正在返航。
+DictKey_subtitle_,840,DictKey_subtitle_840,"WINGMAN:  Copy, holding position.",僚机：明白，保持位置。
+DictKey_subtitle_,845,DictKey_subtitle_845,"PLAYER:  Wing, wait at hold position.",玩家：僚机，在等待位置待命。
+DictKey_subtitle_,847,DictKey_subtitle_847,"PLAYER:  Wing, return to base.",玩家：僚机，返航。
+DictKey_subtitle_,850,DictKey_subtitle_850,"PLAYER:  Wing, engage the SA-15.",玩家：僚机，攻击SA-15。
+DictKey_subtitle_,852,DictKey_subtitle_852,"PLAYER:  Wing, engage that early warning radar.",玩家：僚机，攻击早期预警雷达（EWR）。
+DictKey_subtitle_,854,DictKey_subtitle_854,"PLAYER:  Wing, I want you to attack those Mig-21's.",玩家：僚机，我要你攻击那些Mig-21。
+DictKey_subtitle_,858,DictKey_subtitle_858,"WINGMAN:  Copy, moving to attack.",僚机：明白，正在前往攻击。
+DictKey_subtitle_,891,DictKey_subtitle_891,"WINGMAN:  SAM launch, SAM launch, defend, defend.",僚机：导弹发射，导弹发射，规避，规避。
+DictKey_subtitle_,893,DictKey_subtitle_893,"WINGMAN:  Second SAM in the air, second SAM.",僚机：第二枚导弹，第二枚导弹。
+DictKey_subtitle_,899,DictKey_subtitle_899,"WINGMAN:  Another SAM, another SAM!",僚机：又一枚导弹，又一枚导弹！
+DictKey_subtitle_,904,DictKey_subtitle_904,"WINGMAN:  Break lead, break! SAM launch, SAM launch!",僚机：长机，规避，规避！导弹发射，导弹发射！
+DictKey_subtitle_,914,DictKey_subtitle_914,"WINGMAN:  Second SAM in the air, keep defending!",僚机：第二枚导弹发射，保持规避！
+DictKey_subtitle_,960,DictKey_subtitle_960,"PLAYER:  Tower, Gunman 2-1 requesting startup.\
+\",玩家：塔台，Gunman 2-1请求启动。
+DictKey_subtitle_,962,DictKey_subtitle_962,"AL DHAFRA TOWER:  Gunman 2-1, you are cleared to start engines.\",迪哈夫拉塔台：Gunman 2-1，允许启动发动机。
+DictKey_subtitle_,964,DictKey_subtitle_964,"PLAYER:  Tower, Gunman 2-1 ready to taxi.\",玩家：塔台，Gunman 2-1准备滑行。
+DictKey_subtitle_,966,DictKey_subtitle_966,"AL DHAFRA TOWER:  Gunman 2-1, permission to taxi, right turn onto taxiway alpha then left turn onto echo, hold short runway 13 left.\
+\",迪哈夫拉塔台：Gunman 2-1，允许滑行，右转进入滑行道A，然后左转进入E，停在13左跑道前。
+DictKey_subtitle_,968,DictKey_subtitle_968,"PLAYER:  Copy tower, right onto alpha, left echo, hold 13L.\
+\",玩家：明白塔台，右转进入A，左转进入E，停在13左跑道前。
+DictKey_subtitle_,970,DictKey_subtitle_970,"PLAYER:  Tower, Gunman 2-1 requesting takeoff.\
+\
+\",玩家：塔台，Gunman 2-1请求起飞。
+DictKey_subtitle_,972,DictKey_subtitle_972,"AL DHAFRA TOWER:  Gunman 2-1, you are cleared for immediate takeoff, Al Dhafra tower out.\",迪哈夫拉塔台：Gunman 2-1，允许立即起飞，迪哈夫拉塔台完毕。
+DictKey_subtitle_,987,DictKey_subtitle_987,"AL DHAFRA TOWER:  Gunman 2-1, you are in violation of ATC procedures, you are ordered to land immediately.",迪哈夫拉塔台：Gunman 2-1，你违反了空中交通管制程序，命令你立即降落。
+DictKey_subtitle_,1106,DictKey_subtitle_1106,"PLAYER:  Tower, Gunman 2-1 requesting permission to land.\
+\
+\",玩家：塔台，Gunman 2-1请求降落许可。
+DictKey_subtitle_,1108,DictKey_subtitle_1108,"AL DHAFRA TOWER:  Gunman 2-1, you are cleared for landing runway 31R.\",迪哈夫拉塔台：Gunman 2-1，允许降落31右跑道。
+DictKey_subtitle_,1548,DictKey_subtitle_1548,NEWARK 1-1:  Tower Newark flight requesting permission to takeoff.\,NEWARK 1-1：塔台，Newark编队请求起飞许可。
+DictKey_subtitle_,1550,DictKey_subtitle_1550,AL DHAFRA TOWER:  Newark you are cleared for takeoff runway 13L.\,迪哈夫拉塔台：Newark，允许从13左跑道起飞。
+DictKey_subtitle_,1552,DictKey_subtitle_1552,"MEMPHIS 1-1:  Tower Memphis requesting permission to takeoff.\
+\",MEMPHIS 1-1：塔台，Memphis请求起飞许可。
+DictKey_subtitle_,1554,DictKey_subtitle_1554,AL DHAFRA TOWER:  Memphis you are cleared for takeoff runway 13L.\,迪哈夫拉塔台：Memphis，允许从13左跑道起飞。
+DictKey_subtitle_,1558,DictKey_subtitle_1558,DAVY:  Gunman 1-1 to Gunman 2-1 comms check over.\,DAVY：Gunman 1-1呼叫Gunman 2-1，通讯检查完毕。
+DictKey_subtitle_,1560,DictKey_subtitle_1560,PLAYER:  Gunman 2-1 read you Lima Charlie.,玩家：Gunman 2-1收到，信号清晰。
+DictKey_subtitle_,1562,DictKey_subtitle_1562,PLAYER:  Copy.,玩家：明白。
+DictKey_subtitle_,1564,DictKey_subtitle_1564,"DAVY:  Copy Gunman 2-1.  Let me know when you’re ready for taxi, we’ll be departing as a formation.",DAVY：明白，Gunman 2-1。准备好滑行时通知我，我们将以编队起飞。
+DictKey_subtitle_,1579,DictKey_subtitle_1579,DAVY:  Gunman 1-1 to Gunman 2-1 comms check over.,DAVY：Gunman 1-1呼叫Gunman 2-1，通讯检查完毕。
+DictKey_subtitle_,1582,DictKey_subtitle_1582,"DAVY:  Copy Gunman 2-1.  Let me know when you’re ready for taxi, we’ll be departing as a formation.",DAVY：明白，Gunman 2-1。准备好滑行时通知我，我们将以编队起飞。
+DictKey_subtitle_,1585,DictKey_subtitle_1585,DAVY:  Tower Gunman flight ready for taxi.\,DAVY：塔台，Gunman编队准备滑行。
+DictKey_subtitle_,1587,DictKey_subtitle_1587,"AL DHAFRA TOWER:  Gunman you are cleared to taxi to runway 13L, follow Alpha then left turn for Foxtrot.\
+\",迪哈夫拉塔台：Gunman，允许滑行至13左跑道，沿A滑行道，然后左转进入F。
+DictKey_subtitle_,1589,DictKey_subtitle_1589,"DAVY:  Alpha then Foxtrot, Gunman 1-1.\
+\",DAVY：A滑行道然后F滑行道，Gunman 1-1。
+DictKey_subtitle_,1591,DictKey_subtitle_1591,PLAYER:  Gunman 2-1 ready for taxi.\,玩家：Gunman 2-1准备滑行。
+DictKey_subtitle_,1595,DictKey_subtitle_1595,"DAVY:  Ok flight let's roll, you’re on me.  Gunman 2-1 bring up the rear, we’ll collect you on the way past.\
+\",DAVY：好的，编队开始滑行，跟着我。Gunman 2-1跟在最后，在我们经过你时跟上来。
+DictKey_subtitle_,1597,DictKey_subtitle_1597,DAVY:  OK listen up Gunman flight...today is the real deal and this is the first time most of you are going into harm’s way.\,DAVY：好的，注意听Gunman编队……今天是实战任务，这是你们大多数人第一次进入危险区域。
+DictKey_subtitle_,1599,DictKey_subtitle_1599,DAVY:   Keep calm and keep your heads and don't make mistakes.  I want to be counting all seven of you back down in a few hours time.\,DAVY：保持冷静，保持清醒，不要犯错。我希望在几个小时后看到你们七个人都活着回来。
+DictKey_subtitle_,1601,DictKey_subtitle_1601,DAVY:  Once airborne we will head direct for WP1 angels 5.  I want all countermeasures and weapons set by the time we reach WP2.,"DAVY：起飞后，我们将直接前往航路点1，高度5,000英尺。我希望在到达航路点2时，所有对抗措施和武器都已准备就绪。"
+DictKey_subtitle_,1603,DictKey_subtitle_1603,"DAVY:  This is going to be another historic day for the Flying Tigers, Desert Storm was 20 years ago and it’s about time we remind the world what the Warthog can do.  Let's get out there and get the job done! \",DAVY：这将是我们飞虎队（第74战斗机中队的绰号，承袭自二战援亚的美籍志愿大队）的又一个历史性时刻。沙漠风暴已经是20年前的事了，是时候让世界重新认识疣猪攻击机的能力了。出发，该我们上场了！
+DictKey_subtitle_,1609,DictKey_subtitle_1609,"DAVY:  Tower Gunman flight requesting takeoff.\
+\",DAVY：塔台，Gunman编队请求起飞。
+DictKey_subtitle_,1611,DictKey_subtitle_1611,AL DHAFRA TOWER:  Gunman you are cleared for immediate takeoff runway 13L.\,迪哈夫拉塔台：Gunman，允许立即从13左跑道起飞。
+DictKey_subtitle_,1616,DictKey_subtitle_1616,"DAVY:  Gunman 1-1 to Gunman 2-1, what's your status?\",DAVY：Gunman 1-1呼叫Gunman 2-1，你的状态如何？
+DictKey_subtitle_,1618,DictKey_subtitle_1618,"DAVY:  Gunman 3-1, status?\",DAVY：Gunman 3-1，状态如何？
+DictKey_subtitle_,1620,DictKey_subtitle_1620,"MONO:  Gunman 3 good to go.\
+\
+\",MONO：Gunman 3准备就绪。
+DictKey_subtitle_,1622,DictKey_subtitle_1622,"DAVY:  Gunman flight push to WP2, angels 15.  Switch VHF AM to Overlord.\","DAVY：Gunman编队前往航路点2，高度15,000英尺。切换VHF AM到Overlord。"
+DictKey_subtitle_,1624,DictKey_subtitle_1624,"PLAYER:  Gunman 1-1, Gunman 2 all present and correct.\
+\",玩家：Gunman 1-1，Gunman 2全员到位，一切正常。
+DictKey_subtitle_,1637,DictKey_subtitle_1637,"DAVY:  Overlord, Gunman in play.\",DAVY：Overlord，Gunman进入任务区域。
+DictKey_subtitle_,1639,DictKey_subtitle_1639,"DAVY:  Gunman 1-1, copy Overlord. \",DAVY：Gunman 1-1，收到Overlord。
+DictKey_subtitle_,1641,DictKey_subtitle_1641,"OVERLORD:  Copy Gunman proceed as fragged.  Picture is clean.\
+\
+\",OVERLORD：收到Gunman，按计划执行。空域安全。
+DictKey_subtitle_,1645,DictKey_subtitle_1645,"OVERLORD:  This is Overlord, calling Nevada.",OVERLORD：这里是Overlord，Nevada。
+DictKey_subtitle_,1647,DictKey_subtitle_1647,"OVERLORD:  This is Overlord...Florida, say again Florida.\",OVERLORD：这里是Overlord……Florida，重复，Florida。
+DictKey_subtitle_,1649,DictKey_subtitle_1649,"OVERLORD:  All flights proceed as fragged, picture remains clean.  \",OVERLORD：所有编队按计划执行，空域仍安全。
+DictKey_subtitle_,1651,DictKey_subtitle_1651,"DAVY:  Gunman flight continue on, check in at WP 4.  \
+\",DAVY：Gunman编队继续前进，在航路点4报到。
+DictKey_subtitle_,1653,DictKey_subtitle_1653,"GUNMAN 3-1:  Copy, Gunman 3-1.\",GUNMAN 3-1：明白，Gunman 3-1。
+DictKey_subtitle_,1655,DictKey_subtitle_1655,"PLAYER:  Gunman 2-1 copy.\
+\
+\",玩家：Gunman 2-1收到。
+DictKey_subtitle_,1887,DictKey_subtitle_1887,DAVY:  Gunman 1-1 to Gunman flights.\,DAVY：Gunman 1-1，呼叫所有Gunman编队。
+DictKey_subtitle_,1889,DictKey_subtitle_1889,"DAVY:  We’re approaching WP4, I’m taking my flight down to sea level.  Proceed on your flight plans and hit the targets as fragged.  Clear your attack through Whiplash before proceeding.",DAVY：我们正在接近航路点4，我将带领我的编队下降到海平面。按照你的飞行计划执行任务，按计划打击目标。发动打击前，通过Whiplash获准攻击。
+DictKey_subtitle_,1891,DictKey_subtitle_1891,"DAVY:  Good luck Gunman 2, see you back at the Big D.\",DAVY：祝好运，Gunman 2，回到迪哈夫拉再见。
+DictKey_subtitle_,1893,DictKey_subtitle_1893,PLAYER:  Go ahead 1-1.\,玩家：请讲，1-1。
+DictKey_subtitle_,1895,DictKey_subtitle_1895,PLAYER:  2-1 Copy.\,玩家：2-1收到。
+DictKey_subtitle_,1897,DictKey_subtitle_1897,MONO:  Standing by.\,MONO：待命中。
+DictKey_subtitle_,1899,DictKey_subtitle_1899,"MONO:  Copy lead.\
+\",MONO：收到，领队。
+DictKey_subtitle_,1906,DictKey_subtitle_1906,"DAVY:  Whiplash, Gunman 1-1 inbound on Fenway.\",DAVY：Whiplash，Gunman 1-1正在接近Fenway。
+DictKey_subtitle_,1908,DictKey_subtitle_1908,DAVY:  Gunman 1-1\,DAVY：Gunman 1-1。
+DictKey_subtitle_,1910,DictKey_subtitle_1910,"WHIPLASH:  Copy Gunman 1-1, continue on mission.\
+\
+\",WHIPLASH：收到Gunman 1-1，继续执行任务。
+DictKey_subtitle_,1915,DictKey_subtitle_1915,"DAVY:  Whiplash, Gunman 1-1 solid kill on Fenway, solid kill Fenway.\",DAVY：Whiplash，Gunman 1-1，Fenway目标命中，确认摧毁。
+DictKey_subtitle_,1917,DictKey_subtitle_1917,"DAVY:  First pass took down 4 targets but we’ve still got intact launchers down there we’re going to position for a re-attack.\
+\",DAVY：首次攻击摧毁了4个目标，但还有发射车完好。我们打算重新定位，再次攻击。
+DictKey_subtitle_,1919,DictKey_subtitle_1919,"DAVY:  This is Gunman 1, taking heavy AAA over the target, we’re bugging out.\",DAVY：这里是Gunman 1，在目标区域遭遇猛烈防空炮火，我们正在撤离。
+DictKey_subtitle_,1921,DictKey_subtitle_1921,"DAVY:  Overlord, Gunman 1-1 RTB.  \
+\",DAVY：Overlord，Gunman 1-1返航。
+DictKey_subtitle_,1923,DictKey_subtitle_1923,OVERLORD:  Copy Gunman 1-1.\,OVERLORD：收到，Gunman 1-1。
+DictKey_subtitle_,1925,DictKey_subtitle_1925,"WHIPLASH:  Copy Gunman 1-1, Fenway down.\",WHIPLASH：收到，Gunman 1-1，Fenway已被摧毁。
+DictKey_subtitle_,1927,DictKey_subtitle_1927,"DAVY:  SAM launch, Gunman 1 defending.\",DAVY：地空导弹发射，Gunman 1防御。
+DictKey_subtitle_,1929,DictKey_subtitle_1929,"DAVY:  Another SAM, going evasive.\",DAVY：第二枚导弹，规避。
+DictKey_subtitle_,1931,DictKey_subtitle_1931,"DAVY:  SAM launch, breaking...this shit is getting heavy.\",DAVY：导弹发射，正在规避……该死的，越来越糟了。
+DictKey_subtitle_,1933,DictKey_subtitle_1933,"MONO:  Gunman 3 in on Wrigley.\
+\",MONO：Gunman 3正在接近Wrigley。
+DictKey_subtitle_,1935,DictKey_subtitle_1935,"MONO:  This is Gunman 3-1.  Wrigley came up dry, nothing here.  3-2 has developed an aircraft issue so we’re RTB.\",MONO：这里是Gunman 3-1。Wrigley没有发现目标，什么都没有。3-2出现了飞机故障，我们正在返航。
+DictKey_subtitle_,1937,DictKey_subtitle_1937,WHIPLASH:  Copy Gunman 3 you are clear to proceed.\,WHIPLASH：收到Gunman 3，可以继续返航。
+DictKey_subtitle_,1945,DictKey_subtitle_1945,PLAYER:  Whiplash this is Gunman 2-1 inbound on Yankee.\,玩家：Whiplash，这里是Gunman 2-1，正在接近Yankee。
+DictKey_subtitle_,1947,DictKey_subtitle_1947,"WHIPLASH:  Copy Gunman 2-1, you are cleared to continue on planned strike.  We have a UAV monitoring the target and the Tor is still in it’s briefed location.  Those Migs also have support vehicles around them and looks like they’re still out of play.  \",WHIPLASH：收到Gunman 2-1，可以继续，按计划攻击。我们有一架无人机在监视目标，Tor仍在预定位置。那些米格战机周围还有支援车辆，看起来它们仍未投入使用。
+DictKey_subtitle_,1949,DictKey_subtitle_1949,"WHIPLASH:  However we have eyes on two truck mounted Zeus’s, one on the east of the island and a second just north of the runway centre.\",WHIPLASH：不过，我们发现了两辆卡车载的Zeus防空炮（ZU-23-2），一辆在岛的东侧，另一辆在跑道中心以北。
+DictKey_subtitle_,1951,DictKey_subtitle_1951,"PLAYER:  Copy Whiplash, two AAA threats east and centre of the island.\",玩家：收到Whiplash，两处防空炮威胁，分别在岛的东侧和中心。
+DictKey_subtitle_,1953,DictKey_subtitle_1953,"WHIPLASH:  Contact us once your attack is completed, our JTAC we may have something more for you.\",WHIPLASH：攻击完成后与我们联系，我们的JTAC（前线空中管制）可能还有其他任务给你。
+DictKey_subtitle_,1958,DictKey_subtitle_1958,"CONDOR 3:  Whiplash, this is is Condor 3.\
+\",CONDOR 3：Whiplash，这里是Condor 3。
+DictKey_subtitle_,1960,DictKey_subtitle_1960,WHIPLASH:  Go ahead Condor 3.\,WHIPLASH：请讲，Condor 3。
+DictKey_subtitle_,1962,DictKey_subtitle_1962,"CONDOR 3:  That Hip is on the move again, eastern LZ heading back to sea.\",CONDOR 3：那架河马（Mi-8直升机）又开始移动了，正从东部降落区向海上返回。
+DictKey_subtitle_,1964,DictKey_subtitle_1964,"WHIPLASH:  Copy Condor 3, thanks for the update.\",WHIPLASH：收到，Condor 3，谢谢更新。
+DictKey_subtitle_,1966,DictKey_subtitle_1966,WHIPLASH:  Gunman 2-1 did you copy Condor three’s last?\,WHIPLASH：Gunman 2-1，你收到Condor 3刚才的消息了吗？
+DictKey_subtitle_,1968,DictKey_subtitle_1968,"PLAYER:  Solid copy Whiplash.  \
+\",玩家：收到，Whiplash。
+DictKey_subtitle_,1970,DictKey_subtitle_1970,"WHIPLASH:  Iranians have a cargo ship off shore, they’re ferrying supplies into the airfield as we speak.  Ignore them for now Gunman 2-1, we’ll deal with them soon enough.\",WHIPLASH：伊朗人在近海有一艘货船，他们正在向机场运送补给。暂时忽略他们，Gunman 2-1，我们很快会处理。
+DictKey_subtitle_,2024,DictKey_subtitle_2024,"PLAYER:  Whiplash, Gunman 2-1.  Attack complete.\
+\",玩家：Whiplash，Gunman 2-1。攻击完成。
+DictKey_subtitle_,2026,DictKey_subtitle_2026,WHIPLASH:  Copy Gunman 2-1.  Standby for BDA….\,WHIPLASH：收到，Gunman 2-1。等待战损评估（BDA）……
+DictKey_subtitle_,2032,DictKey_subtitle_2032,"WHIPLASH:  Gunman 2-1 targets destroyed, neither the Tors or Fishbeds will be a threat anymore.",WHIPLASH：Gunman 2-1，目标已摧毁，Tor系统和米格战机不再构成威胁。
+DictKey_subtitle_,2034,DictKey_subtitle_2034,"WHIPLASH:  Gunman 2-1, the eastern Tor is still a threat, get in there and finish the job.",WHIPLASH：Gunman 2-1，东部的Tor系统仍具威胁，继续完成任务。
+DictKey_subtitle_,2036,DictKey_subtitle_2036,"WHIPLASH:  Gunman 2-1, the western Tor is still a threat, get in there and finish the job.\",WHIPLASH：Gunman 2-1，东部的Tor系统仍具威胁，继续完成任务。
+DictKey_subtitle_,2038,DictKey_subtitle_2038,"WHIPLASH:  Gunman 2-1, you’ve not put both Migs out of action yet.\",WHIPLASH：Gunman 2-1，你还没有瘫痪那两架米格战机。
+DictKey_subtitle_,2049,DictKey_subtitle_2049,"WHIPLASH:  Gunman 2-1, both the SA-15s are still in action!",WHIPLASH：Gunman 2-1，两部SA-15导弹系统仍在运作！
+DictKey_subtitle_,2053,DictKey_subtitle_2053,"WHIPLASH:  Gunman 2-1, we’ve been observing the Iranians are constructing an EWR site on the airfield, what do you say to putting it out of action? \",WHIPLASH：Gunman 2-1，我们侦察到伊朗人在机场上正在建设一个预警雷达站（EWR），能否瘫痪掉它？
+DictKey_subtitle_,2055,DictKey_subtitle_2055,"PLAYER:  Copy Whiplash, I say let's bring the pain.\",玩家：收到，Whiplash，没问题，我们确实该给他们点颜色看看。
+DictKey_subtitle_,2057,DictKey_subtitle_2057,"WHIPLASH:  Ok then Gunman 2-1, standby for further instructions.  \",WHIPLASH：好的，Gunman 2-1，等待进一步指示。
+DictKey_subtitle_,2059,DictKey_subtitle_2059,"STRIKER 1-1:  Whiplash, Striker 1-1 has target acquired.\
+\",STRIKER 1-1：Whiplash，Striker 1-1已锁定目标。
+DictKey_subtitle_,2062,DictKey_subtitle_2062,WHIPLASH:  Striker 1-1 you are cleared to engage.\,WHIPLASH：Striker 1-1，允许攻击。
+DictKey_subtitle_,2064,DictKey_subtitle_2064,"STRIKER 1-1:  Copy Whiplash, Striker 1-1 rifle 2.\",STRIKER 1-1：收到，Whiplash，Striker 1-1，空地导弹两枚，发射。
+DictKey_subtitle_,2066,DictKey_subtitle_2066,"WHIPLASH:  Gunman 2-1 before we get to that radar I need you to pull back to the south of the island angels 12.\
+\","WHIPLASH：Gunman 2-1，在我们攻击那个雷达之前，我需要你撤回到岛屿南部，高度12,000英尺。"
+DictKey_subtitle_,2068,DictKey_subtitle_2068,"WHIPLASH:  You’re going to see some fireworks to the NE of the island, the navy is taking care of that ship.\",WHIPLASH：你会看到岛屿东北方向有火光，海军正在处理那艘船。
+DictKey_subtitle_,2070,DictKey_subtitle_2070,STRIKER 1-1:  2 miles out.\,STRIKER 1-1：距离2英里。
+DictKey_subtitle_,2072,DictKey_subtitle_2072,"CONDOR 3:  Good hit, good hit.  She’s on fire, I think she’s done for.\",CONDOR 3：命中，确认命中。它着火了，我觉得它完蛋了。
+DictKey_subtitle_,2074,DictKey_subtitle_2074,WHIPLASH:  Good work Striker 1-1 you may depart.\,WHIPLASH：干得好，Striker 1-1，你可以离场。
+DictKey_subtitle_,2076,DictKey_subtitle_2076,"STRIKER 1-1:  Copy, Striker 1-1 RTB.\",STRIKER 1-1：收到，Striker 1-1返航。
+DictKey_subtitle_,2078,DictKey_subtitle_2078,"CONDOR 3:  Woah, we’ve got big secondaries on that ship...she must’ve been packed full of ammo.\",CONDOR 3：哇，那艘船发生了剧烈的二次爆炸……它一定装满了弹药。
+DictKey_subtitle_,2080,DictKey_subtitle_2080,"WHIPLASH:  Gunman 2-1 lets deal with that radar and then get you out of there.  I'm gonna pass you off to Condor 3, they will talk you onto the target.  \",WHIPLASH：Gunman 2-1，解决那个雷达，然后离场。我会把你交给Condor 3，他们会引导你攻击目标。
+DictKey_subtitle_,2082,DictKey_subtitle_2082,"WHIPLASH:  Condor is on VHF FM 30.7, make contact and engage the target.  Whiplash out.\",WHIPLASH：Condor在VHF FM 30.7频率上，联系他们并攻击目标。Whiplash完毕。
+DictKey_subtitle_,2090,DictKey_subtitle_2090,"PLAYER:  Gunman 2-1 to Condor 3, we’re ready to engage that radar site.\",玩家：Gunman 2-1呼叫Condor 3，我们准备攻击那个雷达站。
+DictKey_subtitle_,2092,DictKey_subtitle_2092,"CONDOR 3:  Copy Gunman 2-1, the target is a Russian built P19 radar.  It’s at the end of a dirt track and the only dish on the island.  Do you need a talk on to locate?\",CONDOR 3：收到，Gunman 2-1，目标是俄制P19雷达。它位于一条土路的尽头，是岛上唯一的雷达天线。你需要口述引导吗？
+DictKey_subtitle_,2119,DictKey_subtitle_2119,"PLAYER:  Negative Condor, I have tally.\
+\",玩家：不用了，Condor，我已目视目标。
+DictKey_subtitle_,2121,DictKey_subtitle_2121,"PLAYER:  Affirmative Condor, I’ve yet to acquire visual.\",玩家：需要，Condor，我还没找到它。
+DictKey_subtitle_,2123,DictKey_subtitle_2123,"CONDOR 3:  OK locate the east end of the runway, you should see the number 26.\",CONDOR 3：好的，找到跑道的东端，你应该能看到编号26。
+DictKey_subtitle_,2129,DictKey_subtitle_2129,"PLAYER:  Ok I have it.\
+\
+\",玩家：好的，我看到了。
+DictKey_subtitle_,2131,DictKey_subtitle_2131,PLAYER:  Tally target.\,玩家：目视目标。
+DictKey_subtitle_,2133,DictKey_subtitle_2133,"CONDOR 3:  Now move along the runway until you see the two thick lines, your target is 500 feet north.\",CONDOR 3：现在沿着跑道移动，直到看到两条粗线，你的目标在北面500英尺处。
+DictKey_subtitle_,2135,DictKey_subtitle_2135,"CONDOR 3:  Ok Gunman 2-1, type 3 control is in effect.  I want you to circle the island and use the northern tip as your IP.\",CONDOR 3：好的，Gunman 2-1，执行三类管制。我希望你绕岛飞行，并以北端作为你的起始点。
+DictKey_subtitle_,2139,DictKey_subtitle_2139,CONDOR 3:  Attack heading 179.  Recommend standoff attack with guns or maverick.\,CONDOR 3：攻击航向179。建议使用机炮或小牛导弹进行远程攻击。
+DictKey_subtitle_,2141,DictKey_subtitle_2141,"CONDOR 3:  Those Zeus’s are located 5000 feet west and 2500 feet south east of the target so avoid overflying the target and egress on 045.\
+\","CONDOR 3：那些Zeus防空系统位于目标西5,000英尺和东南2,500英尺处，因此避免飞越目标，脱离航向045。"
+DictKey_subtitle_,2143,DictKey_subtitle_2143,CONDOR 3:  You are cleared hot.\,CONDOR 3：允许攻击。
+DictKey_subtitle_,2150,DictKey_subtitle_2150,"PLAYER:  Condor 3, attack complete.\",玩家：Condor 3，攻击完成。
+DictKey_subtitle_,2152,DictKey_subtitle_2152,"PLAYER:  Copy Condor 3, switching to Whiplash.\",玩家：收到，Condor 3，切换到Whiplash。
+DictKey_subtitle_,2154,DictKey_subtitle_2154,"CONDOR 3:  Good work Gunman 2-1, your work here is done.  Handing you back to Whiplash.\
+\
+\",CONDOR 3：干得好，Gunman 2-1，你的任务完成了。我将你交回给Whiplash。
+DictKey_subtitle_,2164,DictKey_subtitle_2164,"PLAYER:  Whiplash, Gunman 2-1 is RTB at this time.\
+\",玩家：Whiplash，Gunman 2-1正在返航。
+DictKey_subtitle_,2166,DictKey_subtitle_2166,"WHIPLASH:  Copy Gunman 2-1, good work.  You are cleared to depart, switch back to Overlord.\",WHIPLASH：收到，Gunman 2-1，干得好。允许离开，切回Overlord。
+DictKey_subtitle_,2181,DictKey_subtitle_2181,"PLAYER:  Overlord, Gunman 2-1 egressing Yankee and heading home.\
+\",玩家：Overlord，Gunman 2-1正在撤出Yankee，返航中。
+DictKey_subtitle_,2183,DictKey_subtitle_2183,OVERLORD:  Overlord copies Gunman 2-1. \,OVERLORD：收到，Gunman 2-1。
+DictKey_subtitle_,2338,DictKey_subtitle_2338,"PLAYER:  Condor 3, Gunman 2-1.  We are unable to follow through on that radar we are RTB.\",玩家：Condor 3，Gunman 2-1。我们无法继续攻击那个雷达，正在返航。
+DictKey_subtitle_,2340,DictKey_subtitle_2340,,
+DictKey_subtitle_,2342,DictKey_subtitle_2342,CONDOR 3:  Copy Gunman 2-1.  Looks like we’ll have to drum up some more support.  Handing you back to Whiplash.\,CONDOR 3：收到，Gunman 2-1。看来我们需要更多支援。我将你交回给Whiplash。
+DictKey_subtitle_,2353,DictKey_subtitle_2353,DAVY:  Gunman 1-1 to Gunman 2-1.  Report status.\,DAVY：Gunman 1-1呼叫Gunman 2-1。报告状态。
+DictKey_subtitle_,2356,DictKey_subtitle_2356,DAVY:  Outstanding work Gunman 2-1.\,DAVY：干得出色，Gunman 2-1。
+DictKey_subtitle_,2358,DictKey_subtitle_2358,"DAVY:  Copy 2-1, at least you got the primary mission done, someone else will have that radar down before we know it.\
+\",DAVY：收到，2-1，至少你完成了主要任务。其他人会解决掉那个雷达，我们很快会得知结果的。
+DictKey_subtitle_,2360,DictKey_subtitle_2360,DAVY:  How are you for fuel Gunman 2-1.\,DAVY：Gunman 2-1，你的燃油情况怎么样？
+DictKey_subtitle_,2362,DictKey_subtitle_2362,"DAVY:  Ok 2-1, get yourself back to Al Dhafra, I’ll see you on the ground.  Gunman 1-1 out.\",DAVY：好的，2-1，返回迪哈夫拉，一会地面见。Gunman 1-1完毕。
+DictKey_subtitle_,2364,DictKey_subtitle_2364,"DAVY:  Ok 2-1, in that case I want you to divert to Al Minhad.  I’ll make sure they’re expecting you.\",DAVY：好的，2-1，那样的话，我建议你备降至艾尔明翰。我会通知他们做好接应准备。
+DictKey_subtitle_,2366,DictKey_subtitle_2366,"PLAYER:  Gunman 2-1 is RTB at this time, all primary targets destroyed and we also bagged a new radar site before it went active.\
+\",玩家：Gunman 2-1，正在返航，所有主要目标已摧毁，我们还摧毁了一个尚未启用的新雷达站。
+DictKey_subtitle_,2368,DictKey_subtitle_2368,"PLAYER:  Gunman 2-1 is RTB at this time, all primary targets destroyed, we were also tasked with a new radar site by JTAC but we came up short.\",玩家：Gunman 2-1，正在返航，所有主要目标已摧毁，JTAC（联合终端攻击管制员）还指派了一个新的攻击雷达站任务，但我们未能完成。
+DictKey_subtitle_,2370,DictKey_subtitle_2370,"PLAYER:  Fuel is good, I’ve plenty for the journey back.\",玩家：燃油充足，足够返航。
+DictKey_subtitle_,2372,DictKey_subtitle_2372,"PLAYER:  Fuel is looking a little low, not sure I’ll make it back to Al Dhafra.\",玩家：燃油不太够了，不确定能否返回迪哈夫拉。
+DictKey_subtitle_,2401,DictKey_subtitle_2401,PLAYER:  Al Minhad tower this is Gunman 2-1.  I’m low on fuel and diverting from Al Dhafra.  Request permission to land.\,玩家：艾尔明翰塔台，这里是Gunman 2-1。我燃油不足，从迪哈夫拉备降。请求降落许可。
+DictKey_subtitle_,2403,DictKey_subtitle_2403,AL MINHAD TOWER:  Gunman 2-1 you are cleared for immediate landing runway 09.\,艾尔明翰塔台：Gunman 2-1，允许立即降落，跑道09。
+DictKey_subtitle_,2409,DictKey_subtitle_2409,"DARKSTAR:  Gunman 2-1, this is Darkstar.  Picture is clean at this time.\
+\
+\",DARKSTAR：Gunman 2-1，这里是Darkstar。目前空域安全。
+DictKey_subtitle_,2411,DictKey_subtitle_2411,"DARKSTAR:  Gunman 2-1, Darkstar.  Picture is clean.\",DARKSTAR：Gunman 2-1，这里是Darkstar。空域安全。
+DictKey_subtitle_,2445,DictKey_subtitle_2445,,
+DictKey_subtitle_,2534,DictKey_subtitle_2534,,
+DictKey_subtitle_,2536,DictKey_subtitle_2536,,
+DictKey_subtitle_,2538,DictKey_subtitle_2538,,
+DictKey_subtitle_,2540,DictKey_subtitle_2540,,
+DictKey_subtitle_,2542,DictKey_subtitle_2542,,
+DictKey_subtitle_,2544,DictKey_subtitle_2544,,
+DictKey_subtitle_,2546,DictKey_subtitle_2546,,
+DictKey_subtitle_,2548,DictKey_subtitle_2548,,
+DictKey_subtitle_,2550,DictKey_subtitle_2550,,
+DictKey_subtitle_,2552,DictKey_subtitle_2552,,
+DictKey_subtitle_,2554,DictKey_subtitle_2554,,
+DictKey_subtitle_,2556,DictKey_subtitle_2556,,
+DictKey_subtitle_,2561,DictKey_subtitle_2561,,
+DictKey_subtitle_,2563,DictKey_subtitle_2563,,
+DictKey_subtitle_,2565,DictKey_subtitle_2565,,
+DictKey_subtitle_,2567,DictKey_subtitle_2567,,
+DictKey_subtitle_,2585,DictKey_subtitle_2585,"OVERLORD:  Gunman 2-1, Darkstar is tracking a pair of bandits attempting to slip across the straits.\",OVERLORD：Gunman 2-1，Darkstar正在跟踪2架试图穿越海峡的敌机。
+DictKey_subtitle_,2587,DictKey_subtitle_2587,"OVERLORD:   Colt is moving to intercept, they shouldn’t pose a threat to you but be prepared to react if the situation changes.  Switch to monitor Darkstar on 141.8.  \
+\",OVERLORD：Colt正在前往拦截，他们不会对你构成威胁，但如果情况有变，做好反应准备。切换到141.8监控Darkstar。
+DictKey_subtitle_,2589,DictKey_subtitle_2589,"DARKSTAR:  Colt, Darkstar, bandit, BRA 020 for 90.  Angels 22, hot.\",DARKSTAR：Colt，这里是Darkstar，敌机，方位020，距离90，高度22000英尺，迎头。
+DictKey_subtitle_,2591,DictKey_subtitle_2591,"PLAYER:  Copy Overlord, switching to Darkstar\",玩家：收到，Overlord，切换到Darkstar。
+DictKey_subtitle_,2603,DictKey_subtitle_2603,"DARKSTAR:  Colt, Darkstar, bandit, BRA 020 for 60.  Angels 22, hot.\",DARKSTAR：Colt，这里是Darkstar，敌机，方位020，距离60，高度22000英尺，迎头。
+DictKey_subtitle_,2605,DictKey_subtitle_2605,"DARKSTAR:  Colt, Darkstar, bandit, BRA 020 for 30.  Angels 22, hot.\",DARKSTAR：Colt，这里是Darkstar，敌机，方位020，距离30，高度22000英尺，迎头。
+DictKey_subtitle_,2618,DictKey_subtitle_2618,,
+DictKey_subtitle_,2620,DictKey_subtitle_2620,,
+DictKey_subtitle_,2622,DictKey_subtitle_2622,,
+DictKey_subtitle_,2624,DictKey_subtitle_2624,,
+DictKey_subtitle_,2629,DictKey_subtitle_2629,"GUNMAN 1-1:  Gunman 2-1, Darkstar is tracking a pair of bandits attempting to slip across the straits.",GUNMAN 1-1：Gunman 2-1，Darkstar正在跟踪2架试图穿越海峡的敌机。
+DictKey_subtitle_,2632,DictKey_subtitle_2632,"GUNMAN 1-1:   Colt is moving to intercept, they shouldn’t pose a threat to you but be prepared to react if the situation changes.  Switch to monitor Darkstar on 141.8.",OVERLORD：Colt正在前往拦截，他们不会对你构成威胁，但如果情况有变，做好反应准备。切换到141.8监控Darkstar。
+DictKey_subtitle_,2646,DictKey_subtitle_2646,MONO:  So Steep did you find the target range ok on your last flight?\,MONO：Steep，你上次任务中找到靶场了吗？
+DictKey_subtitle_,2648,DictKey_subtitle_2648,"MONO:  You got that right, you know I used to fly the alpha model, it’s amazing the difference the avionics upgrades make to how accurate we can be…\",MONO：说得没错。我跟你说，我以前飞的是A型。升级了新航电后，打击精度比起曾经，简直就是两种飞机。
+DictKey_subtitle_,2650,DictKey_subtitle_2650,MONO:  ...and we used to be pretty darn accurate in that.\,MONO：……虽说……我们以前其实也打的挺准的。
+DictKey_subtitle_,2652,DictKey_subtitle_2652,MONO:  Hey boss you remember how we used to use the Mav as a FLIR before we had the Litening pod?\,MONO：嘿，长官，你还记得在我们有Litening吊舱以前，是怎么拿小牛导弹当红外成像（FLIR）用的吗？
+DictKey_subtitle_,2654,DictKey_subtitle_2654,"MONO:  I don’t miss that one bit, it’s amazing we used to hit anything!\",MONO：那段日子我一点都不怀念，我们用那玩意居然还能命中目标，真是个奇迹。
+DictKey_subtitle_,2656,DictKey_subtitle_2656,"MONO:  Well Steep I certainly think you lucked out getting a Hog squadron for your assignment, I for one like going to war in a Titanium bathtub.\",MONO：Steep，我觉得你被分派到我们这开疣猪是很幸运的。我个人非常享受坐在钛合金浴缸里上战场的感觉。
+DictKey_subtitle_,2658,DictKey_subtitle_2658,"MONO:  This plane can take a lot of punishment and still limp home, when it comes to combat the Hog is the place to be.\
+\",MONO：这架飞机在遭受巨量攻击后仍能勉强返航。要论对地作战，疣猪永远是最合适的。
+DictKey_subtitle_,2660,DictKey_subtitle_2660,"PLAYER:  Yeah, the nav systems on this aircraft are something else.   And this airplane is a hell of a weapons delivery platform as well.\",玩家：找到了。这架飞机的导航确实挺独特的。而且这飞机还是个极好的武器投放平台。
+DictKey_subtitle_,2662,DictKey_subtitle_2662,,
+DictKey_subtitle_,2664,DictKey_subtitle_2664,"DAVY:  Christ mono I really do.\
+\
+\
+\
+\
+\",DAVY：草（一种植物），Mono，别提了，我可记的太清楚了。
+DictKey_subtitle_,2684,DictKey_subtitle_2684,PLAYER:  Lead can we review the threats we’re facing again?\,玩家：领队，能再给我们讲讲要应对的威胁吗？
+DictKey_subtitle_,2686,DictKey_subtitle_2686,PLAYER:  2-1 copy.\,玩家：2-1收到。
+DictKey_subtitle_,2689,DictKey_subtitle_2689,MONO:  Davy I still think you’re crazy going head on with an SA-6 without proper SEAD.\,MONO：Davy，我还是觉得你在没有适当SEAD（防空压制）的情况下，就正面冲SA-6阵地，太疯狂了。
+DictKey_subtitle_,2691,DictKey_subtitle_2691,"MONO:  Sitting duck though if you get it wrong…\
+\
+\
+\
+\",MONO：如果出了差错，你就是活靶子……
+DictKey_subtitle_,2693,DictKey_subtitle_2693,"DAVY:  Copy 2-1, Fenway is protected by an SA-6 SAM system.  My flight will deal with this, Gunman 2 and 3 you will bypass it on the way to your targets.\",DAVY：收到，2-1，第一个目标Fenway由SA-6防空导弹系统保护。我的编队会处理这个，Gunman 2和3，你们在前往目标的路上绕过它。
+DictKey_subtitle_,2695,DictKey_subtitle_2695,"DAVY:  That’s why we’re going in low, we’ll handle it.\",DAVY：我知道，所以我们会低空进场。没事，我们会解决掉它的。
+DictKey_subtitle_,2697,DictKey_subtitle_2697,"DAVY:  2-1 your target is protected by an SA-15, this is a very dangerous system if you get close to it, but the good news is that it’s very limited in range.\",DAVY：2-1，你的目标由SA-15保护。如果靠得太近，它相当危险，但好在它射程很短。
+DictKey_subtitle_,2699,DictKey_subtitle_2699,DAVY:  The max engagement range of the Gauntlet is about the same as that of a Maverick so I would advise a standoff attack.\,DAVY：SA-15的最大交战距离和小牛导弹差不多，我建议你远程攻击。
+DictKey_subtitle_,2701,DictKey_subtitle_2701,"DAVY:  The limited missile range also means a lower engagement ceiling, we believe it’s somewhere in the angels 20-25 range, you might be able to go high and drop a GBU on it as well.\",DAVY：有限的射程，同时也意味着较低的射高，我觉得差不多在20000到25000英尺之间。所以你也可以尝试高空投放GBU。
+DictKey_subtitle_,2703,DictKey_subtitle_2703,"DAVY:  I would also expect MANPADs in the area as well, remember these are limited to very short range and a max ceiling of around angels 12...so stay high if you overfly the island.\","DAVY：此外，我觉得那个区域会有MANPADs（便携式防空导弹）。它们射程非常短，射高约12,000英尺……所以如果飞越岛屿，保持高空。"
+DictKey_subtitle_,2705,DictKey_subtitle_2705,"DAVY:  If you must get lower then keep dumping flares, I recommend you set a CMS programme to do this for you.\
+\",DAVY：如果你必须降低高度，那就不停投热诱，我建议你设一个CMS（对抗系统）程序专门干这个。
+DictKey_subtitle_,2707,DictKey_subtitle_2707,,
+DictKey_subtitle_,2711,DictKey_subtitle_2711,,
+DictKey_subtitle_,2713,DictKey_subtitle_2713,"PLAYER:  I’ve always loved that plane, when I was a kid I saw one at the air tattoo at RAF Waddington, 2001 I think...loved it ever since.\",玩家：我一直很喜欢那架飞机。小时候我在…，嗯…，应该是2001年沃丁顿的皇家国际航展上，见过一架……从那时起就一直很喜欢。
+DictKey_subtitle_,2719,DictKey_subtitle_2719,MONO:  Man those B1’s are really something when they take off.\,MONO：嘿，那些B1起飞时真壮观。
+DictKey_subtitle_,2724,DictKey_subtitle_2724,MONO:  You know we actually use it as a CAS platform.,MONO：实话讲，我们其实是把它当成CAS（近距离空中支援）平台用的。
+DictKey_subtitle_,2726,DictKey_subtitle_2726,"DAVY:  Probably scare the crap out of any enemy troops on the ground if it came over low.\
+\
+\",DAVY：这东西低空飞过，会把地面上的敌军吓坏的。
+DictKey_subtitle_,2728,DictKey_subtitle_2728,MONO:  Never be a match for the Hog though!\,MONO：不过还是永远比不上咱们的疣猪！
+DictKey_subtitle_,2740,DictKey_subtitle_2740,MONO:  Can’t get into tight areas like we can but it does the job.\,MONO：它不能像我们一样进入狭小区域，但它也能很好的完成它的任务。
+DictKey_subtitle_,2817,DictKey_subtitle_2817,"PLAYER:  That's odd, the SA-15 doesn't appear to be active.",玩家：奇怪，SA-15似乎没启动。
